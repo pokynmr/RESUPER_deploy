@@ -1,0 +1,11 @@
+********************************************
+              CYRANGE (v. 2.0)
+ 
+    Copyright (c) 2002-13 Peter Guntert.
+********************************************
+    PDB coordinate file "1MZK_three_clean.pdb" read, 20 rigid conformers.
+ 
+    Optimal range 177..221: RMSD 0.09 A, 0 gaps, 45 residues.
+    Optimal range 222..256: RMSD 0.09 A, 0 gaps, 35 residues.
+    Optimal range 257..298: RMSD 0.08 A, 0 gaps, 42 residues.
+ 

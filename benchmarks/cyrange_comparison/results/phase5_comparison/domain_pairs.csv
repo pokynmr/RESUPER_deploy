@@ -1,0 +1,46 @@
+pdb_id,method_a,method_b,status,domain_a,domain_b,ranges_a,ranges_b,n_res_a,n_res_b,n_shared,jaccard,category,rmsd_a,rmsd_b,gaps_a,gaps_b,delta_rmsd_a_minus_b,rmsd_shared_residues,rmsd_a_minus_shared,rmsd_b_minus_shared
+1CPZ,resuper_default,reference_mode,matched,1,1,2..68,2..68,67,67,67,1.0,identical,0.43,0.43,0,0,0.0,0.431,-0.0,-0.0
+1U3M,resuper_default,reference_mode,matched,1,1,"135..199, 212..241","135..199, 212..241",95,95,95,1.0,identical,0.72,0.72,1,1,0.0,0.722,-0.0,-0.0
+1VDY,resuper_default,reference_mode,matched,1,1,"9..102, 113..130","9..102, 113..130",112,112,112,1.0,identical,0.4,0.4,1,1,0.0,0.399,0.0,0.0
+1WQU,resuper_default,reference_mode,matched,1,1,8..109,8..109,102,102,102,1.0,identical,0.45,0.45,0,0,0.0,0.447,0.0,0.0
+1VEX,resuper_default,reference_mode,matched,1,1,614..666,614..666,53,53,53,1.0,identical,0.97,0.96,0,0,0.01,0.971,-0.0,-0.01
+1GM0,resuper_default,reference_mode,matched,1,1,8..142,8..142,135,135,135,1.0,identical,0.46,0.46,0,0,0.0,0.464,-0.0,-0.0
+1VEE,resuper_default,reference_mode,matched,1,1,6..125,6..125,120,120,120,1.0,identical,0.43,0.43,0,0,0.0,0.427,0.0,0.0
+1X02,resuper_default,reference_mode,matched,1,1,9..72,9..72,64,64,64,1.0,identical,0.41,0.41,0,0,0.0,0.411,-0.0,-0.0
+1X02,resuper_default,reference_mode,matched,2,2,86..146,86..146,61,61,61,1.0,identical,0.39,0.39,0,0,0.0,0.388,0.0,0.0
+2D21,resuper_default,reference_mode,matched,1,1,"3..110, 260..324","3..117, 126..228, 245..332",173,306,173,0.5654,partial,0.65,2.61,1,2,-1.96,0.654,-0.0,1.96
+2D21,resuper_default,reference_mode,matched,2,2,"116..117, 126..226, 247..258, 331..370","116..117, 126..226, 247..258, 331..370",155,155,155,1.0,identical,0.77,0.77,3,3,0.0,0.769,0.0,0.0
+1WKT,resuper_default,reference_mode,matched,1,1,"4..40, 46..88","4..40, 46..88",80,80,80,1.0,identical,0.7,0.69,1,1,0.01,0.697,0.0,-0.01
+2DWV,resuper_default,reference_mode,matched,1,1,"A14..A43, B14..B43","A14..A43, B14..B43",60,60,60,1.0,identical,0.36,0.36,1,1,0.0,0.363,-0.0,-0.0
+1A67,resuper_default,reference_mode,matched,1,1,"10..70, 82..84, 91..116","10..70, 82..84, 91..116",90,90,90,1.0,identical,1.18,1.17,2,2,0.01,1.18,0.0,-0.01
+1ADR,resuper_default,reference_mode,matched,1,1,6..64,6..64,59,59,59,1.0,identical,0.57,0.57,0,0,0.0,0.573,-0.0,-0.0
+1AEY,resuper_default,reference_mode,matched,1,1,"7..46, 50..61","7..46, 50..62",52,53,52,0.9811,strong,0.38,0.38,1,1,0.0,0.378,0.0,0.0
+1AIW,resuper_default,reference_mode,matched,1,1,4..61,3..62,58,60,58,0.9667,strong,0.83,0.86,0,0,-0.03,0.833,-0.0,0.03
+1BF8,resuper_default,reference_mode,matched,1,1,"2..92, 106..205","2..92, 106..205",191,191,191,1.0,identical,1.06,1.06,1,1,0.0,1.06,0.0,0.0
+1CFC,resuper_default,reference_mode,matched,1,1,"8..50, 61..73","8..50, 61..73",56,56,56,1.0,identical,0.19,0.19,1,1,0.0,0.193,-0.0,-0.0
+1CFC,resuper_default,reference_mode,matched,2,2,"82..93, 99..130, 134..146","82..93, 99..130, 134..146",57,57,57,1.0,identical,0.35,0.35,2,2,0.0,0.35,-0.0,-0.0
+1D1D,resuper_default,reference_mode,matched,1,1,"15..93, 100..145","15..93, 100..145",125,125,125,1.0,identical,0.67,0.67,1,1,0.0,0.666,0.0,0.0
+1D1D,resuper_default,reference_mode,matched,2,2,152..226,152..226,75,75,75,1.0,identical,0.4,0.4,0,0,0.0,0.398,0.0,0.0
+1LEB,resuper_default,reference_mode,matched,1,1,4..69,4..69,66,66,66,1.0,identical,0.94,0.94,0,0,0.0,0.945,-0.0,-0.0
+1PIT,resuper_default,reference_mode,matched,1,1,2..55,2..55,54,54,54,1.0,identical,0.41,0.41,0,0,0.0,0.409,0.0,0.0
+1PKT,resuper_default,reference_mode,matched,1,1,5..78,5..79,74,75,74,0.9867,strong,0.63,0.63,0,0,0.0,0.628,0.0,0.0
+1QO6,resuper_default,reference_mode,matched,1,1,"3..20, 26..39","3..20, 26..39",32,32,32,1.0,identical,0.56,0.56,1,1,0.0,0.555,0.0,0.0
+1QO6,resuper_default,reference_mode,matched,2,2,"50..74, 79..98","50..74, 79..98",45,45,45,1.0,identical,0.44,0.44,1,1,0.0,0.437,0.0,0.0
+1VVD,resuper_default,reference_mode,matched,1,2,1..118,59..118,118,60,60,0.5085,partial,1.02,0.42,0,0,0.6,0.42,0.6,0.0
+1VVD,resuper_default,reference_mode,unmatched in reference_mode,,1,,"2..14, 21..57",,50,,,,,0.42,,,not calculable: no matching domain,,,
+1VVE,resuper_default,reference_mode,matched,1,1,"1..15, 19..58","1..15, 19..58",55,55,55,1.0,identical,0.52,0.52,1,1,0.0,0.519,0.0,0.0
+1VVE,resuper_default,reference_mode,matched,2,2,61..118,59..118,58,60,58,0.9667,strong,0.42,0.42,0,0,0.0,0.42,-0.0,-0.0
+1YUG,resuper_default,reference_mode,matched,1,1,4..47,4..47,44,44,44,1.0,identical,1.5,1.5,0,0,0.0,1.496,0.0,0.0
+1ZDA,resuper_default,reference_mode,matched,1,1,10..37,10..37,28,28,28,1.0,identical,0.97,0.97,0,0,0.0,0.966,0.0,0.0
+2AIT,resuper_default,reference_mode,matched,1,1,"6..61, 65..73","6..61, 65..73",65,65,65,1.0,identical,0.46,0.46,1,1,0.0,0.461,-0.0,-0.0
+2KR6,resuper_default,reference_mode,matched,1,1,292..312,292..312,21,21,21,1.0,identical,2.56,2.56,0,0,0.0,2.56,-0.0,-0.0
+2KR6,resuper_default,reference_mode,matched,2,2,"355..369, 381..462","355..369, 381..462",97,97,97,1.0,identical,1.18,1.18,1,1,0.0,1.182,-0.0,-0.0
+2KTF,resuper_default,reference_mode,matched,1,1,"A1..A72, B683..B703","A1..A72, B683..B703",93,93,93,1.0,identical,0.19,0.19,1,1,0.0,0.189,0.0,0.0
+2L14,resuper_default,reference_mode,matched,1,1,"A2063..A2108, B18..B25, B43..B55","A2063..A2108, B18..B25, B43..B55",67,67,67,1.0,identical,0.69,0.69,2,2,0.0,0.693,-0.0,-0.0
+2PAS,resuper_default,reference_mode,matched,1,1,2..109,2..109,108,108,108,1.0,identical,0.66,0.65,0,0,0.01,0.655,0.0,-0.01
+2PNI,resuper_default,reference_mode,matched,1,1,"6..33, 47..79","6..33, 47..79",61,61,61,1.0,identical,0.41,0.41,1,1,0.0,0.413,-0.0,-0.0
+2RGF,resuper_default,reference_mode,matched,1,1,1..97,1..97,97,97,97,1.0,identical,0.51,0.5,0,0,0.01,0.505,0.0,-0.01
+2SPZ,resuper_default,reference_mode,matched,1,1,8..56,8..56,49,49,49,1.0,identical,0.6,0.6,0,0,0.0,0.602,-0.0,-0.0
+2VIL,resuper_default,reference_mode,matched,1,1,1..121,1..121,121,121,121,1.0,identical,0.63,0.63,0,0,0.0,0.632,-0.0,-0.0
+3EGF,resuper_default,reference_mode,matched,1,1,1..45,1..45,45,45,45,1.0,identical,0.85,0.85,0,0,0.0,0.846,0.0,0.0
+3MEF,resuper_default,reference_mode,matched,1,1,3..70,3..70,68,68,68,1.0,identical,1.47,1.46,0,0,0.01,1.468,0.0,-0.01

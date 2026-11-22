@@ -1,0 +1,909 @@
+pdb_id,source,n_models,n_residues,ndom_resuper,ndom_cyrange,ranges_resuper,ranges_cyrange,annotation_source,n_annotated,recovered_R,recovered_C,mixed_R,mixed_C,resuper_only,cyrange_only,E1,E2,E3,X1,X2,X3,helix_split,qualifies,tier,ann_gain,cyr_excess,motion_pct
+1A91,expanded scan,10,79,1,2,7..76 (0.99 Å),"1..23, 63..77 (0.56 Å) | 24..62 (0.51 Å)",CATH,1,1,0,0,0,,"1..23, 63..77 (0.56 Å, rigid True, moves True)",True,False,False,False,True,False,False,False,,1.0,0,0
+1AML,expanded scan,20,40,1,2,16..23 (0.08 Å),16..23 (0.08 Å) | 30..37 (0.46 Å),CATH,1,0,0,0,0,,"30..37 (0.46 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1ANS,expanded scan,28,27,1,1,3..16 (0.25 Å),2..27 (0.74 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1AP8,expanded scan,20,213,1,2,"39..50, 57..139, 148..188, 193..203, 210..212 (0.77 Å)","3..11 (1.76 Å) | 39..50, 57..139, 148..188, 193..203, 210..213 (0.78 Å)",CATH,1,1,1,0,0,,"3..11 (1.76 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.76,0
+1AQQ,expanded scan,10,40,1,1,2..31 (0.49 Å),2..40 (0.82 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ARE,expanded scan,10,29,1,1,112..123 (0.11 Å),104..126 (0.20 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1AV3,expanded scan,20,26,1,1,15..26 (0.13 Å),"1..3, 5..27 (0.26 Å)",ECOD,1,0,1,0,0,"15..26 (0.13 Å, rigid True, moves None)","1..3, 5..27 (0.26 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1AYJ,expanded scan,20,50,1,1,18..32 (0.14 Å),3..51 (0.75 Å),SCOP,1,0,1,0,0,"18..32 (0.14 Å, rigid True, moves None)","3..51 (0.75 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1AZ6,expanded scan,23,36,1,1,25..35 (0.37 Å),6..36 (1.50 Å),ECOD,1,0,1,0,0,"25..35 (0.37 Å, rigid True, moves None)","6..36 (1.50 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.5,0
+1B1V,expanded scan,30,23,1,1,7..18 (0.18 Å),7..22 (0.18 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1B9Q,expanded scan,19,34,1,1,10..22 (0.41 Å),10..26 (0.61 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1B9U,expanded scan,10,33,1,1,5..25 (0.09 Å),5..33 (0.17 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1BA4,expanded scan,10,40,2,1,15..24 (0.14 Å) | 28..36 (0.12 Å),14..40 (1.60 Å),CATH,1,0,1,0,0,"15..24 (0.14 Å, rigid True, moves True); 28..36 (0.12 Å, rigid True, moves True)","14..40 (1.60 Å, rigid False, moves None)",False,True,True,True,False,False,True,False,,-1.0,0.6,100.0
+1BBO,expanded scan,60,56,2,1,"2..10, 12..25 (0.19 Å) | 27..54 (0.26 Å)","2..10, 12..55 (0.83 Å)",CATH,2,2,0,0,1,"2..10, 12..25 (0.19 Å, rigid True, moves True)",,True,False,True,False,False,False,False,True,1,2.5,0,100.0
+1BJB,expanded scan,14,28,1,1,13..24 (0.36 Å),10..28 (1.26 Å),SCOP,1,0,1,0,0,,,False,True,False,True,False,False,False,False,,-1.0,0.26,0
+1BNB,expanded scan,20,38,1,1,23..34 (0.18 Å),5..38 (0.78 Å),ECOD,1,0,1,0,0,"23..34 (0.18 Å, rigid True, moves None)","5..38 (0.78 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1BNX,expanded scan,21,33,1,1,9..17 (0.20 Å),7..26 (0.68 Å),SCOP,1,0,1,0,0,"9..17 (0.20 Å, rigid True, moves None)","7..26 (0.68 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1BTT,expanded scan,21,21,1,1,3..12 (0.28 Å),3..20 (0.66 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1BYM,expanded scan,20,97,1,2,148..226 (1.18 Å),131..138 (1.54 Å) | 148..226 (1.17 Å),CATH,1,1,1,0,0,,"131..138 (1.54 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.54,0
+1BYY,expanded scan,10,21,1,1,1493..1502 (0.20 Å),1490..1502 (0.29 Å),SCOP,1,0,0,0,0,,,False,False,False,True,False,False,False,False,,0.0,0,0
+1BZG,expanded scan,30,34,1,2,17..26 (0.18 Å),2..13 (1.69 Å) | 17..26 (0.18 Å),SCOP,1,0,0,0,0,,"2..13 (1.69 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.69,0
+1CE4,expanded scan,20,35,1,1,13..35 (1.28 Å),1..35 (2.58 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,1.58,0
+1CFG,expanded scan,20,22,1,1,7..15 (0.13 Å),7..19 (0.24 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1CG7,expanded scan,30,93,2,1,25..78 (0.48 Å) | 81..91 (0.20 Å),25..81 (0.52 Å),CATH,1,1,1,0,0,"81..91 (0.20 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,98.8
+1CKX,expanded scan,13,26,1,1,14..24 (0.46 Å),4..23 (0.95 Å),SCOP,1,0,1,0,0,"14..24 (0.46 Å, rigid True, moves None)","4..23 (0.95 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1CRR,expanded scan,20,166,1,1,"1..59, 67..119, 123..165 (0.57 Å)","1..59, 67..119, 123..166 (0.57 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1D1H,expanded scan,21,35,1,1,6..21 (0.14 Å),"2..21, 27..30 (0.15 Å)",SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1DL6,expanded scan,25,58,1,1,32..41 (0.20 Å),"14..24, 33..40 (0.30 Å)",CATH,1,0,0,0,0,"32..41 (0.20 Å, rigid True, moves None)","14..24, 33..40 (0.30 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,0.0,0,0
+1DSJ,expanded scan,20,26,1,1,52..73 (0.49 Å),52..67 (0.34 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1DXZ,expanded scan,20,32,1,1,250..263 (0.09 Å),245..263 (0.12 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1E0L,expanded scan,10,37,1,1,7..33 (0.15 Å),18..33 (0.11 Å),ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1E0N,expanded scan,10,27,1,1,20..29 (0.12 Å),7..30 (0.32 Å),ECOD,1,0,1,0,0,"20..29 (0.12 Å, rigid True, moves None)","7..30 (0.32 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1E4R,expanded scan,20,35,1,1,23..34 (0.23 Å),6..35 (0.55 Å),SCOP,1,0,1,0,0,"23..34 (0.23 Å, rigid True, moves None)","6..35 (0.55 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1EDL,expanded scan,20,56,1,2,13..53 (0.30 Å),19..36 (0.20 Å) | 39..53 (0.15 Å),CATH,1,1,0,0,0,"13..53 (0.30 Å, rigid True, moves None)","19..36 (0.20 Å, rigid True, moves False); 39..53 (0.15 Å, rigid True, moves False)",True,False,False,False,False,False,False,True,1,1.0,0,0
+1ENW,expanded scan,20,114,1,2,13..88 (1.17 Å),13..88 (1.17 Å) | 101..113 (1.35 Å),CATH,1,1,1,0,0,,"101..113 (1.35 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.35,0
+1EXK,expanded scan,20,79,2,1,"12..23, 63..76 (0.34 Å) | 27..62 (0.70 Å)",11..79 (1.16 Å),CATH,1,0,1,0,0,"12..23, 63..76 (0.34 Å, rigid True, moves True)",,False,True,True,True,False,False,False,False,,-1.0,0.16,100.0
+1EZC,expanded scan,17,259,1,1,2..236 (0.68 Å),2..236 (0.68 Å),SCOP,2,0,0,1,1,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1EZD,expanded scan,16,259,1,1,2..244 (0.74 Å),2..244 (0.74 Å),SCOP,2,0,0,1,1,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1FB9,expanded scan,10,30,1,1,"4..6, 8..15 (0.10 Å)","4..6, 8..19 (0.13 Å)",SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1FCT,expanded scan,27,32,1,1,4..12 (0.16 Å),2..15 (0.62 Å),SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1FDM,expanded scan,20,50,0,1,,9..50 (3.08 Å),CATH,1,0,1,0,0,,"9..50 (3.08 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,2.08,0
+1FJP,expanded scan,10,52,2,2,21..28 (0.21 Å) | 29..51 (0.86 Å),1..19 (0.87 Å) | 20..52 (1.31 Å),CATH,1,0,1,0,0,"21..28 (0.21 Å, rigid True, moves True)","1..19 (0.87 Å, rigid True, moves True)",False,True,True,True,True,False,True,False,,-1.0,0.31,100.0
+1FME,expanded scan,34,28,1,1,9..23 (0.23 Å),3..25 (0.35 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1FQQ,expanded scan,20,41,1,1,31..41 (0.60 Å),4..41 (0.87 Å),CATH,1,0,1,0,0,"31..41 (0.60 Å, rigid True, moves None)","4..41 (0.87 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1FRY,expanded scan,40,29,1,2,5..18 (1.08 Å),5..18 (1.08 Å) | 21..29 (0.39 Å),SCOP,1,0,0,0,0,,"21..29 (0.39 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0.08,0
+1FVN,expanded scan,30,35,1,1,20..29 (0.14 Å),17..28 (0.14 Å),SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1G04,expanded scan,21,26,1,1,4..16 (0.08 Å),3..25 (0.16 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1G1P,expanded scan,18,31,1,1,"2..5, 7..32 (1.63 Å)","3..5, 7..10, 20..31 (0.27 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1G92,expanded scan,10,25,2,2,2..10 (0.28 Å) | 13..23 (0.27 Å),1..14 (0.89 Å) | 15..23 (0.19 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1G9L,expanded scan,30,144,2,1,"21..30 (1.93 Å) | 53..61, 66..124 (0.27 Å)","53..61, 66..124 (0.27 Å)",ECOD,1,0,0,0,0,"21..30 (1.93 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+1GXE,expanded scan,10,130,1,2,"3..8, 15..45, 86..100, 106..129 (0.38 Å)","3..8, 15..45, 86..100, 106..130 (0.39 Å) | 59..67 (1.24 Å)",SCOP,1,1,1,0,0,,"59..67 (1.24 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.24,0
+1H7D,expanded scan,30,49,1,1,11..36 (2.87 Å),22..33 (0.49 Å),CATH,1,1,0,0,0,"11..36 (2.87 Å, rigid False, moves None)","22..33 (0.49 Å, rigid True, moves None)",True,False,False,False,False,True,False,False,,1.0,0,0
+1H7J,expanded scan,15,26,1,2,18..25 (1.07 Å),2..14 (1.99 Å) | 18..25 (1.07 Å),SCOP,1,0,1,0,0,,"2..14 (1.99 Å, rigid False, moves True)",False,False,False,True,False,False,False,False,,-1.0,0.99,0
+1HCW,expanded scan,35,22,1,1,"4..5, 7..20 (0.50 Å)","1..5, 7..22 (0.56 Å)",SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1HKO,expanded scan,42,104,1,2,8..91 (0.37 Å),8..91 (0.37 Å) | 92..103 (1.40 Å),CATH,1,1,1,0,0,,"92..103 (1.40 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.4,0
+1HN6,expanded scan,20,110,1,3,"441..450, 481..509 (0.79 Å)","441..450, 481..509 (0.79 Å) | 513..525 (2.24 Å) | 526..534 (1.31 Å)",CATH,1,0,0,0,0,,"513..525 (2.24 Å, rigid False, moves True); 526..534 (1.31 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,1.24,0
+1HO0,expanded scan,21,30,1,1,9..19 (0.19 Å),8..25 (0.85 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1HO9,expanded scan,20,32,1,2,1..21 (1.13 Å),1..9 (0.39 Å) | 10..25 (1.01 Å),ECOD,1,1,1,0,0,"1..21 (1.13 Å, rigid False, moves None)","1..9 (0.39 Å, rigid True, moves True); 10..25 (1.01 Å, rigid False, moves True)",False,False,False,False,True,True,False,False,,0.0,0.01,0
+1HRL,expanded scan,10,23,1,1,11..21 (0.30 Å),1..22 (0.71 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1I5J,expanded scan,25,67,1,3,18..31 (0.27 Å),15..34 (0.50 Å) | 46..61 (1.38 Å) | 62..79 (0.60 Å),SCOP,1,0,0,0,0,,"46..61 (1.38 Å, rigid False, moves True); 62..79 (0.60 Å, rigid True, moves True)",False,True,False,True,True,False,False,False,,0.0,0.38,0
+1I6C,expanded scan,10,39,1,1,2..24 (0.62 Å),2..33 (0.66 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1I87,expanded scan,20,94,1,1,3..87 (1.94 Å),"3..46, 69..87 (1.20 Å)",SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.2,0
+1I8X,expanded scan,10,30,1,1,10..28 (0.30 Å),1..29 (0.38 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1I8Y,expanded scan,10,28,1,1,8..23 (0.51 Å),2..28 (1.29 Å),ECOD,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.29,0
+1IB9,expanded scan,20,34,1,1,17..33 (0.18 Å),13..34 (0.20 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1IBN,expanded scan,20,20,1,1,1..10 (0.11 Å),1..19 (0.59 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1IBO,expanded scan,20,20,1,1,1..11 (0.09 Å),1..18 (0.39 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ICA,expanded scan,10,40,1,1,15..40 (0.44 Å),2..40 (1.28 Å),CATH,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.28,0
+1IDL,expanded scan,20,74,1,1,1..73 (2.00 Å),"1..8, 17..38, 43..54, 58..71 (1.96 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.96,0
+1IJP,expanded scan,10,79,3,1,3..39 (0.63 Å) | 42..56 (0.28 Å) | 58..76 (0.30 Å),3..76 (0.83 Å),CATH,1,0,1,0,0,"42..56 (0.28 Å, rigid True, moves True); 58..76 (0.30 Å, rigid True, moves False)",,False,False,True,True,False,False,True,False,,-1.0,0,95.7
+1IKC,expanded scan,30,74,1,1,"3..15, 23..49, 55..67 (0.16 Å)","2..16, 22..74 (0.26 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1IWF,expanded scan,15,34,0,1,,6..21 (2.72 Å),SCOP,1,0,0,0,0,,"6..21 (2.72 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,0.0,1.72,0
+1IX5,expanded scan,10,151,1,2,4..154 (1.00 Å),"5..40, 45..86, 138..153 (0.42 Å) | 87..137 (0.37 Å)",CATH,1,1,1,0,0,,"87..137 (0.37 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1IYT,expanded scan,10,42,1,1,8..32 (0.50 Å),15..26 (0.20 Å),CATH,1,1,0,0,0,"8..32 (0.50 Å, rigid True, moves None)","15..26 (0.20 Å, rigid True, moves None)",True,False,False,False,False,False,False,True,1,1.0,0,0
+1J8I,expanded scan,20,93,1,2,11..67 (0.35 Å),11..67 (0.35 Å) | 83..92 (0.77 Å),CATH,1,1,1,0,0,,"83..92 (0.77 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1JC6,expanded scan,10,65,1,1,19..57 (0.37 Å),5..58 (0.52 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1JE3,expanded scan,20,97,2,2,"15..23 (1.88 Å) | 27..35, 40..97 (0.59 Å)","6..13 (1.79 Å) | 27..35, 40..97 (0.59 Å)",SCOP,2,1,1,1,0,"15..23 (1.88 Å, rigid False, moves True)","6..13 (1.79 Å, rigid False, moves True)",False,False,False,True,False,True,False,False,,-0.5,0.79,100.0
+1JE9,expanded scan,18,61,1,1,"17..30, 34..61 (0.45 Å)",1..61 (0.76 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1JJS,expanded scan,12,42,1,1,"5..17, 25..49 (0.53 Å)","6..16, 25..41 (0.27 Å)",SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1JO5,expanded scan,10,48,2,2,14..26 (0.25 Å) | 29..40 (0.17 Å),10..30 (0.77 Å) | 31..48 (0.37 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1JO6,expanded scan,24,45,1,1,11..30 (1.45 Å),18..29 (0.32 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1JRJ,expanded scan,36,39,1,1,15..38 (0.32 Å),19..30 (0.09 Å),SCOP,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1JT8,expanded scan,10,102,2,2,20..84 (0.99 Å) | 89..100 (0.24 Å),"21..27, 34..48, 63..70, 76..83 (0.23 Å) | 89..100 (0.24 Å)",CATH,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1K3J,expanded scan,20,151,1,2,"31..51, 63..77, 81..93, 99..151 (0.23 Å)","16..24 (0.17 Å) | 31..51, 63..77, 81..93, 99..151 (0.23 Å)",CATH,1,1,1,0,0,,"16..24 (0.17 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1K81,expanded scan,10,36,1,1,117..140 (0.25 Å),122..136 (0.22 Å),ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1K8V,expanded scan,20,39,1,1,9..32 (2.54 Å),20..31 (0.24 Å),SCOP,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1K9C,expanded scan,20,74,1,2,214..258 (0.89 Å),195..206 (1.67 Å) | 214..261 (0.98 Å),CATH,1,1,1,0,0,,"195..206 (1.67 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.67,0
+1KCN,expanded scan,20,21,1,1,2..21 (1.00 Å),"3..8, 15..21 (0.29 Å)",SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1KIO,expanded scan,10,35,1,1,12..29 (0.46 Å),2..33 (0.77 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1KKD,expanded scan,23,92,2,1,46..53 (1.39 Å) | 65..75 (2.07 Å),28..40 (0.86 Å),SCOP,1,0,0,0,0,"46..53 (1.39 Å, rigid False, moves True); 65..75 (2.07 Å, rigid False, moves True)","28..40 (0.86 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,100.0
+1KLR,expanded scan,25,30,1,1,15..26 (0.29 Å),3..26 (0.39 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1KUN,expanded scan,20,58,1,1,15..56 (0.83 Å),3..58 (0.98 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1KV4,expanded scan,20,42,2,1,5..15 (0.28 Å) | 16..29 (0.35 Å),13..32 (0.60 Å),CATH,1,0,0,0,0,"5..15 (0.28 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,100.0
+1L2Y,expanded scan,38,20,1,1,3..12 (0.13 Å),2..19 (0.29 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1L3G,expanded scan,19,123,1,2,4..101 (0.60 Å),4..101 (0.60 Å) | 116..124 (0.99 Å),SCOP,1,1,1,0,0,,"116..124 (0.99 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1L4V,expanded scan,18,40,1,1,1..40 (1.61 Å),"2..3, 13..40 (0.68 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1L5C,expanded scan,20,92,1,2,"12..44, 59..92 (0.52 Å)","1..10 (0.89 Å) | 12..44, 59..92 (0.51 Å)",CATH,1,1,1,0,0,,"1..10 (0.89 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1LA4,expanded scan,20,34,1,1,15..30 (0.13 Å),2..30 (0.16 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1LBJ,expanded scan,24,22,1,1,8..17 (0.13 Å),4..21 (0.43 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1LDR,expanded scan,10,41,1,1,22..32 (0.23 Å),8..41 (0.91 Å),SCOP,1,0,1,0,0,"22..32 (0.23 Å, rigid True, moves None)","8..41 (0.91 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1M36,expanded scan,20,33,1,1,13..27 (0.28 Å),7..30 (0.46 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1M8C,expanded scan,20,56,1,1,20..56 (0.27 Å),6..56 (0.53 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1MC7,expanded scan,20,95,1,1,"1..20, 26..88 (0.69 Å)","2..3, 14..18, 27..34, 45..86 (0.29 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1MED,expanded scan,11,28,1,1,8..17 (0.29 Å),5..28 (0.57 Å),ECOD,1,0,1,0,0,"8..17 (0.29 Å, rigid True, moves None)","5..28 (0.57 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1MM4,expanded scan,20,170,2,2,"10..18 (0.18 Å) | 21..30, 52..163 (1.75 Å)","3..19 (0.60 Å) | 21..30, 52..163 (1.75 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.75,0
+1MVI,expanded scan,15,25,1,1,15..25 (0.13 Å),1..25 (0.30 Å),SCOP,1,0,1,0,0,"15..25 (0.13 Å, rigid True, moves None)","1..25 (0.30 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1N3K,expanded scan,20,130,1,2,2..86 (0.13 Å),2..86 (0.13 Å) | 99..112 (0.71 Å),CATH,1,1,1,0,0,,"99..112 (0.71 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1N6Z,expanded scan,10,105,1,2,"6..13, 38..105 (0.17 Å)","6..13, 38..105 (0.17 Å) | 15..29 (1.50 Å)",CATH,1,1,1,0,0,,"15..29 (1.50 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.5,0
+1N7L,expanded scan,20,53,2,2,4..14 (0.13 Å) | 39..50 (0.08 Å),4..14 (0.13 Å) | 29..49 (0.12 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1N8M,expanded scan,10,38,1,1,9..22 (0.16 Å),4..35 (0.21 Å),ECOD,1,0,1,0,0,"9..22 (0.16 Å, rigid True, moves None)","4..35 (0.21 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1NIX,expanded scan,20,33,1,1,13..27 (0.38 Å),2..31 (0.45 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1NJ3,expanded scan,20,31,1,1,17..31 (0.07 Å),5..31 (0.07 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1OHM,expanded scan,10,44,1,1,23..35 (0.33 Å),18..44 (0.80 Å),SCOP,1,0,1,0,0,"23..35 (0.33 Å, rigid True, moves None)","18..44 (0.80 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1OMC,expanded scan,21,24,1,1,"1..3, 5..9, 11..18 (0.40 Å)","1..3, 5..9, 11..20, 22..27 (0.39 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ORX,expanded scan,20,24,1,1,"7..13, 18..23 (0.11 Å)",2..24 (0.26 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1OWA,expanded scan,10,156,3,2,"20..30 (0.17 Å) | 34..45 (0.25 Å) | 55..80, 88..118, 128..153 (0.81 Å)","20..34 (0.28 Å) | 55..80, 88..118, 128..153 (0.81 Å)",ECOD,1,1,1,0,0,"34..45 (0.25 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,100.0
+1P1P,expanded scan,12,24,1,1,"12..19, 21..23 (0.24 Å)","2..19, 21..25 (0.74 Å)",SCOP,1,0,1,0,0,"12..19, 21..23 (0.24 Å, rigid True, moves None)","2..19, 21..25 (0.74 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1P82,expanded scan,20,25,1,1,5..15 (0.04 Å),5..21 (0.06 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1P9C,expanded scan,10,45,1,1,282..293 (0.22 Å),278..294 (0.41 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1PEH,expanded scan,10,33,2,1,241..250 (0.26 Å) | 251..268 (0.34 Å),251..268 (0.33 Å),SCOP,1,1,1,0,0,"241..250 (0.26 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,99.1
+1PEI,expanded scan,10,22,1,1,273..285 (0.17 Å),269..288 (0.27 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1PLP,expanded scan,20,25,1,1,9..17 (0.19 Å),1..17 (0.57 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1PMC,expanded scan,36,36,1,1,12..32 (0.41 Å),2..33 (0.44 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1PQX,expanded scan,10,91,1,1,"13..19, 28..34, 38..65, 70..82 (0.36 Å)","2..5, 13..21, 26..83 (0.56 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1Q2F,expanded scan,30,32,2,1,6..19 (0.24 Å) | 22..31 (0.21 Å),6..30 (0.57 Å),SCOP,1,0,1,0,0,"22..31 (0.21 Å, rigid True, moves False)",,False,False,False,True,False,False,False,False,,-1.0,0,84.7
+1Q2I,expanded scan,20,32,0,1,,4..20 (0.88 Å),SCOP,1,0,1,0,0,,"4..20 (0.88 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1Q2J,expanded scan,20,21,1,1,7..21 (0.31 Å),3..22 (0.34 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1Q71,expanded scan,20,21,1,1,1..13 (0.44 Å),1..21 (0.45 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1QG9,expanded scan,30,21,1,1,6..15 (0.12 Å),6..19 (0.16 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1QHK,expanded scan,20,47,1,1,"7..11, 19..30, 38..51 (0.30 Å)","6..12, 18..52 (0.50 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1QLO,expanded scan,19,34,1,1,15..30 (2.39 Å),9..18 (1.35 Å),SCOP,1,0,0,0,0,"15..30 (2.39 Å, rigid False, moves None)","9..18 (1.35 Å, rigid False, moves None)",False,False,False,False,False,True,False,False,,0.0,0.35,0
+1RLY,expanded scan,25,58,1,1,14..42 (0.55 Å),12..59 (2.24 Å),SCOP,1,0,1,0,0,,,False,True,False,True,False,False,False,False,,-1.0,1.24,0
+1RMK,expanded scan,20,31,1,1,19..31 (0.18 Å),"2..7, 19..31 (0.25 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1RON,expanded scan,26,36,1,1,20..32 (0.10 Å),15..34 (0.18 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1RPC,expanded scan,20,21,1,1,1..11 (0.24 Å),1..18 (0.34 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1RRZ,expanded scan,15,66,1,2,"12..34, 43..55 (0.20 Å)",11..24 (0.13 Å) | 43..55 (0.09 Å),SCOP,1,0,0,0,0,"12..34, 43..55 (0.20 Å, rigid True, moves None)","11..24 (0.13 Å, rigid True, moves False); 43..55 (0.09 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+1RU5,expanded scan,20,36,1,1,12..31 (0.56 Å),4..31 (0.99 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1RY3,expanded scan,20,64,1,2,29..39 (0.18 Å),-16..-4 (0.43 Å) | 29..39 (0.18 Å),SCOP,1,0,0,0,0,,"-16..-4 (0.43 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,0.0,0,0
+1RY4,expanded scan,20,128,1,2,154..253 (1.43 Å),133..143 (1.40 Å) | 154..253 (1.43 Å),CATH,1,1,1,0,0,,"133..143 (1.40 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.43,0
+1S4T,expanded scan,20,21,1,1,136..146 (0.52 Å),135..155 (1.10 Å),SCOP,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.1,0
+1S4X,expanded scan,20,47,3,2,21..38 (0.37 Å) | 40..53 (0.17 Å) | 57..65 (0.17 Å),21..34 (0.32 Å) | 35..64 (0.61 Å),ECOD,1,0,0,0,0,"40..53 (0.17 Å, rigid True, moves True); 57..65 (0.17 Å, rigid True, moves True)","35..64 (0.61 Å, rigid True, moves True)",False,False,True,False,True,False,False,False,,0.0,0,100.0
+1S7E,expanded scan,20,147,1,2,6..148 (3.26 Å),7..71 (0.73 Å) | 107..152 (0.43 Å),CATH,2,0,2,1,0,"6..148 (3.26 Å, rigid False, moves None)","7..71 (0.73 Å, rigid True, moves True); 107..152 (0.43 Å, rigid True, moves True)",False,False,False,True,True,True,False,False,,-2.5,0,0
+1SN6,expanded scan,20,84,2,1,"4..21, 61..76 (0.36 Å) | 25..60 (0.31 Å)",8..74 (0.66 Å),SCOP,2,0,1,0,0,"4..21, 61..76 (0.36 Å, rigid True, moves False)",,False,False,False,True,False,False,False,False,,-1.0,0,90.2
+1SOH,expanded scan,18,67,3,2,15..23 (0.09 Å) | 24..35 (0.39 Å) | 66..74 (0.09 Å),15..35 (0.90 Å) | 66..74 (0.09 Å),SCOP,1,0,0,0,0,"15..23 (0.09 Å, rigid True, moves True)",,False,False,True,True,False,False,False,False,,0.0,0,100.0
+1SOP,expanded scan,10,24,1,1,3..14 (0.21 Å),2..18 (0.48 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1SP7,expanded scan,10,24,1,1,1..11 (0.03 Å),1..21 (0.07 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1SRB,expanded scan,10,21,1,1,5..16 (0.29 Å),1..20 (1.40 Å),SCOP,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.4,0
+1SRK,expanded scan,20,35,1,1,9..30 (0.20 Å),"9..19, 26..30 (0.18 Å)",ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1TER,expanded scan,21,21,1,1,9..21 (0.35 Å),3..21 (0.49 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1TFI,expanded scan,12,50,1,1,"7..24, 36..48 (0.36 Å)","19..24, 36..48 (0.28 Å)",CATH,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1TOZ,expanded scan,20,116,2,2,412..489 (0.80 Å) | 504..515 (0.27 Å),412..489 (0.80 Å) | 490..517 (0.83 Å),CATH,2,0,0,1,1,"504..515 (0.27 Å, rigid True, moves True)","490..517 (0.83 Å, rigid True, moves True)",False,False,True,False,True,False,False,False,,0.0,0,100.0
+1TWO,expanded scan,20,142,1,2,3..127 (0.60 Å),3..127 (0.60 Å) | 128..142 (1.13 Å),CATH,1,1,1,0,0,,"128..142 (1.13 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.13,0
+1U34,expanded scan,20,119,2,1,"17..25 (1.30 Å) | 58..82, 99..113 (0.74 Å)","58..82, 99..113 (0.74 Å)",CATH,1,0,0,0,0,"17..25 (1.30 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+1UFF,expanded scan,20,93,1,2,"6..16, 20..59 (0.41 Å)","6..16, 20..62 (0.42 Å) | 77..93 (1.18 Å)",CATH,1,1,1,0,0,,"77..93 (1.18 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.18,0
+1UT3,expanded scan,10,38,1,1,"11..14, 20..37 (0.46 Å)",2..38 (1.30 Å),ECOD,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.3,0
+1V1D,expanded scan,20,31,1,1,13..27 (0.21 Å),7..31 (0.33 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1VDB,expanded scan,15,23,1,1,7..19 (0.24 Å),4..21 (0.38 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1VDI,expanded scan,20,52,3,2,132..140 (0.14 Å) | 153..167 (0.39 Å) | 169..176 (0.25 Å),132..140 (0.14 Å) | 142..169 (0.69 Å),CATH,1,0,1,0,0,"169..176 (0.25 Å, rigid True, moves True)",,False,False,True,True,False,False,False,False,,-1.0,0,99.3
+1VGH,expanded scan,20,55,1,1,16..52 (0.62 Å),7..53 (0.97 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1W1N,expanded scan,20,33,1,1,6..33 (0.39 Å),12..23 (0.12 Å),ECOD,1,1,0,0,0,"6..33 (0.39 Å, rigid True, moves None)","12..23 (0.12 Å, rigid True, moves None)",True,False,False,False,False,False,False,True,1,1.0,0,0
+1W9R,expanded scan,19,119,1,2,5..100 (1.00 Å),5..100 (1.00 Å) | 111..118 (0.87 Å),CATH,1,1,1,0,0,,"111..118 (0.87 Å, rigid True, moves True)",False,True,False,False,True,False,False,False,,0.0,0.0,0
+1WEU,expanded scan,20,91,1,2,36..83 (0.34 Å),1..17 (0.77 Å) | 36..83 (0.34 Å),CATH,1,1,1,0,0,,"1..17 (0.77 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1WFF,expanded scan,20,85,1,2,"27..34, 41..62 (0.20 Å)","1..17 (1.29 Å) | 27..34, 41..62 (0.20 Å)",CATH,1,0,0,0,0,,"1..17 (1.29 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.29,0
+1WGS,expanded scan,20,133,2,3,"13..22, 28..52, 60..69 (0.22 Å) | 107..132 (1.45 Å)","13..22, 28..52, 60..69 (0.22 Å) | 94..112 (1.11 Å) | 114..133 (1.16 Å)",CATH,1,0,0,0,0,,"94..112 (1.11 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.16,0
+1WHG,expanded scan,20,113,1,2,23..106 (0.42 Å),8..22 (0.81 Å) | 23..106 (0.42 Å),ECOD,1,1,1,0,0,,"8..22 (0.81 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1WIL,expanded scan,20,89,1,1,"14..51, 62..73 (1.15 Å)",16..50 (0.52 Å),CATH,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1WJ4,expanded scan,20,124,1,3,"43..88, 94..119 (0.33 Å)","3..15 (1.21 Å) | 17..29 (1.64 Å) | 43..88, 94..119 (0.33 Å)",SCOP,3,1,1,0,1,,"3..15 (1.21 Å, rigid False, moves True); 17..29 (1.64 Å, rigid False, moves True)",True,True,False,True,False,False,False,False,,0.5,0.64,0
+1WJ7,expanded scan,20,104,2,1,23..31 (0.10 Å) | 37..76 (0.29 Å),37..76 (0.29 Å),SCOP,3,0,0,0,0,"23..31 (0.10 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,97.4
+1WJP,expanded scan,20,107,1,2,17..96 (0.93 Å),2..12 (1.03 Å) | 17..96 (0.93 Å),ECOD,3,0,0,1,1,,"2..12 (1.03 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.03,0
+1WMV,expanded scan,20,54,1,1,13..32 (0.24 Å),12..40 (0.32 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1WNM,expanded scan,15,23,1,1,11..21 (0.10 Å),6..21 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1WO4,expanded scan,20,25,1,1,14..23 (0.07 Å),1..25 (0.41 Å),,0,0,0,0,0,"14..23 (0.07 Å, rigid True, moves None)","1..25 (0.41 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+1WO7,expanded scan,20,25,1,1,15..23 (0.09 Å),1..24 (0.37 Å),,0,0,0,0,0,"15..23 (0.09 Å, rigid True, moves None)","1..24 (0.37 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+1WQB,expanded scan,18,32,1,1,18..31 (0.39 Å),4..32 (0.74 Å),,0,0,0,0,0,"18..31 (0.39 Å, rigid True, moves None)","4..32 (0.74 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+1WR4,expanded scan,20,36,1,1,18..32 (0.28 Å),5..34 (0.51 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1WRG,expanded scan,10,55,1,1,18..29 (0.27 Å),10..41 (0.90 Å),ECOD,1,0,1,0,0,"18..29 (0.27 Å, rigid True, moves None)","10..41 (0.90 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1WSO,expanded scan,30,32,3,2,2..13 (0.24 Å) | 16..23 (0.09 Å) | 25..32 (0.06 Å),2..18 (0.43 Å) | 25..33 (0.06 Å),SCOP,1,0,1,0,0,"16..23 (0.09 Å, rigid True, moves True)",,False,False,True,True,False,False,False,False,,-1.0,0,95.4
+1WT8,expanded scan,20,31,1,1,6..26 (0.36 Å),4..30 (0.46 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1WWT,expanded scan,20,88,1,1,9..72 (0.36 Å),"9..34, 48..71 (0.16 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1X1G,expanded scan,20,129,1,1,10..124 (0.84 Å),"12..27, 34..53, 59..74, 91..123 (0.33 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1X22,expanded scan,20,42,1,1,27..35 (0.22 Å),6..39 (1.42 Å),CATH,1,0,1,0,0,"27..35 (0.22 Å, rigid True, moves None)","6..39 (1.42 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.42,0
+1X3C,expanded scan,20,73,1,1,40..53 (0.14 Å),26..57 (0.41 Å),CATH,1,0,0,0,0,"40..53 (0.14 Å, rigid True, moves None)","26..57 (0.41 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,0.0,0,0
+1X4U,expanded scan,20,84,1,1,15..78 (0.70 Å),"16..23, 30..51, 65..76 (0.22 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1X6E,expanded scan,20,72,2,2,22..34 (0.15 Å) | 41..65 (0.21 Å),13..35 (0.26 Å) | 41..65 (0.21 Å),ECOD,2,1,2,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1X6F,expanded scan,20,88,1,1,33..46 (0.12 Å),26..48 (0.19 Å),CATH,1,0,0,0,0,,,False,False,False,True,False,False,False,False,,0.0,0,0
+1X6H,expanded scan,20,86,2,2,26..39 (0.10 Å) | 47..73 (0.26 Å),16..42 (0.13 Å) | 47..73 (0.26 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1XC0,expanded scan,20,33,1,1,5..28 (0.25 Å),13..24 (0.09 Å),SCOP,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1XOP,expanded scan,25,20,1,1,5..16 (0.48 Å),2..18 (0.74 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1XRD,expanded scan,10,52,2,1,11..24 (0.26 Å) | 25..42 (0.35 Å),12..42 (0.71 Å),ECOD,1,0,1,0,0,"11..24 (0.26 Å, rigid True, moves True)",,False,False,True,True,False,False,True,False,,-1.0,0,100.0
+1Y1C,expanded scan,20,48,1,1,"12..32, 40..48 (0.19 Å)",4..48 (0.60 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1Y29,expanded scan,20,28,1,1,18..28 (0.29 Å),2..28 (0.64 Å),ECOD,1,0,1,0,0,"18..28 (0.29 Å, rigid True, moves None)","2..28 (0.64 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1Y32,expanded scan,14,24,0,1,,2..20 (1.00 Å),,0,0,0,0,0,,"2..20 (1.00 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.0,0
+1YMZ,expanded scan,10,37,1,1,18..29 (0.24 Å),"4..11, 17..33 (0.38 Å)",ECOD,1,0,1,0,0,"18..29 (0.24 Å, rigid True, moves None)","4..11, 17..33 (0.38 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+1YUF,expanded scan,16,50,1,1,17..35 (0.49 Å),4..47 (1.53 Å),CATH,1,0,1,0,0,"17..35 (0.49 Å, rigid True, moves None)","4..47 (1.53 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.53,0
+1YWJ,expanded scan,15,28,1,1,22..42 (0.23 Å),15..42 (0.24 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1YX4,expanded scan,15,112,4,3,20..31 (0.22 Å) | 36..48 (0.20 Å) | 63..74 (0.12 Å) | 88..96 (0.10 Å),16..53 (1.12 Å) | 63..74 (0.12 Å) | 84..101 (0.36 Å),ECOD,1,0,0,0,0,"20..31 (0.22 Å, rigid True, moves True); 36..48 (0.20 Å, rigid True, moves True)","16..53 (1.12 Å, rigid False, moves True)",False,True,True,True,False,False,True,False,,0.0,0.12,97.2
+1Z2T,expanded scan,24,23,1,1,7..15 (0.15 Å),6..19 (0.28 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1Z9I,expanded scan,25,53,1,2,42..52 (0.26 Å),8..18 (0.50 Å) | 32..52 (0.45 Å),ECOD,1,0,0,0,0,,"8..18 (0.50 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+1ZEC,expanded scan,20,25,1,1,8..18 (0.17 Å),8..24 (0.30 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1ZJQ,expanded scan,20,34,1,1,17..32 (0.42 Å),2..32 (0.64 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+1ZNF,expanded scan,37,25,1,1,10..23 (0.37 Å),1..24 (0.51 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ZNM,expanded scan,34,26,1,1,11..27 (0.13 Å),"3..6, 8..28 (0.15 Å)",SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ZPX,expanded scan,10,21,1,1,14..27 (0.46 Å),13..31 (0.47 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ZRV,expanded scan,10,25,1,1,6..18 (0.27 Å),5..25 (0.55 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ZRW,expanded scan,30,25,1,1,5..20 (1.25 Å),6..23 (1.62 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.62,0
+1ZTA,expanded scan,20,35,1,1,15..30 (0.42 Å),19..30 (0.29 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ZUV,expanded scan,24,30,1,1,12..26 (0.38 Å),3..28 (0.60 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ZWA,expanded scan,10,34,1,1,16..26 (0.37 Å),15..29 (0.82 Å),SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1ZWD,expanded scan,10,35,1,1,14..25 (0.55 Å),11..29 (1.17 Å),SCOP,1,0,1,0,0,,,False,True,False,True,False,False,False,False,,-1.0,0.17,0
+1ZWG,expanded scan,10,34,1,2,16..25 (0.19 Å),2..12 (1.03 Å) | 13..32 (1.05 Å),SCOP,2,0,1,0,0,,"2..12 (1.03 Å, rigid False, moves True)",False,True,False,True,False,False,False,False,,-1.0,0.05,0
+1ZZA,expanded scan,25,90,2,2,21..34 (0.08 Å) | 66..79 (0.19 Å),14..33 (0.12 Å) | 66..80 (0.20 Å),CATH,1,0,0,0,0,,,False,False,False,True,False,False,False,False,,0.0,0,0
+28TG,expanded scan,14,29,1,1,3..27 (1.41 Å),7..15 (0.04 Å),,0,0,0,0,0,"3..27 (1.41 Å, rigid False, moves None)","7..15 (0.04 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+2A05,expanded scan,23,57,1,2,207..237 (0.29 Å),189..203 (0.91 Å) | 207..237 (0.29 Å),CATH,1,1,1,0,0,,"189..203 (0.91 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2A2B,expanded scan,20,41,1,1,29..38 (0.11 Å),29..41 (0.17 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2ADR,expanded scan,25,60,2,2,104..126 (0.37 Å) | 140..154 (0.22 Å),104..126 (0.37 Å) | 132..155 (0.29 Å),CATH,2,1,2,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2AP7,expanded scan,20,20,1,1,5..20 (0.40 Å),9..20 (0.27 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2AQC,expanded scan,20,63,1,2,7..31 (0.10 Å),7..31 (0.10 Å) | 42..49 (0.46 Å),CATH,1,0,0,0,0,,"42..49 (0.46 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2AYJ,expanded scan,20,56,1,1,20..31 (0.10 Å),19..47 (0.22 Å),CATH,1,0,1,0,0,"20..31 (0.10 Å, rigid True, moves None)","19..47 (0.22 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2B19,expanded scan,20,36,1,2,9..18 (0.07 Å),9..18 (0.07 Å) | 24..36 (0.39 Å),,0,0,0,0,0,,"24..36 (0.39 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2B38,expanded scan,20,31,1,1,3..25 (0.34 Å),1..31 (0.89 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2BAF,expanded scan,20,166,1,1,48..81 (1.46 Å),49..74 (0.66 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2BL5,expanded scan,17,134,1,2,1..101 (0.53 Å),1..101 (0.53 Å) | 107..121 (1.46 Å),CATH,1,1,1,0,0,,"107..121 (1.46 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.46,0
+2C6B,expanded scan,20,46,1,1,302..314 (0.10 Å),299..325 (0.23 Å),CATH,1,0,1,0,0,"302..314 (0.10 Å, rigid True, moves None)","299..325 (0.23 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2CPB,expanded scan,25,50,1,2,25..32 (0.15 Å),6..27 (2.23 Å) | 28..36 (0.35 Å),CATH,1,0,0,0,0,"25..32 (0.15 Å, rigid True, moves None)","6..27 (2.23 Å, rigid False, moves True); 28..36 (0.35 Å, rigid True, moves True)",False,True,False,True,True,False,False,False,,0.0,1.23,0
+2CPS,expanded scan,25,50,1,2,33..44 (0.28 Å),8..16 (0.43 Å) | 19..45 (1.40 Å),CATH,1,0,1,0,0,"33..44 (0.28 Å, rigid True, moves None)","8..16 (0.43 Å, rigid True, moves True); 19..45 (1.40 Å, rigid False, moves True)",False,True,False,True,True,False,False,False,,-1.0,0.4,0
+2CQF,expanded scan,20,63,2,1,139..152 (0.12 Å) | 164..176 (0.16 Å),137..178 (1.08 Å),CATH,1,0,1,0,0,"139..152 (0.12 Å, rigid True, moves True); 164..176 (0.16 Å, rigid True, moves True)","137..178 (1.08 Å, rigid False, moves None)",False,True,True,True,False,False,False,False,,-1.0,0.08,100.0
+2CSH,expanded scan,20,110,3,3,18..31 (0.18 Å) | 40..60 (0.11 Å) | 66..93 (0.22 Å),11..32 (0.23 Å) | 40..60 (0.11 Å) | 66..93 (0.22 Å),SCOP,4,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2CTT,expanded scan,20,104,2,1,"29..43, 82..93 (0.19 Å) | 46..79 (0.24 Å)",28..94 (0.57 Å),ECOD,1,0,1,0,0,"29..43, 82..93 (0.19 Å, rigid True, moves False)",,False,False,False,True,False,False,False,False,,-1.0,0,90.9
+2CTU,expanded scan,20,73,1,1,16..49 (1.30 Å),"18..29, 40..46 (0.23 Å)",ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2CUP,expanded scan,20,101,2,2,7..61 (0.27 Å) | 67..79 (0.22 Å),7..61 (0.27 Å) | 67..95 (0.33 Å),ECOD,3,0,1,1,1,"67..79 (0.22 Å, rigid True, moves True)","67..95 (0.33 Å, rigid True, moves True)",False,False,True,True,True,False,False,False,,-1.0,0,100.0
+2D2P,expanded scan,20,38,1,1,10..31 (0.40 Å),16..28 (0.16 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2D8U,expanded scan,20,64,1,1,19..46 (0.24 Å),10..48 (0.50 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2DAS,expanded scan,20,62,1,1,45..55 (0.13 Å),20..56 (0.49 Å),SCOP,3,0,1,0,0,"45..55 (0.13 Å, rigid True, moves None)","20..56 (0.49 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2DCV,expanded scan,20,42,1,1,12..25 (0.19 Å),4..40 (0.32 Å),CATH,1,0,1,0,0,"12..25 (0.19 Å, rigid True, moves None)","4..40 (0.32 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2DF0,expanded scan,20,34,1,1,16..28 (0.21 Å),17..31 (0.29 Å),SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2DJR,expanded scan,20,76,1,1,"9..17, 28..38, 49..63 (0.17 Å)",8..71 (0.93 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2DMI,expanded scan,20,115,2,2,29..44 (0.20 Å) | 81..106 (0.35 Å),19..45 (0.30 Å) | 81..106 (0.35 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2DY7,expanded scan,20,81,1,2,"179..187, 201..217, 225..251 (0.15 Å)","179..186, 210..217, 225..231 (0.10 Å) | 232..251 (0.10 Å)",CATH,1,1,0,0,0,"179..187, 201..217, 225..251 (0.15 Å, rigid True, moves None)","179..186, 210..217, 225..231 (0.10 Å, rigid True, moves False); 232..251 (0.10 Å, rigid True, moves False)",True,False,False,False,False,False,False,True,1,1.0,0,0
+2E0G,expanded scan,25,107,1,2,3..77 (0.33 Å),3..77 (0.33 Å) | 87..107 (1.26 Å),CATH,1,1,1,0,0,,"87..107 (1.26 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.26,0
+2E3F,expanded scan,10,43,1,1,20..30 (0.22 Å),19..43 (0.54 Å),CATH,1,0,1,0,0,"20..30 (0.22 Å, rigid True, moves None)","19..43 (0.54 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2E5U,expanded scan,20,40,1,2,91..103 (0.38 Å),88..109 (1.05 Å) | 111..121 (0.49 Å),ECOD,1,0,1,0,0,,"111..121 (0.49 Å, rigid True, moves True)",False,True,False,True,True,False,False,False,,-1.0,0.05,0
+2E6I,expanded scan,20,64,1,1,"12..20, 24..32 (0.27 Å)","12..20, 24..41 (0.30 Å)",CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2ECW,expanded scan,20,85,1,2,"21..51, 61..76 (0.27 Å)","4..17 (1.90 Å) | 21..51, 61..76 (0.27 Å)",CATH,1,1,1,0,0,,"4..17 (1.90 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.9,0
+2EE8,expanded scan,20,106,3,3,21..38 (0.26 Å) | 46..68 (0.28 Å) | 74..96 (0.58 Å),18..40 (0.30 Å) | 46..68 (0.28 Å) | 74..96 (0.58 Å),SCOP,3,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EGP,expanded scan,20,79,1,1,12..41 (0.50 Å),"12..41, 54..64 (0.57 Å)",CATH,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2EL5,expanded scan,20,42,1,1,19..33 (0.15 Å),10..33 (0.23 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2ELP,expanded scan,20,37,1,1,25..36 (0.26 Å),"10..19, 25..36 (0.30 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2ELU,expanded scan,20,37,1,1,19..33 (0.19 Å),10..34 (0.29 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EME,expanded scan,20,46,1,1,18..33 (0.23 Å),11..36 (0.31 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EMF,expanded scan,20,46,1,1,22..35 (0.12 Å),13..35 (0.16 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EML,expanded scan,20,46,1,1,17..35 (0.23 Å),12..35 (0.30 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EMW,expanded scan,20,44,1,1,22..33 (0.11 Å),10..33 (0.20 Å),SCOP,3,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2EMY,expanded scan,20,46,1,1,21..35 (0.05 Å),11..35 (0.10 Å),CATH,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2EMZ,expanded scan,20,46,1,1,23..35 (0.08 Å),11..36 (0.17 Å),SCOP,3,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2EN9,expanded scan,20,46,1,1,23..36 (0.26 Å),12..36 (0.36 Å),SCOP,3,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2ENF,expanded scan,20,46,1,1,14..32 (0.25 Å),11..35 (0.30 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EOG,expanded scan,20,44,1,1,18..30 (0.22 Å),10..33 (0.37 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EOH,expanded scan,20,46,1,1,14..27 (0.21 Å),11..31 (0.26 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EOO,expanded scan,20,46,1,1,23..35 (0.23 Å),13..35 (0.35 Å),SCOP,3,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2EOP,expanded scan,20,46,1,1,22..36 (0.08 Å),12..35 (0.10 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EOZ,expanded scan,20,46,1,1,20..35 (0.14 Å),11..35 (0.20 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EPS,expanded scan,20,54,1,1,421..436 (0.07 Å),412..436 (0.09 Å),SCOP,3,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2EQ1,expanded scan,20,46,1,1,493..507 (0.16 Å),485..507 (0.21 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EQT,expanded scan,20,28,1,1,8..23 (0.42 Å),8..28 (0.51 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2EW9,expanded scan,31,149,2,1,"4..13, 18..71 (0.42 Å) | 81..146 (0.46 Å)","4..72, 80..149 (0.95 Å)",CATH,2,2,0,0,1,"4..13, 18..71 (0.42 Å, rigid True, moves False); 81..146 (0.46 Å, rigid True, moves False)","4..72, 80..149 (0.95 Å, rigid True, moves None)",True,False,False,False,False,False,False,True,1,2.5,0,82.9
+2F5H,expanded scan,10,37,1,1,33..68 (1.06 Å),"35..51, 66..67 (0.23 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2FJ5,expanded scan,20,37,1,1,32..68 (1.25 Å),"33..52, 64..68 (0.31 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2FJL,expanded scan,15,150,2,1,"1..32, 91..150 (0.59 Å) | 61..74 (1.54 Å)","1..32, 91..150 (0.58 Å)",CATH,1,1,1,0,0,"61..74 (1.54 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+2FLY,expanded scan,20,20,1,1,4..13 (0.15 Å),3..20 (0.37 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2G0Q,expanded scan,20,149,1,2,"17..54, 60..126 (0.53 Å)","17..54, 60..126 (0.53 Å) | 140..154 (0.44 Å)",CATH,2,1,1,0,0,,"140..154 (0.44 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,0.0,0,0
+2G0U,expanded scan,20,92,1,2,49..62 (0.04 Å),32..64 (0.10 Å) | 74..83 (0.94 Å),SCOP,2,0,0,0,0,"49..62 (0.04 Å, rigid True, moves None)","32..64 (0.10 Å, rigid True, moves True); 74..83 (0.94 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,0.0,0,0
+2G2K,expanded scan,18,156,2,1,"21..26, 32..87 (0.82 Å) | 101..143 (1.38 Å)","21..26, 32..87 (0.82 Å)",ECOD,2,2,1,0,0,"101..143 (1.38 Å, rigid False, moves True)",,True,False,False,False,False,True,False,False,,1.0,0,100.0
+2G9L,expanded scan,15,37,1,2,3..22 (0.42 Å),3..22 (0.42 Å) | 25..36 (0.69 Å),,0,0,0,0,0,,"25..36 (0.69 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2G9P,expanded scan,20,26,1,1,2..23 (1.15 Å),13..22 (0.08 Å),,0,0,0,0,0,"2..23 (1.15 Å, rigid False, moves None)","13..22 (0.08 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+2HFV,expanded scan,20,97,1,2,"23..51, 67..94 (0.72 Å)","1..15 (1.49 Å) | 23..51, 67..94 (0.72 Å)",SCOP,2,1,2,0,0,,"1..15 (1.49 Å, rigid False, moves True)",False,True,False,True,False,False,False,False,,-1.0,0.49,0
+2HM3,expanded scan,10,25,1,1,7..18 (0.02 Å),7..28 (0.06 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2HM4,expanded scan,10,31,1,1,12..25 (0.09 Å),8..25 (0.11 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2HN8,expanded scan,20,38,2,1,5..20 (0.09 Å) | 26..37 (0.09 Å),4..38 (0.39 Å),,0,0,0,0,0,"5..20 (0.09 Å, rigid True, moves False); 26..37 (0.09 Å, rigid True, moves False)","4..38 (0.39 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,82.6
+2I9N,expanded scan,20,33,1,2,22..30 (0.18 Å),3..12 (0.55 Å) | 22..30 (0.18 Å),,0,0,0,0,0,,"3..12 (0.55 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2IGR,expanded scan,20,33,1,1,3..14 (0.24 Å),4..21 (0.38 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2IMU,expanded scan,13,46,2,1,3..13 (0.20 Å) | 14..21 (0.15 Å),3..22 (0.51 Å),CATH,1,0,0,0,0,"14..21 (0.15 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,94.4
+2IT7,expanded scan,30,28,1,1,8..28 (0.10 Å),2..28 (0.19 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2IT8,expanded scan,30,29,1,1,13..29 (0.11 Å),2..29 (0.22 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2ITA,expanded scan,10,70,1,2,27..53 (0.86 Å),18..31 (0.41 Å) | 40..50 (0.12 Å),CATH,1,0,0,0,0,"27..53 (0.86 Å, rigid True, moves None)","18..31 (0.41 Å, rigid True, moves True); 40..50 (0.12 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2IWJ,expanded scan,30,27,1,1,29..39 (0.21 Å),24..49 (1.35 Å),ECOD,1,0,1,0,0,"29..39 (0.21 Å, rigid True, moves None)","24..49 (1.35 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.35,0
+2JO1,expanded scan,20,72,1,1,"12..45, 60..69 (0.47 Å)",13..45 (0.14 Å),CATH,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+2JOF,expanded scan,28,20,1,1,2..13 (0.23 Å),2..19 (0.31 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JOR,expanded scan,20,79,1,1,16..40 (0.76 Å),"14..55, 60..66 (1.98 Å)",,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.98,0
+2JOW,expanded scan,20,83,2,3,21..54 (0.10 Å) | 59..68 (0.19 Å),5..19 (1.00 Å) | 21..54 (0.10 Å) | 57..68 (0.23 Å),ECOD,1,0,0,0,0,,"5..19 (1.00 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.0,0
+2JPJ,expanded scan,20,39,1,1,12..21 (0.09 Å),3..22 (1.20 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.2,0
+2JPK,expanded scan,20,35,1,1,2..12 (0.14 Å),2..19 (0.35 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JPL,expanded scan,20,39,2,2,13..21 (0.21 Å) | 25..35 (0.10 Å),13..21 (0.21 Å) | 25..39 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JPM,expanded scan,20,35,2,1,10..17 (0.02 Å) | 19..30 (0.28 Å),19..30 (0.28 Å),,0,0,0,0,0,"10..17 (0.02 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+2JPW,expanded scan,20,30,1,1,4..13 (0.36 Å),8..21 (0.66 Å),,0,0,0,0,0,"4..13 (0.36 Å, rigid True, moves None)","8..21 (0.66 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2JPX,expanded scan,15,21,1,1,6..26 (0.26 Å),6..18 (0.10 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JQ8,expanded scan,20,47,1,1,21..37 (0.30 Å),4..41 (0.59 Å),SCOP,1,0,1,0,0,"21..37 (0.30 Å, rigid True, moves None)","4..41 (0.59 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2JQV,expanded scan,20,165,1,2,8..117 (0.95 Å),8..117 (0.95 Å) | 125..150 (1.29 Å),ECOD,1,1,1,0,0,,"125..150 (1.29 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.29,0
+2JR3,expanded scan,20,42,1,1,12..35 (0.08 Å),8..42 (0.10 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JR8,expanded scan,20,42,1,1,6..15 (0.25 Å),9..24 (0.57 Å),CATH,1,0,0,0,0,"6..15 (0.25 Å, rigid True, moves None)","9..24 (0.57 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2JRW,expanded scan,16,23,1,1,7..19 (1.62 Å),8..23 (1.71 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.71,0
+2JRY,expanded scan,20,42,1,1,"6..10, 12..28 (0.26 Å)","4..10, 12..28, 30..40 (1.15 Å)",CATH,1,0,1,0,0,,,False,True,False,True,False,False,False,False,,-1.0,0.15,0
+2JT8,expanded scan,10,160,3,2,"3..36, 67..83 (1.87 Å) | 42..64 (1.00 Å) | 94..152, 154..158 (0.81 Å)","3..82 (3.47 Å) | 94..152, 154..158 (0.81 Å)",CATH,1,0,0,0,0,"42..64 (1.00 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,2.47,100.0
+2JTZ,expanded scan,10,160,2,2,"18..49 (1.57 Å) | 97..103, 105..122, 129..156 (0.64 Å)","15..78 (2.33 Å) | 97..103, 105..122, 129..156 (0.64 Å)",SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,1.33,0
+2JU4,expanded scan,100,87,1,1,22..41 (3.04 Å),59..78 (2.85 Å),ECOD,1,0,0,0,0,"22..41 (3.04 Å, rigid False, moves None)","59..78 (2.85 Å, rigid False, moves None)",False,False,False,False,False,True,False,False,,0.0,1.85,0
+2JUI,expanded scan,20,33,1,1,8..33 (0.48 Å),8..23 (0.26 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JUY,expanded scan,24,27,1,1,3..23 (0.66 Å),"1..23, 25..28 (0.66 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JVL,expanded scan,20,107,1,2,78..149 (0.55 Å),51..63 (1.32 Å) | 78..149 (0.55 Å),ECOD,1,1,1,0,0,,"51..63 (1.32 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.32,0
+2JVX,expanded scan,10,28,1,1,14..26 (0.16 Å),4..26 (0.26 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2JXB,expanded scan,20,86,1,1,4..86 (1.27 Å),"5..14, 31..86 (0.26 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JXF,expanded scan,30,30,1,1,7..24 (0.40 Å),11..23 (0.24 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2JXN,expanded scan,20,116,1,2,"45..81, 88..104 (0.29 Å)","4..15 (0.43 Å) | 45..81, 88..104 (0.29 Å)",ECOD,1,0,0,0,0,,"4..15 (0.43 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2JXW,expanded scan,20,75,1,2,16..29 (0.18 Å),6..32 (0.28 Å) | 48..70 (0.27 Å),CATH,1,0,0,0,0,,"48..70 (0.27 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,0.0,0,0
+2JY9,expanded scan,20,148,1,2,"1..21, 36..100 (0.90 Å)","1..21, 36..100 (0.90 Å) | 126..145 (1.74 Å)",ECOD,1,1,1,0,0,,"126..145 (1.74 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.74,0
+2JYE,expanded scan,10,72,2,2,"14..20, 25..30 (0.22 Å) | 45..61 (0.91 Å)",3..36 (0.96 Å) | 43..62 (1.05 Å),CATH,1,0,1,0,0,"14..20, 25..30 (0.22 Å, rigid True, moves True)","3..36 (0.96 Å, rigid True, moves True)",False,True,True,True,True,False,False,False,,-1.0,0.05,100.0
+2JYU,expanded scan,10,67,1,2,13..26 (0.53 Å),4..28 (1.31 Å) | 41..56 (1.06 Å),ECOD,1,0,0,0,0,,"41..56 (1.06 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.31,0
+2JZ6,expanded scan,20,77,1,1,7..69 (2.31 Å),"8..18, 36..68 (0.78 Å)",SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2K27,expanded scan,20,159,3,3,27..63 (1.13 Å) | 87..134 (1.04 Å) | 142..158 (1.26 Å),3..16 (1.61 Å) | 27..63 (1.13 Å) | 87..134 (1.04 Å),ECOD,2,2,2,0,0,"142..158 (1.26 Å, rigid False, moves True)","3..16 (1.61 Å, rigid False, moves True)",False,False,False,False,False,True,False,False,,0.0,0.61,100.0
+2K2B,expanded scan,20,111,1,1,2..101 (2.06 Å),"2..48, 71..93 (1.60 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.6,0
+2K33,expanded scan,20,116,1,2,"2..34, 67..101 (0.47 Å)","2..34, 67..101 (0.47 Å) | 44..64 (1.91 Å)",ECOD,1,1,1,0,0,,"44..64 (1.91 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.91,0
+2K3C,expanded scan,40,31,1,1,338..349 (0.17 Å),337..354 (1.25 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.25,0
+2K3N,expanded scan,10,160,1,2,"18..105, 109..133 (0.45 Å)","18..105, 109..133 (0.45 Å) | 134..147 (1.36 Å)",CATH,1,1,1,0,0,,"134..147 (1.36 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.36,0
+2K3P,expanded scan,10,161,1,2,44..161 (1.61 Å),3..21 (2.36 Å) | 44..161 (1.60 Å),ECOD,1,1,1,0,0,,"3..21 (2.36 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,1.36,0
+2K4F,expanded scan,20,57,1,1,3..39 (3.05 Å),39..57 (1.54 Å),ECOD,1,1,0,0,0,"3..39 (3.05 Å, rigid False, moves None)","39..57 (1.54 Å, rigid False, moves None)",True,False,False,False,False,True,False,False,,1.0,0.54,0
+2K4K,expanded scan,20,130,1,1,5..80 (0.47 Å),"6..27, 52..65, 72..78 (0.20 Å)",ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+2K4V,expanded scan,20,125,1,2,"5..13, 21..81, 95..108 (0.75 Å)","5..13, 21..81, 95..108 (0.75 Å) | 111..121 (1.21 Å)",CATH,1,1,1,0,0,,"111..121 (1.21 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.21,0
+2K5K,expanded scan,10,62,2,1,15..24 (0.35 Å) | 44..59 (2.58 Å),15..24 (0.35 Å),ECOD,1,0,0,0,0,"44..59 (2.58 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+2K6B,expanded scan,20,113,1,2,"43..78, 86..100 (0.40 Å)","2..14 (0.39 Å) | 43..78, 86..100 (0.40 Å)",ECOD,1,0,0,0,0,,"2..14 (0.39 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2K6G,expanded scan,24,109,1,2,399..482 (0.73 Å),380..388 (0.62 Å) | 399..483 (0.73 Å),CATH,1,1,1,0,0,,"380..388 (0.62 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2K7G,expanded scan,20,29,1,1,15..28 (0.23 Å),1..29 (0.34 Å),ECOD,1,0,1,0,0,"15..28 (0.23 Å, rigid True, moves None)","1..29 (0.34 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2K7M,expanded scan,10,109,4,1,6..20 (2.46 Å) | 29..42 (1.87 Å) | 59..74 (2.21 Å) | 85..99 (2.54 Å),31..67 (5.16 Å),ECOD,1,0,0,0,0,"6..20 (2.46 Å, rigid False, moves True); 29..42 (1.87 Å, rigid False, moves True); 59..74 (2.21 Å, rigid False, moves True); 85..99 (2.54 Å, rigid False, moves True)","31..67 (5.16 Å, rigid False, moves None)",False,False,False,True,False,True,False,False,,0.0,4.16,100.0
+2K88,expanded scan,10,60,3,1,11..21 (0.06 Å) | 24..36 (0.12 Å) | 37..54 (0.10 Å),36..54 (0.10 Å),CATH,1,0,0,0,0,"11..21 (0.06 Å, rigid True, moves True); 24..36 (0.12 Å, rigid True, moves False)",,False,False,True,False,False,False,True,True,4,0.0,0,95.4
+2K8J,expanded scan,30,29,0,1,,9..22 (0.46 Å),,0,0,0,0,0,,"9..22 (0.46 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2K8P,expanded scan,36,189,1,4,"57..82, 110..125, 130..144 (0.48 Å)","8..21 (1.57 Å) | 29..39 (1.18 Å) | 57..82, 110..125, 130..144 (0.48 Å) | 158..173 (1.33 Å)",ECOD,1,0,0,0,0,,"8..21 (1.57 Å, rigid False, moves True); 29..39 (1.18 Å, rigid False, moves True); 158..173 (1.33 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.57,0
+2K9P,expanded scan,20,80,2,2,44..73 (0.44 Å) | 86..103 (0.25 Å),38..79 (0.96 Å) | 86..103 (0.25 Å),CATH,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2KAK,expanded scan,20,53,1,1,33..47 (0.19 Å),32..77 (0.60 Å),ECOD,1,0,1,0,0,"33..47 (0.19 Å, rigid True, moves None)","32..77 (0.60 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2KB4,expanded scan,30,143,1,2,45..141 (1.09 Å),5..17 (1.54 Å) | 45..141 (1.09 Å),ECOD,1,1,1,0,0,,"5..17 (1.54 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.54,0
+2KB7,expanded scan,20,53,1,2,24..53 (0.61 Å),3..23 (1.15 Å) | 24..53 (0.60 Å),CATH,1,1,1,0,0,,"3..23 (1.15 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.15,0
+2KBU,expanded scan,15,30,1,1,"6..11, 13..21 (0.38 Å)","6..11, 13..26 (0.42 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2KCH,expanded scan,20,29,1,1,1..20 (0.20 Å),1..29 (0.23 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KCZ,expanded scan,20,155,1,2,"5..27, 64..110, 134..147 (1.39 Å)","5..27, 64..110, 134..147 (1.39 Å) | 115..124 (0.67 Å)",CATH,1,1,1,0,0,,"115..124 (0.67 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0.39,0
+2KDT,expanded scan,20,43,1,2,720..729 (0.32 Å),720..729 (0.32 Å) | 741..748 (0.15 Å),CATH,1,0,0,0,0,,"741..748 (0.15 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2KEH,expanded scan,20,32,1,1,15..24 (0.09 Å),10..24 (0.15 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KES,expanded scan,15,48,3,1,516..528 (0.23 Å) | 531..538 (0.07 Å) | 539..550 (0.15 Å),532..541 (0.12 Å),CATH,1,0,0,0,0,"516..528 (0.23 Å, rigid True, moves True); 539..550 (0.15 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,100.0
+2KET,expanded scan,20,26,1,1,4..13 (0.41 Å),4..16 (0.59 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KGH,expanded scan,20,39,1,1,11..35 (0.77 Å),2..39 (0.81 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KGO,expanded scan,20,88,1,2,55..84 (0.23 Å),38..50 (0.41 Å) | 55..84 (0.23 Å),ECOD,1,0,0,0,0,,"38..50 (0.41 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2KHC,expanded scan,10,118,1,2,"517..552, 561..597 (0.37 Å)","487..497 (1.05 Å) | 517..552, 561..597 (0.37 Å)",CATH,1,1,1,0,0,,"487..497 (1.05 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.05,0
+2KHF,expanded scan,20,25,2,1,2..10 (0.20 Å) | 11..22 (0.21 Å),2..24 (0.59 Å),,0,0,0,0,0,"2..10 (0.20 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,94.6
+2KHL,expanded scan,15,93,1,2,"3..64, 81..91 (0.97 Å)","3..64, 81..91 (0.97 Å) | 65..80 (1.18 Å)",CATH,1,1,1,0,0,,"65..80 (1.18 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.18,0
+2KIO,expanded scan,20,33,2,2,7..14 (0.08 Å) | 17..29 (0.46 Å),7..14 (0.08 Å) | 15..33 (0.72 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2KIR,expanded scan,20,34,1,1,2..18 (0.25 Å),1..32 (0.33 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KJY,expanded scan,20,60,4,2,5..14 (0.21 Å) | 16..27 (0.25 Å) | 28..38 (0.27 Å) | 49..56 (0.18 Å),5..41 (1.11 Å) | 49..56 (0.18 Å),CATH,1,0,1,0,0,"5..14 (0.21 Å, rigid True, moves True); 16..27 (0.25 Å, rigid True, moves True); 28..38 (0.27 Å, rigid True, moves True)","5..41 (1.11 Å, rigid False, moves True)",False,True,True,True,False,False,True,False,,-1.0,0.11,97.3
+2KK7,expanded scan,20,52,2,1,8..19 (0.03 Å) | 20..47 (0.23 Å),9..47 (0.41 Å),CATH,1,1,1,0,0,"8..19 (0.03 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,73.3
+2KKG,expanded scan,20,35,1,1,59..72 (0.56 Å),72..91 (0.71 Å),,0,0,0,0,0,"59..72 (0.56 Å, rigid True, moves None)","72..91 (0.71 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2KKW,expanded scan,34,140,2,2,8..22 (0.09 Å) | 59..92 (0.49 Å),8..22 (0.09 Å) | 48..92 (0.69 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KL7,expanded scan,20,71,1,1,5..69 (1.88 Å),"11..33, 53..65 (0.50 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KLO,expanded scan,20,138,3,2,9..30 (2.20 Å) | 37..45 (0.23 Å) | 46..138 (0.73 Å),10..30 (2.10 Å) | 45..138 (0.73 Å),CATH,1,1,1,0,0,"37..45 (0.23 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,1.1,99.1
+2KMI,expanded scan,20,145,1,1,2..144 (1.41 Å),"4..27, 64..136 (0.48 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KN0,expanded scan,20,50,1,1,13..24 (0.22 Å),12..41 (0.95 Å),CATH,1,0,1,0,0,"13..24 (0.22 Å, rigid True, moves None)","12..41 (0.95 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2KN8,expanded scan,10,68,1,3,15..27 (0.38 Å),15..27 (0.38 Å) | 28..44 (0.91 Å) | 49..60 (0.36 Å),CATH,1,0,0,0,0,,"28..44 (0.91 Å, rigid True, moves True); 49..60 (0.36 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,0.0,0,0
+2KNP,expanded scan,20,33,1,1,18..30 (0.15 Å),2..33 (0.58 Å),ECOD,1,0,1,0,0,"18..30 (0.15 Å, rigid True, moves None)","2..33 (0.58 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2KNU,expanded scan,10,29,1,1,3..13 (0.51 Å),6..29 (1.01 Å),,0,0,0,0,0,"3..13 (0.51 Å, rigid True, moves None)","6..29 (1.01 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.01,0
+2KOE,expanded scan,18,40,1,2,2..15 (0.37 Å),1..22 (0.54 Å) | 23..38 (0.55 Å),CATH,1,0,1,0,0,,"23..38 (0.55 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,-1.0,0,0
+2KOG,expanded scan,20,116,2,3,38..52 (0.52 Å) | 93..115 (0.42 Å),38..52 (0.52 Å) | 79..86 (0.24 Å) | 93..116 (0.42 Å),CATH,1,0,0,0,0,,"79..86 (0.24 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,0.0,0,0
+2KQE,expanded scan,10,47,1,1,418..431 (0.19 Å),416..451 (1.59 Å),ECOD,1,0,1,0,0,"418..431 (0.19 Å, rigid True, moves None)","416..451 (1.59 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.59,0
+2KQP,expanded scan,20,86,1,1,1..86 (2.68 Å),"2..24, 67..86 (0.11 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KRG,expanded scan,20,216,1,2,"147..168, 177..256 (0.56 Å)","147..168, 177..255 (0.56 Å) | 325..336 (0.91 Å)",ECOD,2,0,0,1,1,,"325..336 (0.91 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2KRR,expanded scan,20,174,2,3,"8..82 (0.21 Å) | 95..124, 129..164 (0.27 Å)","8..82 (0.21 Å) | 86..93 (0.32 Å) | 95..124, 129..164 (0.27 Å)",SCOP,3,2,2,0,0,,"86..93 (0.32 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2KSD,expanded scan,20,75,1,2,"25..47, 59..79 (1.05 Å)",28..46 (0.23 Å) | 58..79 (0.33 Å),CATH,1,1,0,0,0,"25..47, 59..79 (1.05 Å, rigid False, moves None)","28..46 (0.23 Å, rigid True, moves True); 58..79 (0.33 Å, rigid True, moves True)",True,False,False,False,True,True,False,False,,1.0,0,0
+2KSE,expanded scan,20,77,1,2,"14..34, 158..183 (1.02 Å)",14..34 (0.33 Å) | 160..182 (0.48 Å),CATH,1,0,0,0,0,"14..34, 158..183 (1.02 Å, rigid False, moves None)","14..34 (0.33 Å, rigid True, moves True); 160..182 (0.48 Å, rigid True, moves True)",False,False,False,False,True,True,False,False,,0.0,0,0
+2KSF,expanded scan,20,107,4,1,405..420 (0.28 Å) | 432..443 (0.26 Å) | 449..461 (0.25 Å) | 475..496 (0.32 Å),"398..424, 428..463, 474..500 (1.69 Å)",CATH,1,0,1,0,0,"405..420 (0.28 Å, rigid True, moves True); 432..443 (0.26 Å, rigid True, moves True); 449..461 (0.25 Å, rigid True, moves True); 475..496 (0.32 Å, rigid True, moves True)","398..424, 428..463, 474..500 (1.69 Å, rigid False, moves None)",False,True,True,True,False,False,False,False,,-1.0,0.69,100.0
+2KSG,expanded scan,20,48,1,1,2..17 (2.48 Å),35..46 (0.74 Å),CATH,1,0,0,0,0,"2..17 (2.48 Å, rigid False, moves None)","35..46 (0.74 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+2KSJ,expanded scan,10,46,1,2,3..45 (0.64 Å),4..14 (0.11 Å) | 20..44 (0.16 Å),CATH,1,1,1,0,0,,"4..14 (0.11 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2KTU,expanded scan,24,164,1,2,"281..332, 344..351, 371..416 (0.33 Å)","281..332, 344..351, 371..416 (0.33 Å) | 429..440 (0.84 Å)",CATH,1,1,1,0,0,,"429..440 (0.84 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2KTV,expanded scan,24,164,1,2,"278..334, 342..416 (0.54 Å)","278..334, 342..416 (0.54 Å) | 421..440 (1.44 Å)",CATH,1,1,1,0,0,,"421..440 (1.44 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.44,0
+2KUN,expanded scan,20,148,1,2,"129..163, 173..216 (0.29 Å)","129..163, 173..216 (0.29 Å) | 219..228 (0.56 Å)",ECOD,1,1,1,0,0,,"219..228 (0.56 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2KUO,expanded scan,20,91,2,2,376..404 (0.32 Å) | 418..441 (0.29 Å),376..404 (0.32 Å) | 416..448 (1.23 Å),ECOD,2,2,2,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.23,0
+2KV9,expanded scan,20,54,3,2,714..723 (0.14 Å) | 726..736 (0.20 Å) | 744..757 (0.35 Å),710..736 (0.74 Å) | 744..758 (0.38 Å),,0,0,0,0,0,"714..723 (0.14 Å, rigid True, moves True); 726..736 (0.20 Å, rigid True, moves True)","710..736 (0.74 Å, rigid True, moves True)",False,False,True,False,True,False,False,False,,0.0,0,100.0
+2KVF,expanded scan,15,28,1,1,12..26 (0.15 Å),4..26 (0.25 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KVL,expanded scan,10,61,3,2,15..23 (0.10 Å) | 26..44 (0.33 Å) | 51..58 (0.17 Å),16..46 (0.73 Å) | 51..58 (0.17 Å),CATH,1,0,1,0,0,"15..23 (0.10 Å, rigid True, moves True)",,False,False,True,True,False,False,True,False,,-1.0,0,98.0
+2KWT,expanded scan,36,33,1,1,12..22 (0.42 Å),7..26 (1.46 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.46,0
+2KWY,expanded scan,10,43,1,1,5..29 (0.09 Å),5..43 (0.26 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KXA,expanded scan,10,24,1,1,4..19 (0.05 Å),2..22 (0.07 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KXR,expanded scan,20,118,1,2,"4..46, 61..85, 111..118 (0.26 Å)","4..46, 61..84, 112..118 (0.25 Å) | 85..111 (1.34 Å)",ECOD,1,1,1,0,0,,"85..111 (1.34 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.34,0
+2KY3,expanded scan,17,33,1,1,11..24 (0.33 Å),6..33 (0.46 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2KY5,expanded scan,20,35,2,1,684..692 (0.12 Å) | 694..701 (0.17 Å),682..697 (0.37 Å),,0,0,0,0,0,"694..701 (0.17 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,93.6
+2KYK,expanded scan,20,39,1,1,"7..16, 20..25 (0.28 Å)","7..16, 20..34 (0.39 Å)",SCOP,2,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2KYU,expanded scan,10,67,1,2,24..63 (0.16 Å),24..40 (0.14 Å) | 41..63 (0.11 Å),CATH,1,1,0,0,0,,"24..40 (0.14 Å, rigid True, moves False)",True,False,False,False,False,False,False,True,1,1.0,0,0
+2KZ9,expanded scan,10,69,3,1,13..28 (0.07 Å) | 31..51 (0.10 Å) | 54..69 (0.13 Å),11..69 (0.98 Å),CATH,1,0,1,0,0,"13..28 (0.07 Å, rigid True, moves False); 31..51 (0.10 Å, rigid True, moves False); 54..69 (0.13 Å, rigid True, moves False)","11..69 (0.98 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,92.3
+2KZQ,expanded scan,36,36,1,2,9..20 (0.30 Å),9..20 (0.30 Å) | 26..34 (0.46 Å),,0,0,0,0,0,,"26..34 (0.46 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2L0E,expanded scan,40,31,1,1,242..251 (0.10 Å),239..252 (0.19 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L0L,expanded scan,20,27,1,1,7..16 (0.17 Å),7..24 (0.46 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L0M,expanded scan,20,27,1,1,4..13 (0.33 Å),4..20 (0.64 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L0N,expanded scan,20,30,1,1,4..12 (0.22 Å),12..28 (0.73 Å),,0,0,0,0,0,"4..12 (0.22 Å, rigid True, moves None)","12..28 (0.73 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2L0O,expanded scan,20,30,2,1,6..22 (0.32 Å) | 23..30 (0.46 Å),8..23 (0.28 Å),ECOD,1,1,1,0,0,"23..30 (0.46 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,98.5
+2L1M,expanded scan,20,135,2,2,13..23 (0.07 Å) | 28..132 (0.37 Å),10..23 (0.09 Å) | 28..132 (0.37 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L1X,expanded scan,10,39,1,1,19..29 (0.26 Å),18..32 (0.55 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L26,expanded scan,10,252,1,2,"76..197, 203..224, 239..263, 273..326 (2.34 Å)","77..195 (0.73 Å) | 208..223, 237..265, 270..326 (1.28 Å)",CATH,2,0,2,1,0,,"208..223, 237..265, 270..326 (1.28 Å, rigid False, moves True)",False,False,False,True,False,False,False,False,,-2.5,0.28,0
+2L36,expanded scan,20,24,1,2,13..23 (0.10 Å),2..11 (0.38 Å) | 13..24 (0.10 Å),,0,0,0,0,0,,"2..11 (0.38 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2L3N,expanded scan,20,104,1,1,18..92 (6.03 Å),"13..51, 85..97 (0.39 Å)",CATH,1,1,1,0,0,"18..92 (6.03 Å, rigid False, moves None)","13..51, 85..97 (0.39 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+2L4E,expanded scan,20,57,1,2,12..55 (0.21 Å),12..28 (0.13 Å) | 46..59 (0.54 Å),CATH,1,1,0,0,0,"12..55 (0.21 Å, rigid True, moves None)","12..28 (0.13 Å, rigid True, moves False); 46..59 (0.54 Å, rigid True, moves False)",True,False,False,False,False,False,False,True,1,1.0,0,0
+2L4G,expanded scan,20,20,1,1,5..18 (0.07 Å),1..19 (0.19 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L4U,expanded scan,20,24,1,1,3..16 (0.28 Å),2..24 (1.50 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.5,0
+2L54,expanded scan,20,63,1,2,15..68 (0.82 Å),6..17 (0.15 Å) | 18..68 (0.78 Å),CATH,1,1,1,0,0,,"6..17 (0.15 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2L5B,expanded scan,20,31,1,1,9..26 (0.19 Å),9..31 (0.29 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L5R,expanded scan,20,23,1,1,10..22 (0.17 Å),2..23 (0.39 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L60,expanded scan,20,40,1,1,17..29 (0.21 Å),14..34 (0.50 Å),CATH,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2L61,expanded scan,40,26,1,1,5..16 (0.56 Å),4..23 (0.98 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2L63,expanded scan,10,33,1,1,8..27 (0.26 Å),6..33 (0.59 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L71,expanded scan,15,42,1,1,18..28 (0.21 Å),13..32 (0.85 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L7S,expanded scan,20,52,1,1,22..34 (0.13 Å),17..35 (0.36 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L86,expanded scan,20,37,1,1,6..29 (0.09 Å),6..21 (0.04 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2L9I,expanded scan,21,28,2,1,2..12 (0.33 Å) | 13..27 (0.25 Å),3..27 (0.56 Å),,0,0,0,0,0,"2..12 (0.33 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,97.6
+2L9Q,expanded scan,20,109,3,4,9..18 (0.08 Å) | 25..43 (0.18 Å) | 79..100 (0.16 Å),9..18 (0.08 Å) | 25..43 (0.18 Å) | 51..61 (0.86 Å) | 79..100 (0.16 Å),CATH,1,0,0,0,0,,"51..61 (0.86 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2L9X,expanded scan,20,29,1,1,1..13 (0.79 Å),"1..27, 29..30 (1.25 Å)",,0,0,0,0,0,"1..13 (0.79 Å, rigid True, moves None)","1..27, 29..30 (1.25 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.25,0
+2LBG,expanded scan,20,27,1,1,9..24 (0.00 Å),2..27 (0.02 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LDE,expanded scan,10,25,1,1,8..16 (0.19 Å),4..16 (0.34 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LDF,expanded scan,10,24,1,1,6..18 (0.36 Å),2..19 (0.55 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LEW,expanded scan,20,32,1,1,18..29 (0.39 Å),3..30 (0.85 Å),ECOD,1,0,1,0,0,"18..29 (0.39 Å, rigid True, moves None)","3..30 (0.85 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2LF6,expanded scan,20,101,1,2,"240..267, 273..315 (0.34 Å)","222..236 (1.12 Å) | 240..267, 273..315 (0.34 Å)",CATH,1,1,1,0,0,,"222..236 (1.12 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.12,0
+2LFL,expanded scan,20,57,1,1,43..75 (0.80 Å),23..75 (1.63 Å),ECOD,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.63,0
+2LFN,expanded scan,20,68,1,1,1..68 (1.57 Å),"2..21, 28..49, 59..67 (0.76 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LHJ,expanded scan,10,97,1,2,20..96 (0.46 Å),1..21 (1.47 Å) | 22..97 (0.46 Å),ECOD,1,1,1,0,0,,"1..21 (1.47 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.47,0
+2LJD,expanded scan,15,46,3,1,"716..727 (0.42 Å) | 734..744 (0.17 Å) | 745..746, 748..756 (0.52 Å)","717..746, 748..762 (1.23 Å)",ECOD,1,0,1,0,0,"716..727 (0.42 Å, rigid True, moves True); 734..744 (0.17 Å, rigid True, moves True); 745..746, 748..756 (0.52 Å, rigid True, moves True)","717..746, 748..762 (1.23 Å, rigid False, moves None)",False,True,True,True,False,False,False,False,,-1.0,0.23,99.1
+2LJE,expanded scan,15,45,2,1,"716..723 (0.20 Å) | 724..746, 748..749 (0.60 Å)","723..746, 748..749 (0.62 Å)",ECOD,1,0,0,0,0,"716..723 (0.20 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+2LJQ,expanded scan,20,37,1,1,16..29 (0.48 Å),2..35 (1.89 Å),,0,0,0,0,0,"16..29 (0.48 Å, rigid True, moves None)","2..35 (1.89 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.89,0
+2LJT,expanded scan,20,37,1,1,7..15 (0.06 Å),16..30 (0.37 Å),,0,0,0,0,0,"7..15 (0.06 Å, rigid True, moves None)","16..30 (0.37 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2LKJ,expanded scan,20,23,1,1,"1..13, 15..22 (0.28 Å)","1..13, 15..16 (0.11 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LKQ,expanded scan,20,24,1,1,4..15 (0.11 Å),4..19 (0.12 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LLD,expanded scan,20,40,1,1,14..40 (0.12 Å),1..40 (0.24 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LLI,expanded scan,20,124,3,5,5..21 (0.61 Å) | 24..50 (1.93 Å) | 92..103 (2.02 Å),3..21 (0.63 Å) | 23..58 (2.82 Å) | 65..80 (1.79 Å) | 92..103 (2.02 Å) | 108..121 (1.08 Å),ECOD,5,1,2,1,1,,"65..80 (1.79 Å, rigid False, moves True); 108..121 (1.08 Å, rigid False, moves True)",False,False,False,True,False,False,False,False,,-1.0,1.82,0
+2LLM,expanded scan,20,43,1,2,18..34 (0.03 Å),2..16 (1.86 Å) | 17..40 (0.10 Å),CATH,1,0,1,0,0,,"2..16 (1.86 Å, rigid False, moves True)",False,True,False,True,False,False,False,False,,-1.0,0.86,0
+2LLW,expanded scan,21,71,2,1,"527..542, 569..585 (0.32 Å) | 548..567 (0.17 Å)",527..586 (0.65 Å),CATH,1,0,1,0,0,"548..567 (0.17 Å, rigid True, moves False)",,False,False,False,True,False,False,False,False,,-1.0,0,91.4
+2LM0,expanded scan,10,125,1,1,"758..779, 1000..1002, 1490..1564 (1.65 Å)","760..774, 1502..1563 (0.69 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LOC,expanded scan,20,23,1,1,11..22 (0.23 Å),4..24 (0.31 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LOM,expanded scan,20,93,1,1,27..82 (1.07 Å),"29..48, 65..81 (0.38 Å)",ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+2LOP,expanded scan,20,99,4,1,6..13 (0.08 Å) | 29..41 (0.22 Å) | 54..65 (0.15 Å) | 81..92 (0.11 Å),"7..49, 53..68, 79..99 (1.40 Å)",CATH,1,0,1,0,0,"6..13 (0.08 Å, rigid True, moves True); 29..41 (0.22 Å, rigid True, moves True); 54..65 (0.15 Å, rigid True, moves True); 81..92 (0.11 Å, rigid True, moves True)","7..49, 53..68, 79..99 (1.40 Å, rigid False, moves None)",False,True,True,True,False,False,False,False,,-1.0,0.4,96.7
+2LOQ,expanded scan,20,104,3,1,"11..18 (0.08 Å) | 20..31, 66..87 (0.41 Å) | 40..48 (0.14 Å)","9..49, 64..92 (1.17 Å)",ECOD,1,0,1,0,0,"11..18 (0.08 Å, rigid True, moves True); 20..31, 66..87 (0.41 Å, rigid True, moves False); 40..48 (0.14 Å, rigid True, moves False)","9..49, 64..92 (1.17 Å, rigid False, moves None)",False,True,True,True,False,False,False,False,,-1.0,0.17,97.2
+2LOR,expanded scan,20,108,4,4,7..16 (0.13 Å) | 21..30 (0.18 Å) | 43..54 (0.17 Å) | 62..93 (0.26 Å),7..16 (0.13 Å) | 26..40 (0.31 Å) | 43..54 (0.17 Å) | 62..93 (0.26 Å),CATH,1,0,0,0,0,"21..30 (0.18 Å, rigid True, moves True)","26..40 (0.31 Å, rigid True, moves True)",False,False,True,False,True,False,False,False,,0.0,0,100.0
+2LOT,expanded scan,40,64,2,2,30..41 (0.41 Å) | 48..58 (0.41 Å),29..46 (1.15 Å) | 48..58 (0.41 Å),CATH,1,0,0,0,0,,,False,True,False,True,False,False,False,False,,0.0,0.15,0
+2LOU,expanded scan,40,64,1,2,27..42 (0.95 Å),5..29 (3.11 Å) | 30..56 (2.39 Å),ECOD,1,0,0,0,0,"27..42 (0.95 Å, rigid True, moves None)","5..29 (3.11 Å, rigid False, moves True); 30..56 (2.39 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,2.11,0
+2LOW,expanded scan,40,64,2,2,30..43 (0.40 Å) | 46..54 (0.09 Å),12..30 (1.00 Å) | 32..59 (0.88 Å),ECOD,1,0,0,0,0,"30..43 (0.40 Å, rigid True, moves True); 46..54 (0.09 Å, rigid True, moves True)","12..30 (1.00 Å, rigid False, moves True); 32..59 (0.88 Å, rigid True, moves True)",False,True,True,False,True,False,False,False,,0.0,0.0,97.7
+2LPC,expanded scan,21,185,1,2,"4..26, 42..154 (0.44 Å)","4..26, 42..154 (0.44 Å) | 156..168 (0.88 Å)",SCOP,2,1,1,0,0,,"156..168 (0.88 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2LQ1,expanded scan,20,25,1,1,10..24 (0.07 Å),7..23 (0.08 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LQL,expanded scan,20,83,2,2,12..46 (0.86 Å) | 82..92 (0.31 Å),12..46 (0.86 Å) | 58..93 (1.28 Å),CATH,2,1,2,0,0,"82..92 (0.31 Å, rigid True, moves True)","58..93 (1.28 Å, rigid False, moves True)",False,True,True,True,False,False,False,False,,-1.0,0.28,100.0
+2LQT,expanded scan,20,72,1,2,15..85 (0.81 Å),16..44 (0.34 Å) | 45..85 (0.38 Å),ECOD,1,1,1,0,0,,"16..44 (0.34 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2LS2,expanded scan,20,25,1,1,8..18 (0.13 Å),5..19 (0.27 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LS8,expanded scan,20,142,1,2,"3..89, 97..130 (0.73 Å)","3..89, 100..130 (0.71 Å) | 131..142 (0.51 Å)",CATH,1,1,1,0,0,,"131..142 (0.51 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2LSA,expanded scan,10,23,1,2,4..14 (0.48 Å),4..12 (0.42 Å) | 13..23 (0.55 Å),,0,0,0,0,0,,"13..23 (0.55 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2LSW,expanded scan,20,35,1,1,47..55 (0.17 Å),32..48 (1.28 Å),ECOD,1,0,0,0,0,"47..55 (0.17 Å, rigid True, moves None)","32..48 (1.28 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.28,0
+2LTI,expanded scan,20,23,1,1,1..13 (1.18 Å),1..21 (1.48 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.48,0
+2LUI,expanded scan,20,116,1,2,"22..38, 49..102, 126..128 (0.49 Å)","22..38, 49..102, 126..128 (0.49 Å) | 107..115 (0.22 Å)",CATH,1,1,1,0,0,,"107..115 (0.22 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2LVR,expanded scan,20,30,1,1,4..26 (0.20 Å),12..26 (0.17 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LWR,expanded scan,19,68,1,2,431..481 (0.82 Å),418..427 (1.52 Å) | 431..482 (0.83 Å),ECOD,1,1,1,0,0,,"418..427 (1.52 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.52,0
+2LXD,expanded scan,20,123,1,3,"10..73, 84..91 (0.77 Å)","10..73, 84..91 (0.77 Å) | 92..105 (2.15 Å) | 106..114 (1.41 Å)",CATH,1,1,1,0,0,,"92..105 (2.15 Å, rigid False, moves True); 106..114 (1.41 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,1.15,0
+2LXE,expanded scan,20,109,1,2,49..100 (0.21 Å),31..44 (0.90 Å) | 49..100 (0.21 Å),ECOD,1,0,0,0,0,,"31..44 (0.90 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2LXO,expanded scan,20,44,1,1,17..42 (0.58 Å),"6..11, 18..42 (0.61 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2LZP,expanded scan,39,31,0,1,,13..26 (0.56 Å),,0,0,0,0,0,,"13..26 (0.56 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2LZR,expanded scan,10,48,1,1,5..39 (0.31 Å),13..25 (0.09 Å),ECOD,1,1,0,0,0,"5..39 (0.31 Å, rigid True, moves None)","13..25 (0.09 Å, rigid True, moves None)",True,False,False,False,False,False,False,True,1,1.0,0,0
+2LZY,expanded scan,20,34,1,1,22..35 (0.02 Å),7..35 (0.09 Å),ECOD,1,0,1,0,0,"22..35 (0.02 Å, rigid True, moves None)","7..35 (0.09 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2M0H,expanded scan,10,22,1,1,68..78 (0.06 Å),64..78 (0.09 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2M0N,expanded scan,20,112,1,1,40..97 (0.61 Å),38..112 (1.53 Å),CATH,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.53,0
+2M0Q,expanded scan,10,123,3,3,12..24 (0.24 Å) | 51..74 (0.57 Å) | 89..106 (0.71 Å),12..24 (0.24 Å) | 51..74 (0.57 Å) | 89..113 (1.12 Å),ECOD,1,0,0,0,0,,,False,True,False,True,False,False,False,False,,0.0,0.12,0
+2M0S,expanded scan,10,28,2,1,3..16 (0.05 Å) | 19..26 (0.07 Å),2..16 (0.10 Å),,0,0,0,0,0,"19..26 (0.07 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,99.3
+2M0W,expanded scan,20,23,1,2,2..11 (0.25 Å),1..10 (0.28 Å) | 11..23 (0.49 Å),,0,0,0,0,0,,"11..23 (0.49 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2M1A,expanded scan,20,26,1,2,16..26 (0.25 Å),6..17 (0.46 Å) | 18..26 (0.15 Å),,0,0,0,0,0,,"6..17 (0.46 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2M2R,expanded scan,20,33,1,1,19..32 (0.19 Å),2..33 (0.70 Å),ECOD,1,0,1,0,0,"19..32 (0.19 Å, rigid True, moves None)","2..33 (0.70 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2M3V,expanded scan,20,193,1,2,"37..167, 175..184 (0.70 Å)","37..167, 175..184 (0.70 Å) | 185..193 (0.19 Å)",CATH,1,1,1,0,0,,"185..193 (0.19 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2M45,expanded scan,20,87,1,2,621..685 (0.51 Å),610..618 (0.20 Å) | 621..686 (0.51 Å),CATH,1,1,1,0,0,,"610..618 (0.20 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2M4E,expanded scan,20,86,1,1,"9..30, 40..78 (0.28 Å)",7..86 (0.49 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2M4M,expanded scan,20,124,1,1,9..116 (1.52 Å),"11..40, 67..115 (0.84 Å)",CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2M5I,expanded scan,20,135,4,6,81..92 (0.25 Å) | 124..136 (0.39 Å) | 148..160 (0.21 Å) | 167..176 (0.17 Å),78..100 (1.50 Å) | 105..116 (0.54 Å) | 126..136 (0.30 Å) | 142..165 (1.01 Å) | 167..176 (0.17 Å) | 182..189 (0.32 Å),ECOD,1,0,0,0,0,,"105..116 (0.54 Å, rigid True, moves True); 182..189 (0.32 Å, rigid True, moves True)",False,True,False,False,True,False,False,False,,0.0,0.5,0
+2M5P,expanded scan,10,27,1,1,"4..15, 17..20 (0.90 Å)","1..1, 3..15, 17..29 (2.30 Å)",,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,1.3,0
+2M6J,expanded scan,20,25,1,1,2..16 (0.19 Å),2..23 (0.18 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2M7E,expanded scan,20,26,1,1,2..14 (0.33 Å),2..18 (0.46 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2M7T,expanded scan,20,33,1,1,13..33 (0.14 Å),2..33 (0.22 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2M88,expanded scan,20,185,2,2,"17..29, 119..150 (3.10 Å) | 34..101 (0.82 Å)",34..103 (0.88 Å) | 119..149 (1.87 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.87,0
+2M8F,expanded scan,20,24,1,1,1..9 (0.29 Å),1..22 (0.76 Å),,0,0,0,0,0,"1..9 (0.29 Å, rigid True, moves None)","1..22 (0.76 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2M9A,expanded scan,20,89,2,3,12..66 (1.46 Å) | 81..95 (0.23 Å),12..41 (0.67 Å) | 42..64 (0.37 Å) | 73..95 (0.32 Å),CATH,3,0,3,1,0,,"42..64 (0.37 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,-3.5,0,0
+2M9F,expanded scan,20,33,1,1,6..28 (0.35 Å),16..27 (0.18 Å),ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+2M9R,expanded scan,12,40,0,1,,9..22 (1.11 Å),,0,0,0,0,0,,"9..22 (1.11 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.11,0
+2M9Y,expanded scan,20,74,1,1,"337..353, 359..379 (0.22 Å)","341..353, 360..376 (0.15 Å)",ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+2MA7,expanded scan,20,73,2,2,30..37 (0.27 Å) | 52..65 (0.35 Å),30..37 (0.27 Å) | 44..66 (0.59 Å),ECOD,2,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2MAR,expanded scan,20,134,2,4,3..107 (1.33 Å) | 117..125 (0.07 Å),5..47 (0.40 Å) | 61..96 (0.27 Å) | 103..113 (0.10 Å) | 117..125 (0.07 Å),ECOD,1,1,0,0,0,"3..107 (1.33 Å, rigid False, moves True)","5..47 (0.40 Å, rigid True, moves True); 61..96 (0.27 Å, rigid True, moves True); 103..113 (0.10 Å, rigid True, moves True)",True,False,False,False,True,True,False,False,,1.0,0,100.0
+2MAZ,expanded scan,20,75,1,1,15..67 (1.14 Å),1..73 (1.23 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.23,0
+2MCD,expanded scan,20,98,1,2,62..112 (0.21 Å),"11..11, 28..44 (2.22 Å) | 61..114 (0.22 Å)",ECOD,1,1,1,0,0,,"11..11, 28..44 (2.22 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,1.22,0
+2MDF,expanded scan,25,57,2,2,229..236 (0.18 Å) | 262..274 (0.25 Å),237..252 (1.31 Å) | 262..274 (0.25 Å),CATH,1,0,0,0,0,"229..236 (0.18 Å, rigid True, moves True)","237..252 (1.31 Å, rigid False, moves True)",False,True,True,False,False,False,False,True,2,0.0,0.31,100.0
+2MDG,expanded scan,20,55,2,2,15..26 (0.33 Å) | 33..54 (0.46 Å),5..26 (0.52 Å) | 33..55 (0.47 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MDU,expanded scan,22,29,1,1,4..15 (0.25 Å),2..29 (0.78 Å),ECOD,1,0,1,0,0,"4..15 (0.25 Å, rigid True, moves None)","2..29 (0.78 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2ME2,expanded scan,10,27,2,2,659..670 (0.10 Å) | 674..683 (0.07 Å),660..672 (0.07 Å) | 674..683 (0.06 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2ME3,expanded scan,10,27,2,1,661..673 (0.09 Å) | 674..682 (0.33 Å),661..673 (0.09 Å),ECOD,1,0,0,0,0,"674..682 (0.33 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,99.3
+2ME4,expanded scan,10,27,2,1,663..672 (0.10 Å) | 674..682 (0.07 Å),674..682 (0.07 Å),ECOD,1,0,0,0,0,"663..672 (0.10 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,85.6
+2MEO,expanded scan,20,33,1,1,11..22 (0.42 Å),6..31 (0.78 Å),ECOD,1,0,1,0,0,"11..22 (0.42 Å, rigid True, moves None)","6..31 (0.78 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2MFP,expanded scan,20,31,1,1,4..14 (0.23 Å),3..21 (0.45 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2MFR,expanded scan,20,57,1,2,18..39 (0.35 Å),2..10 (0.44 Å) | 18..39 (0.35 Å),ECOD,1,0,0,0,0,,"2..10 (0.44 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2MG2,expanded scan,20,28,2,1,4..15 (0.53 Å) | 16..27 (0.15 Å),18..27 (0.13 Å),,0,0,0,0,0,"4..15 (0.53 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,91.2
+2MG3,expanded scan,20,28,1,1,14..27 (0.05 Å),11..28 (0.10 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MHW,expanded scan,10,27,1,2,12..23 (0.16 Å),3..18 (0.47 Å) | 19..27 (0.08 Å),,0,0,0,0,0,"12..23 (0.16 Å, rigid True, moves None)","3..18 (0.47 Å, rigid True, moves False); 19..27 (0.08 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2MII,expanded scan,20,197,2,1,"13..25 (2.01 Å) | 62..122, 127..196 (0.15 Å)","62..122, 127..197 (0.15 Å)",ECOD,1,1,1,0,0,"13..25 (2.01 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+2MIQ,expanded scan,20,94,2,1,6..17 (1.61 Å) | 38..87 (0.92 Å),38..87 (0.92 Å),CATH,1,1,1,0,0,"6..17 (1.61 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+2MK4,expanded scan,20,130,3,2,"6..26 (2.01 Å) | 29..50 (1.58 Å) | 63..88, 93..122 (0.21 Å)","6..26 (2.01 Å) | 63..88, 93..122 (0.21 Å)",ECOD,1,0,0,0,0,"29..50 (1.58 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,1.01,100.0
+2MKF,expanded scan,20,62,2,3,82..93 (0.20 Å) | 110..118 (0.13 Å),"80..80, 82..93 (0.22 Å) | 107..117 (0.15 Å) | 119..129 (0.68 Å)",ECOD,1,0,0,0,0,,"119..129 (0.68 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,0.0,0,0
+2MKG,expanded scan,20,63,2,2,81..92 (0.16 Å) | 108..118 (0.15 Å),79..99 (0.65 Å) | 108..118 (0.15 Å),CATH,1,0,0,0,0,,,False,False,False,True,False,False,False,False,,0.0,0,0
+2ML7,expanded scan,10,31,1,1,16..28 (0.16 Å),1..31 (0.35 Å),ECOD,1,0,1,0,0,"16..28 (0.16 Å, rigid True, moves None)","1..31 (0.35 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2ML9,expanded scan,20,58,1,2,238..248 (0.65 Å),217..230 (0.71 Å) | 233..248 (1.06 Å),ECOD,1,0,0,0,0,,"217..230 (0.71 Å, rigid True, moves True)",False,True,False,False,True,False,False,False,,0.0,0.06,0
+2MLP,expanded scan,25,26,1,1,12..20 (0.10 Å),7..21 (0.23 Å),SCOP,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2MLV,expanded scan,20,30,1,1,2..15 (0.07 Å),2..19 (0.08 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MMG,expanded scan,10,216,1,3,9..175 (0.17 Å),9..175 (0.17 Å) | 182..190 (0.85 Å) | 199..207 (0.14 Å),CATH,1,1,1,0,0,,"182..190 (0.85 Å, rigid True, moves True); 199..207 (0.14 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2MMJ,expanded scan,20,20,1,1,"6..10, 12..21 (0.20 Å)","2..10, 12..21 (0.21 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MMK,expanded scan,10,69,2,2,"1..32 (0.02 Å) | 46..50, 52..62 (0.23 Å)","1..42 (0.07 Å) | 46..50, 52..59 (0.16 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2MMM,expanded scan,20,36,2,1,27..37 (0.22 Å) | 46..59 (0.09 Å),26..61 (0.72 Å),,0,0,0,0,0,"27..37 (0.22 Å, rigid True, moves False); 46..59 (0.09 Å, rigid True, moves False)","26..61 (0.72 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,90.7
+2MN7,expanded scan,20,48,1,2,6..43 (0.56 Å),6..25 (0.30 Å) | 30..42 (0.10 Å),CATH,1,1,0,0,0,,"30..42 (0.10 Å, rigid True, moves False)",True,False,False,False,False,False,False,True,1,1.0,0,0
+2MN9,expanded scan,20,20,1,1,14..21 (0.28 Å),2..9 (0.25 Å),,0,0,0,0,0,"14..21 (0.28 Å, rigid True, moves None)","2..9 (0.25 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2MNQ,expanded scan,20,28,1,2,13..26 (0.65 Å),1..11 (0.47 Å) | 12..26 (0.71 Å),,0,0,0,0,0,,"1..11 (0.47 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2MNS,expanded scan,50,20,0,1,,1..9 (1.12 Å),,0,0,0,0,0,,"1..9 (1.12 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.12,0
+2MOF,expanded scan,20,42,1,1,384..398 (0.18 Å),380..398 (0.26 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MT8,expanded scan,20,39,1,1,8..30 (0.40 Å),1..39 (1.71 Å),ECOD,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.71,0
+2MUL,expanded scan,20,53,1,1,2966..2992 (0.51 Å),2957..2992 (0.73 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MUX,expanded scan,15,146,1,3,97..138 (3.14 Å),17..55 (0.37 Å) | 101..113 (0.25 Å) | 125..136 (0.38 Å),ECOD,2,1,1,0,0,"97..138 (3.14 Å, rigid False, moves None)","17..55 (0.37 Å, rigid True, moves True); 101..113 (0.25 Å, rigid True, moves True); 125..136 (0.38 Å, rigid True, moves True)",False,False,False,False,True,True,False,False,,0.0,0,0
+2MVA,expanded scan,10,27,1,1,10..26 (0.53 Å),5..27 (0.99 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MVH,expanded scan,10,26,1,1,11..20 (0.10 Å),4..24 (0.57 Å),ECOD,1,0,1,0,0,"11..20 (0.10 Å, rigid True, moves None)","4..24 (0.57 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2MVK,expanded scan,20,25,1,1,304..315 (0.46 Å),"300..302, 304..322 (1.36 Å)",,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.36,0
+2MVN,expanded scan,20,44,1,2,167..183 (0.42 Å),149..160 (1.91 Å) | 167..183 (0.42 Å),,0,0,0,0,0,,"149..160 (1.91 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.91,0
+2MW3,expanded scan,15,21,1,1,7..16 (0.13 Å),1..16 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MW5,expanded scan,10,97,1,2,23..96 (1.51 Å),8..19 (2.17 Å) | 23..96 (1.51 Å),CATH,1,1,1,0,0,,"8..19 (2.17 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,1.17,0
+2MW6,expanded scan,10,26,1,1,2..26 (0.37 Å),13..26 (0.08 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MWR,expanded scan,20,58,3,1,1..8 (0.07 Å) | 17..26 (0.22 Å) | 33..48 (0.22 Å),1..58 (1.48 Å),ECOD,1,0,1,0,0,"1..8 (0.07 Å, rigid True, moves True); 17..26 (0.22 Å, rigid True, moves True); 33..48 (0.22 Å, rigid True, moves True)","1..58 (1.48 Å, rigid False, moves None)",False,True,True,True,False,False,False,False,,-1.0,0.48,100.0
+2MYQ,expanded scan,20,43,1,2,9..44 (0.67 Å),14..28 (0.18 Å) | 29..44 (0.19 Å),ECOD,1,1,0,0,0,"9..44 (0.67 Å, rigid True, moves None)","14..28 (0.18 Å, rigid True, moves True); 29..44 (0.19 Å, rigid True, moves True)",True,False,False,False,True,False,False,False,,1.0,0,0
+2N11,expanded scan,20,74,3,3,6..25 (0.25 Å) | 33..44 (0.21 Å) | 62..74 (0.21 Å),6..31 (0.34 Å) | 33..48 (0.80 Å) | 62..74 (0.21 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N24,expanded scan,20,30,1,1,8..20 (0.08 Å),2..20 (0.09 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2N26,expanded scan,20,55,2,2,68..82 (0.15 Å) | 87..110 (0.17 Å),59..85 (0.32 Å) | 87..110 (0.17 Å),SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N2M,expanded scan,10,156,2,1,"4..16, 24..36, 41..52, 68..97, 113..138, 144..155 (0.54 Å) | 101..109 (0.24 Å)","4..16, 25..36, 42..52, 68..97, 113..138, 144..155 (0.52 Å)",CATH,1,1,1,0,0,"101..109 (0.24 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,97.7
+2N34,expanded scan,20,70,2,2,202..211 (1.77 Å) | 214..235 (1.34 Å),177..187 (1.70 Å) | 214..235 (1.34 Å),,0,0,0,0,0,"202..211 (1.77 Å, rigid False, moves True)","177..187 (1.70 Å, rigid False, moves True)",False,False,False,False,False,True,False,False,,0.0,0.7,100.0
+2N3P,expanded scan,20,31,1,1,19..32 (0.02 Å),3..32 (0.05 Å),ECOD,1,0,1,0,0,"19..32 (0.02 Å, rigid True, moves None)","3..32 (0.05 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2N47,expanded scan,20,197,1,2,"28..132, 152..171, 187..193 (0.74 Å)","1..22 (2.51 Å) | 28..132, 152..171, 187..193 (0.74 Å)",CATH,1,1,1,0,0,,"1..22 (2.51 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,1.51,0
+2N4G,expanded scan,10,50,1,2,322..329 (0.19 Å),322..329 (0.19 Å) | 338..345 (0.40 Å),,0,0,0,0,0,,"338..345 (0.40 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2N4H,expanded scan,10,50,1,1,321..332 (0.48 Å),321..341 (1.39 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.39,0
+2N4K,expanded scan,20,43,1,1,6..35 (1.77 Å),15..35 (0.96 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N4V,expanded scan,20,37,1,1,436..448 (0.13 Å),434..464 (0.38 Å),ECOD,1,0,1,0,0,"436..448 (0.13 Å, rigid True, moves None)","434..464 (0.38 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2N58,expanded scan,20,30,1,1,11..26 (0.31 Å),4..28 (0.78 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N5K,expanded scan,20,29,1,1,304..313 (0.09 Å),300..324 (0.37 Å),ECOD,1,0,1,0,0,"304..313 (0.09 Å, rigid True, moves None)","300..324 (0.37 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2N5Q,expanded scan,20,27,1,1,15..26 (0.09 Å),3..27 (0.14 Å),ECOD,1,0,1,0,0,"15..26 (0.09 Å, rigid True, moves None)","3..27 (0.14 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2N5S,expanded scan,10,54,2,1,50..67 (0.02 Å) | 74..86 (0.38 Å),46..70 (0.14 Å),CATH,1,0,0,0,0,"74..86 (0.38 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+2N68,expanded scan,20,23,1,1,1..9 (0.28 Å),1..17 (0.52 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N6M,expanded scan,20,21,1,1,2..13 (0.08 Å),2..21 (0.22 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N6U,expanded scan,20,20,1,1,1..12 (0.30 Å),1..18 (0.33 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N72,expanded scan,30,69,2,1,4..45 (0.37 Å) | 46..64 (0.28 Å),4..50 (0.41 Å),,0,0,0,0,0,"46..64 (0.28 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+2N7I,expanded scan,10,37,2,1,212..223 (0.14 Å) | 224..235 (0.10 Å),224..235 (0.10 Å),,0,0,0,0,0,"212..223 (0.14 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,85.3
+2N86,expanded scan,20,59,1,1,8..49 (1.52 Å),4..59 (1.65 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.65,0
+2N8B,expanded scan,20,36,1,1,16..36 (0.30 Å),2..36 (0.77 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2N8X,expanded scan,20,166,1,2,"33..41, 49..79, 95..123, 132..175 (0.40 Å)","18..26 (1.35 Å) | 33..41, 49..79, 95..123, 132..175 (0.40 Å)",CATH,1,1,1,0,0,,"18..26 (1.35 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.35,0
+2NA1,expanded scan,10,145,1,2,"42..45, 128..140, 161..231 (0.09 Å)",128..140 (0.06 Å) | 160..231 (0.06 Å),ECOD,1,1,1,0,0,,"128..140 (0.06 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2NA8,expanded scan,21,44,1,1,444..458 (0.14 Å),443..465 (0.26 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NAB,expanded scan,15,41,1,1,12..26 (0.19 Å),12..31 (0.20 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NAT,expanded scan,20,28,1,1,2..23 (0.49 Å),1..28 (0.69 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NAU,expanded scan,20,28,1,1,2..20 (0.89 Å),2..15 (0.69 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NAV,expanded scan,20,28,1,1,9..19 (0.23 Å),9..25 (0.32 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NAW,expanded scan,20,39,1,2,18..29 (0.32 Å),4..13 (1.01 Å) | 17..38 (0.52 Å),,0,0,0,0,0,,"4..13 (1.01 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.01,0
+2NBG,expanded scan,20,125,1,2,419..496 (0.43 Å),419..496 (0.43 Å) | 500..507 (0.28 Å),ECOD,1,1,1,0,0,,"500..507 (0.28 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2NBL,expanded scan,10,24,1,1,"13, 15..16, 18..22, 25..29 (1.60 Å)","2..5, 7..13, 15..16, 18..22, 25..29 (1.85 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.85,0
+2NCA,expanded scan,20,126,2,1,27..74 (0.63 Å) | 80..99 (0.09 Å),38..111 (0.75 Å),ECOD,1,0,1,0,0,"27..74 (0.63 Å, rigid True, moves True); 80..99 (0.09 Å, rigid True, moves True)","38..111 (0.75 Å, rigid True, moves None)",False,False,True,True,False,False,False,False,,-1.0,0,100.0
+2NCU,expanded scan,20,21,1,1,8..19 (0.12 Å),2..19 (0.26 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NCV,expanded scan,20,21,1,1,8..19 (0.11 Å),2..21 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NCW,expanded scan,20,24,1,1,6..15 (0.08 Å),1..24 (0.48 Å),,0,0,0,0,0,"6..15 (0.08 Å, rigid True, moves None)","1..24 (0.48 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2NCY,expanded scan,20,24,1,2,2..23 (0.31 Å),2..15 (0.17 Å) | 16..24 (0.09 Å),,0,0,0,0,0,,"16..24 (0.09 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2NDD,expanded scan,20,25,1,1,12..22 (0.32 Å),6..23 (0.58 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2NDK,expanded scan,20,48,3,2,6..20 (0.43 Å) | 25..33 (0.09 Å) | 39..47 (0.18 Å),25..33 (0.09 Å) | 40..48 (0.17 Å),,0,0,0,0,0,"6..20 (0.43 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,97.2
+2NR1,expanded scan,10,23,2,1,5..14 (0.12 Å) | 15..25 (0.24 Å),5..14 (0.12 Å),SCOP,1,0,0,0,0,"15..25 (0.24 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,95.2
+2NX7,expanded scan,10,28,1,1,4..26 (0.12 Å),10..28 (0.10 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NY9,expanded scan,10,41,1,1,1..41 (1.29 Å),16..41 (0.45 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2NZ3,expanded scan,10,40,1,1,16..30 (0.37 Å),2..40 (1.25 Å),ECOD,1,0,1,0,0,"16..30 (0.37 Å, rigid True, moves None)","2..40 (1.25 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.25,0
+2NZZ,expanded scan,30,37,1,1,19..32 (0.44 Å),17..37 (0.84 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2O00,expanded scan,24,37,1,1,15..30 (1.99 Å),22..34 (2.04 Å),,0,0,0,0,0,"15..30 (1.99 Å, rigid False, moves None)","22..34 (2.04 Å, rigid False, moves None)",False,False,False,False,False,True,False,False,,0.0,1.04,0
+2OJM,expanded scan,20,22,1,1,3..21 (0.40 Å),8..22 (0.31 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2OON,expanded scan,20,36,1,1,13..31 (0.39 Å),4..33 (0.94 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2OP7,expanded scan,10,39,1,1,12..34 (0.23 Å),"2..4, 9..35 (0.28 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2OUT,expanded scan,20,131,2,2,"6..20, 28..57 (0.66 Å) | 89..121 (0.69 Å)","7..14, 31..56 (0.40 Å) | 89..121 (0.69 Å)",SCOP,3,2,2,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2OV6,expanded scan,10,101,1,2,2..78 (0.66 Å),2..78 (0.66 Å) | 92..101 (0.31 Å),CATH,1,1,1,0,0,,"92..101 (0.31 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2P4L,expanded scan,20,43,1,1,15..28 (0.23 Å),"4..10, 12..28, 30..38 (1.16 Å)",CATH,1,0,1,0,0,"15..28 (0.23 Å, rigid True, moves None)","4..10, 12..28, 30..38 (1.16 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.16,0
+2PCO,expanded scan,20,26,1,1,12..21 (0.09 Å),8..21 (0.12 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2PO8,expanded scan,20,34,1,1,13..26 (0.23 Å),7..28 (0.35 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2PPZ,expanded scan,10,36,1,1,9..22 (0.05 Å),6..25 (0.09 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2PXG,expanded scan,20,118,1,2,"18..56, 70..88 (0.93 Å)","18..56, 70..88 (0.93 Å) | 105..112 (1.56 Å)",ECOD,1,0,0,0,0,,"105..112 (1.56 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.56,0
+2RME,expanded scan,20,35,1,1,22..32 (0.58 Å),"7..8, 10..17, 19..25 (0.86 Å)",SCOP,1,0,0,0,0,"22..32 (0.58 Å, rigid True, moves None)","7..8, 10..17, 19..25 (0.86 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+2RMH,expanded scan,20,38,1,1,14..26 (0.13 Å),12..30 (0.25 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2RMV,expanded scan,10,26,0,1,,144..159 (2.39 Å),SCOP,2,0,1,0,0,,"144..159 (2.39 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,1.39,0
+2RPV,expanded scan,20,75,1,2,2..75 (0.41 Å),2..19 (0.16 Å) | 20..75 (0.14 Å),CATH,1,1,1,0,0,,"2..19 (0.16 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2RQ2,expanded scan,20,30,1,1,11..21 (0.18 Å),10..27 (0.47 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2RQM,expanded scan,20,141,2,3,16..25 (0.26 Å) | 62..133 (0.65 Å),6..26 (1.28 Å) | 33..44 (1.40 Å) | 62..133 (0.65 Å),ECOD,1,1,1,0,0,"16..25 (0.26 Å, rigid True, moves True)","6..26 (1.28 Å, rigid False, moves True); 33..44 (1.40 Å, rigid False, moves True)",False,True,True,False,False,False,False,True,2,0.0,0.4,100.0
+2RRL,expanded scan,15,169,2,4,16..27 (1.45 Å) | 60..153 (0.80 Å),2..11 (1.41 Å) | 16..27 (1.45 Å) | 60..153 (0.80 Å) | 156..167 (1.27 Å),ECOD,1,1,1,0,0,,"2..11 (1.41 Å, rigid False, moves True); 156..167 (1.27 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.45,0
+2RSD,expanded scan,20,68,2,1,"112..146, 157..167 (0.17 Å) | 147..156 (0.18 Å)","112..146, 156..167 (0.17 Å)",CATH,1,1,1,0,0,"147..156 (0.18 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,95.9
+2RSH,expanded scan,20,37,1,1,23..33 (0.32 Å),11..33 (0.45 Å),ECOD,1,0,1,0,0,"23..33 (0.32 Å, rigid True, moves None)","11..33 (0.45 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2RSM,expanded scan,20,115,1,2,"41..53, 68..110 (0.50 Å)","20..34 (1.56 Å) | 41..53, 68..110 (0.50 Å)",CATH,1,0,0,0,0,,"20..34 (1.56 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.56,0
+2RT4,expanded scan,20,25,1,1,5..17 (0.38 Å),3..25 (0.63 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2RTY,expanded scan,20,30,1,1,4..30 (0.24 Å),5..22 (0.10 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2RU0,expanded scan,20,36,1,1,10..25 (0.12 Å),3..36 (0.29 Å),ECOD,1,0,1,0,0,"10..25 (0.12 Å, rigid True, moves None)","3..36 (0.29 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2RUT,expanded scan,20,36,1,1,19..32 (0.06 Å),9..32 (0.08 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2RUX,expanded scan,20,36,1,1,9..24 (0.10 Å),9..31 (0.11 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2RV3,expanded scan,20,36,1,1,10..31 (0.14 Å),10..23 (0.11 Å),ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+2RV7,expanded scan,20,92,3,3,8..20 (0.09 Å) | 49..60 (0.09 Å) | 65..88 (0.20 Å),8..30 (0.11 Å) | 38..61 (0.14 Å) | 65..88 (0.20 Å),ECOD,3,1,3,0,0,,,False,False,False,True,False,False,False,False,,-2.0,0,0
+2V93,expanded scan,50,366,2,1,"5..109, 262..319 (0.10 Å) | 114..253, 332..370 (0.08 Å)","81..87, 103..105, 266..268, 311..313 (0.00 Å)",SCOP,1,0,0,0,0,"5..109, 262..319 (0.10 Å, rigid True, moves True); 114..253, 332..370 (0.08 Å, rigid True, moves True)","81..87, 103..105, 266..268, 311..313 (0.00 Å, rigid True, moves None)",False,False,True,False,False,False,False,True,3,0.0,0,96.2
+2W9O,expanded scan,40,46,1,1,10..22 (0.52 Å),4..42 (1.07 Å),CATH,1,0,1,0,0,"10..22 (0.52 Å, rigid True, moves None)","4..42 (1.07 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.07,0
+2W9U,expanded scan,42,46,1,1,15..38 (0.45 Å),6..43 (0.59 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2YEN,expanded scan,20,21,1,1,9..22 (0.46 Å),3..22 (0.62 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2YRM,expanded scan,20,43,1,1,16..29 (0.31 Å),11..34 (0.39 Å),CATH,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+2YRQ,expanded scan,20,173,3,2,"14..16, 73..85 (0.84 Å) | 20..72 (0.51 Å) | 106..162 (0.51 Å)",20..74 (0.52 Å) | 106..162 (0.51 Å),CATH,2,2,2,0,0,"14..16, 73..85 (0.84 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+2YSA,expanded scan,20,55,1,1,8..20 (0.09 Å),9..24 (0.09 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2YSB,expanded scan,20,49,1,1,10..33 (0.09 Å),11..42 (0.10 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2YSD,expanded scan,20,57,1,1,26..39 (0.07 Å),15..43 (0.09 Å),SCOP,3,0,1,0,0,"26..39 (0.07 Å, rigid True, moves None)","15..43 (0.09 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2YSV,expanded scan,20,42,0,1,,758..780 (0.67 Å),SCOP,3,0,1,0,0,,"758..780 (0.67 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2YTB,expanded scan,20,42,1,1,194..205 (0.04 Å),194..219 (0.08 Å),SCOP,3,0,1,0,0,"194..205 (0.04 Å, rigid True, moves None)","194..219 (0.08 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2YTQ,expanded scan,20,46,1,1,18..34 (0.26 Å),13..35 (0.33 Å),SCOP,3,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2YTR,expanded scan,20,46,1,1,25..33 (0.09 Å),14..34 (0.18 Å),SCOP,3,0,1,0,0,"25..33 (0.09 Å, rigid True, moves None)","14..34 (0.18 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2YTS,expanded scan,20,46,1,1,21..33 (0.20 Å),12..35 (0.31 Å),SCOP,3,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+31DL,expanded scan,20,153,2,3,774..834 (0.78 Å) | 861..901 (0.37 Å),774..834 (0.78 Å) | 844..855 (0.51 Å) | 861..901 (0.37 Å),,0,0,0,0,0,,"844..855 (0.51 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+38TI,expanded scan,20,32,1,1,3..16 (0.58 Å),3..26 (0.57 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+3GCC,expanded scan,46,63,1,1,"146..152, 156..194 (0.42 Å)",146..203 (0.53 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+3LEU,expanded scan,19,37,1,2,9..31 (2.00 Å),5..18 (1.49 Å) | 19..29 (0.15 Å),SCOP,1,1,0,0,0,"9..31 (2.00 Å, rigid False, moves None)","5..18 (1.49 Å, rigid False, moves True); 19..29 (0.15 Å, rigid True, moves True)",True,False,False,False,True,True,False,False,,1.0,0.49,0
+3ZBE,expanded scan,50,71,1,2,42..53 (0.75 Å),16..29 (0.95 Å) | 42..57 (1.17 Å),CATH,1,0,0,0,0,,"16..29 (0.95 Å, rigid True, moves True)",False,True,False,True,True,False,False,False,,0.0,0.17,0
+3ZJ1,expanded scan,20,83,2,1,261..301 (0.32 Å) | 302..325 (0.66 Å),260..311 (0.36 Å),CATH,1,0,1,0,0,"302..325 (0.66 Å, rigid True, moves False)",,False,False,False,True,False,False,False,False,,-1.0,0,93.4
+4APD,expanded scan,20,31,1,2,26..34 (0.29 Å),12..20 (0.54 Å) | 26..34 (0.29 Å),,0,0,0,0,0,,"12..20 (0.54 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+4AXP,expanded scan,20,109,4,3,23..34 (0.09 Å) | 49..60 (0.39 Å) | 74..82 (0.07 Å) | 85..100 (0.26 Å),23..34 (0.09 Å) | 46..67 (1.06 Å) | 74..101 (0.59 Å),ECOD,1,0,0,0,0,"74..82 (0.07 Å, rigid True, moves True)",,False,True,True,True,False,False,True,False,,0.0,0.06,95.0
+4B1Q,expanded scan,20,27,1,1,"7..16, 18..21, 23..30 (0.65 Å)","10..16, 18..21, 23..25 (0.40 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+4BMF,expanded scan,19,38,1,1,19..28 (0.15 Å),2..38 (0.50 Å),ECOD,1,0,1,0,0,"19..28 (0.15 Å, rigid True, moves None)","2..38 (0.50 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+4CZ4,expanded scan,20,24,1,1,59..71 (0.11 Å),57..74 (0.22 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5A4G,expanded scan,20,180,3,3,"25..59 (0.37 Å) | 67..71, 155..164 (2.56 Å) | 80..87, 93..149 (0.50 Å)","25..59 (0.37 Å) | 80..87, 93..149 (0.50 Å) | 152..166 (2.24 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,1.24,0
+5H3M,expanded scan,20,133,1,2,"6..48, 54..115 (0.68 Å)","6..48, 54..115 (0.68 Å) | 124..133 (1.04 Å)",CATH,1,1,1,0,0,,"124..133 (1.04 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.04,0
+5ID5,expanded scan,10,25,1,1,3..13 (0.09 Å),3..19 (0.11 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5ION,expanded scan,20,29,1,1,13..26 (0.19 Å),4..26 (0.28 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+5KGY,expanded scan,20,21,1,1,3..16 (0.22 Å),2..20 (0.53 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5KJ3,expanded scan,20,22,1,1,1..9 (0.07 Å),1..13 (0.20 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5KTF,expanded scan,20,73,1,2,458..468 (0.46 Å),404..421 (0.80 Å) | 437..468 (1.43 Å),,0,0,0,0,0,"458..468 (0.46 Å, rigid True, moves None)","404..421 (0.80 Å, rigid True, moves True); 437..468 (1.43 Å, rigid False, moves True)",False,True,False,False,True,False,False,False,,0.0,0.43,0
+5KWO,expanded scan,20,24,1,1,"3..5, 7..18 (0.28 Å)","3..5, 7..19, 21..23 (0.35 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5KWX,expanded scan,20,24,2,1,"2..5, 7..10 (0.22 Å) | 11..21 (0.29 Å)","1..5, 7..25 (0.78 Å)",,0,0,0,0,0,"2..5, 7..10 (0.22 Å, rigid True, moves False); 11..21 (0.29 Å, rigid True, moves False)","1..5, 7..25 (0.78 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,93.9
+5L3L,expanded scan,20,67,1,1,"8..28, 41..61 (0.45 Å)",9..24 (0.46 Å),CATH,1,1,0,0,0,"8..28, 41..61 (0.45 Å, rigid True, moves None)","9..24 (0.46 Å, rigid True, moves None)",True,False,False,False,False,False,False,True,1,1.0,0,0
+5L6R,expanded scan,20,145,1,2,"122..165, 175..226 (0.39 Å)","105..113 (0.97 Å) | 122..165, 175..226 (0.39 Å)",ECOD,1,1,1,0,0,,"105..113 (0.97 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5LGF,expanded scan,20,159,1,2,"2..25, 32..41, 45..67, 99..138 (0.45 Å)","2..25, 32..41, 45..67, 99..138 (0.45 Å) | 84..91 (0.24 Å)",ECOD,1,1,1,0,0,,"84..91 (0.24 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5MS9,expanded scan,20,177,2,1,"121..181 (0.80 Å) | 183..196, 200..287 (0.83 Å)",140..287 (1.61 Å),ECOD,3,1,0,1,1,"121..181 (0.80 Å, rigid True, moves True)",,True,True,True,False,False,False,False,True,1,1.0,0.61,100.0
+5MSL,expanded scan,20,75,1,2,"3..15, 49..63 (0.52 Å)","3..15, 49..63 (0.52 Å) | 33..40 (0.43 Å)",ECOD,1,0,0,0,0,,"33..40 (0.43 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5NCA,expanded scan,20,69,1,1,58..70 (0.45 Å),54..92 (3.22 Å),,0,0,0,0,0,"58..70 (0.45 Å, rigid True, moves None)","54..92 (3.22 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,2.22,0
+5NDA,expanded scan,20,33,1,1,16..26 (0.10 Å),5..25 (0.27 Å),,0,0,0,0,0,"16..26 (0.10 Å, rigid True, moves None)","5..25 (0.27 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+5NR5,expanded scan,30,113,1,3,35..77 (0.27 Å),1..12 (1.05 Å) | 35..77 (0.27 Å) | 95..103 (1.25 Å),ECOD,1,0,0,0,0,,"1..12 (1.05 Å, rigid False, moves True); 95..103 (1.25 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.25,0
+5NR6,expanded scan,30,113,1,2,35..77 (0.33 Å),35..77 (0.33 Å) | 84..94 (0.64 Å),ECOD,1,0,0,0,0,,"84..94 (0.64 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5NVP,expanded scan,20,34,1,2,25..34 (0.11 Å),3..13 (0.26 Å) | 25..34 (0.11 Å),ECOD,1,0,0,0,0,,"3..13 (0.26 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5NWU,expanded scan,20,34,1,2,21..33 (0.22 Å),"2..17, 19..21 (1.95 Å) | 22..34 (0.23 Å)",ECOD,1,0,1,0,0,,"2..17, 19..21 (1.95 Å, rigid False, moves True)",False,True,False,True,False,False,False,False,,-1.0,0.95,0
+5NWV,expanded scan,20,34,2,2,5..13 (0.28 Å) | 27..34 (0.08 Å),5..13 (0.28 Å) | 21..35 (0.28 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5NWW,expanded scan,20,34,0,1,,7..16 (0.59 Å),ECOD,1,0,0,0,0,,"7..16 (0.59 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,0.0,0,0
+5NZ9,expanded scan,20,25,1,1,13..21 (0.09 Å),11..26 (0.35 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+5T42,expanded scan,20,47,2,2,630..650 (0.70 Å) | 659..674 (0.14 Å),630..652 (0.79 Å) | 653..676 (0.42 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5TCE,expanded scan,20,34,2,2,1..12 (0.02 Å) | 19..31 (0.10 Å),1..16 (0.07 Å) | 18..30 (0.09 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5U9R,expanded scan,10,23,1,2,13..23 (0.24 Å),1..11 (0.59 Å) | 13..23 (0.24 Å),,0,0,0,0,0,,"1..11 (0.59 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5U9V,expanded scan,10,22,1,1,2..21 (0.47 Å),2..10 (0.09 Å),,0,0,0,0,0,"2..21 (0.47 Å, rigid True, moves None)","2..10 (0.09 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+5U9X,expanded scan,10,23,1,1,2..13 (0.42 Å),2..17 (0.68 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5UA6,expanded scan,10,22,2,1,2..10 (0.17 Å) | 11..22 (0.38 Å),2..13 (0.34 Å),,0,0,0,0,0,"11..22 (0.38 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,98.2
+5UA7,expanded scan,10,23,1,1,8..21 (0.39 Å),4..23 (0.61 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5UA8,expanded scan,10,25,1,1,15..25 (0.42 Å),1..25 (0.95 Å),,0,0,0,0,0,"15..25 (0.42 Å, rigid True, moves None)","1..25 (0.95 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+5UJG,expanded scan,20,24,1,1,9..24 (0.40 Å),1..24 (1.21 Å),ECOD,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.21,0
+5UJH,expanded scan,20,23,1,1,3..16 (0.07 Å),4..19 (0.19 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5UJR,expanded scan,20,33,1,1,4..16 (0.27 Å),3..20 (0.42 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5UZL,expanded scan,20,33,1,1,15..22 (0.34 Å),20..33 (0.91 Å),,0,0,0,0,0,"15..22 (0.34 Å, rigid True, moves None)","20..33 (0.91 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+5V1E,expanded scan,10,20,0,1,,4..11 (0.26 Å),,0,0,0,0,0,,"4..11 (0.26 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+5VFW,expanded scan,20,25,1,2,1..13 (0.08 Å),1..13 (0.08 Å) | 16..23 (0.46 Å),,0,0,0,0,0,,"16..23 (0.46 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5VWL,expanded scan,20,105,5,4,753..763 (0.14 Å) | 768..783 (0.13 Å) | 800..823 (0.08 Å) | 829..842 (0.21 Å) | 848..855 (0.15 Å),768..783 (0.13 Å) | 800..823 (0.08 Å) | 826..842 (0.23 Å) | 848..855 (0.15 Å),,0,0,0,0,0,"753..763 (0.14 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,100.0
+5WLX,expanded scan,20,36,1,1,2..33 (0.19 Å),17..30 (0.05 Å),ECOD,1,1,0,0,0,"2..33 (0.19 Å, rigid True, moves None)","17..30 (0.05 Å, rigid True, moves None)",True,False,False,False,False,False,False,True,1,1.0,0,0
+5WOV,expanded scan,20,34,1,1,16..31 (0.30 Å),4..34 (0.58 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+5WOW,expanded scan,20,39,1,1,19..30 (0.26 Å),1..39 (1.53 Å),ECOD,1,0,1,0,0,"19..30 (0.26 Å, rigid True, moves None)","1..39 (1.53 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.53,0
+5X0S,expanded scan,20,53,1,1,2..53 (1.13 Å),"3..9, 17..26, 35..52 (0.45 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5X37,expanded scan,20,36,1,1,20..36 (0.23 Å),2..36 (0.33 Å),ECOD,1,0,1,0,0,"20..36 (0.23 Å, rigid True, moves None)","2..36 (0.33 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+5XI9,expanded scan,10,185,1,2,15..166 (1.16 Å),15..166 (1.16 Å) | 169..185 (1.90 Å),ECOD,2,0,0,1,1,,"169..185 (1.90 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.9,0
+5XIR,expanded scan,10,185,1,2,15..154 (1.18 Å),15..154 (1.18 Å) | 159..169 (1.13 Å),ECOD,2,0,0,1,1,,"159..169 (1.13 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.18,0
+5XJK,expanded scan,20,65,1,3,42..51 (0.79 Å),6..14 (0.66 Å) | 42..51 (0.79 Å) | 54..64 (0.77 Å),,0,0,0,0,0,,"6..14 (0.66 Å, rigid True, moves True); 54..64 (0.77 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+5Y0H,expanded scan,20,21,1,1,6..16 (0.25 Å),5..18 (0.31 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5Y0I,expanded scan,20,21,1,1,5..18 (0.37 Å),2..21 (0.58 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5YDX,expanded scan,20,59,1,1,14..65 (1.10 Å),"16..25, 29..42, 58..62 (0.24 Å)",ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+5YDY,expanded scan,20,54,1,1,9..59 (1.23 Å),"10..37, 54..57 (0.31 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5ZV6,expanded scan,20,30,1,1,13..28 (0.23 Å),3..28 (0.52 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5ZYX,expanded scan,20,20,1,1,2..11 (0.06 Å),1..20 (0.69 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6AFQ,expanded scan,20,21,1,1,7..17 (0.12 Å),7..21 (0.16 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6AXD,expanded scan,20,33,1,1,52..70 (0.17 Å),40..72 (1.15 Å),ECOD,1,1,1,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.15,0
+6B3N,expanded scan,20,100,1,2,"2..49, 55..62, 66..84 (0.57 Å)","2..49, 55..62, 66..84 (0.57 Å) | 90..100 (0.43 Å)",ECOD,1,1,1,0,0,,"90..100 (0.43 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+6B9W,expanded scan,20,34,1,1,6..34 (0.72 Å),"10..22, 32..34 (0.17 Å)",ECOD,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+6BB6,expanded scan,20,34,1,1,9..22 (0.22 Å),4..34 (0.87 Å),ECOD,1,0,1,0,0,"9..22 (0.22 Å, rigid True, moves None)","4..34 (0.87 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+6BZK,expanded scan,10,57,1,1,32..53 (2.47 Å),35..45 (0.10 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6BZL,expanded scan,10,77,2,2,9..17 (0.32 Å) | 21..30 (0.37 Å),4..35 (3.21 Å) | 36..51 (0.53 Å),,0,0,0,0,0,"9..17 (0.32 Å, rigid True, moves True); 21..30 (0.37 Å, rigid True, moves True)","4..35 (3.21 Å, rigid False, moves True); 36..51 (0.53 Å, rigid True, moves True)",False,True,True,False,True,False,False,False,,0.0,2.21,100.0
+6C41,expanded scan,10,23,1,1,8..17 (0.22 Å),4..23 (0.55 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6C8U,expanded scan,10,115,1,0,"21..53, 63..95 (0.22 Å)",,CATH,1,1,0,0,0,"21..53, 63..95 (0.22 Å, rigid True, moves None)",,True,False,False,False,False,False,False,True,1,1.0,0,0
+6CEI,expanded scan,20,32,1,1,1..25 (0.18 Å),1..32 (0.28 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6CHC,expanded scan,10,29,1,1,"3..6, 8..10, 16, 20..27 (0.10 Å)","3..6, 8..10, 15..30 (0.23 Å)",ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6CJD,expanded scan,20,128,1,2,"45..57, 66..128 (0.59 Å)","45..57, 66..128 (0.59 Å) | 130..138 (0.78 Å)",ECOD,1,1,1,0,0,,"130..138 (0.78 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+6D3T,expanded scan,20,30,1,1,5..17 (0.24 Å),3..30 (0.52 Å),ECOD,1,0,1,0,0,"5..17 (0.24 Å, rigid True, moves None)","3..30 (0.52 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+6DST,expanded scan,20,26,1,1,10..22 (0.10 Å),4..23 (0.31 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6EWV,expanded scan,20,99,2,1,"2..54, 1563..1568 (0.17 Å) | 1545..1554 (0.33 Å)","2..58, 1563..1568 (0.20 Å)",ECOD,1,1,1,0,0,"1545..1554 (0.33 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+6F7M,expanded scan,20,23,1,1,"13..14, 16..18, 20..23 (0.22 Å)","13..14, 16..18, 20..26 (0.32 Å)",ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6FS4,expanded scan,20,31,1,1,10..22 (0.11 Å),5..27 (0.32 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6FS5,expanded scan,20,39,2,2,8..20 (0.13 Å) | 27..38 (0.16 Å),5..26 (0.31 Å) | 27..38 (0.16 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6FWN,expanded scan,20,85,2,2,2495..2549 (1.06 Å) | 2562..2575 (0.41 Å),2495..2549 (1.06 Å) | 2554..2577 (0.66 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.06,0
+6G81,expanded scan,20,117,2,1,"2..69, 105..116 (0.32 Å) | 70..104 (0.38 Å)",1..117 (0.73 Å),CATH,1,1,1,0,0,"70..104 (0.38 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+6GFT,expanded scan,20,33,1,1,12..32 (0.26 Å),2..32 (0.25 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6GIG,expanded scan,10,30,1,1,10..24 (0.25 Å),8..28 (0.37 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6H0I,expanded scan,20,75,2,1,6..33 (3.27 Å) | 55..67 (0.29 Å),41..67 (0.40 Å),ECOD,1,0,1,0,0,"6..33 (3.27 Å, rigid False, moves True); 55..67 (0.29 Å, rigid True, moves True)","41..67 (0.40 Å, rigid True, moves None)",False,False,True,True,False,True,False,False,,-1.0,0,100.0
+6HN9,expanded scan,20,33,1,2,4..16 (0.10 Å),2..17 (0.13 Å) | 23..31 (0.33 Å),,0,0,0,0,0,,"23..31 (0.33 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+6I3R,expanded scan,10,259,3,6,3..81 (0.80 Å) | 142..156 (1.73 Å) | 168..246 (0.92 Å),3..81 (0.80 Å) | 88..106 (1.96 Å) | 107..115 (1.08 Å) | 121..129 (0.89 Å) | 142..156 (1.73 Å) | 168..246 (0.92 Å),ECOD,2,2,2,0,0,,"88..106 (1.96 Å, rigid False, moves True); 107..115 (1.08 Å, rigid False, moves True); 121..129 (0.89 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0.96,0
+6IHA,expanded scan,20,30,1,1,7..29 (0.32 Å),17..29 (0.14 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6ITH,expanded scan,15,35,1,1,13..26 (0.05 Å),10..32 (0.09 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+6K4V,expanded scan,10,40,1,2,25..36 (0.25 Å),3..15 (2.21 Å) | 25..36 (0.25 Å),,0,0,0,0,0,,"3..15 (2.21 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,1.21,0
+6K4W,expanded scan,20,45,2,2,7..23 (2.02 Å) | 30..41 (0.24 Å),4..15 (1.22 Å) | 30..41 (0.24 Å),,0,0,0,0,0,"7..23 (2.02 Å, rigid False, moves True)","4..15 (1.22 Å, rigid False, moves True)",False,False,False,False,False,True,False,False,,0.0,0.22,100.0
+6LF5,expanded scan,16,34,1,1,6..24 (0.21 Å),2..30 (0.30 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6M56,expanded scan,20,30,1,2,22..29 (0.61 Å),8..17 (0.79 Å) | 22..29 (0.61 Å),ECOD,1,0,0,0,0,,"8..17 (0.79 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+6MM4,expanded scan,20,33,1,1,22..33 (0.20 Å),"12..16, 21..33 (0.21 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+6NFW,expanded scan,10,151,1,3,"71..144, 169..180 (1.10 Å)","40..54 (1.55 Å) | 58..69 (1.22 Å) | 71..144, 169..180 (1.10 Å)",,0,0,0,0,0,,"40..54 (1.55 Å, rigid False, moves True); 58..69 (1.22 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.55,0
+6NUG,expanded scan,20,24,1,1,7..24 (0.62 Å),2..24 (0.95 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6NW8,expanded scan,10,27,1,1,12..25 (0.26 Å),1..25 (0.45 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6O8J,expanded scan,10,25,1,1,6..18 (0.18 Å),2..25 (0.40 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6O8P,expanded scan,10,25,1,1,4..16 (0.24 Å),4..25 (0.38 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6O8S,expanded scan,10,25,1,1,13..25 (0.07 Å),2..25 (0.34 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6OKW,expanded scan,10,52,1,1,19..47 (1.68 Å),34..47 (0.48 Å),,0,0,0,0,0,"19..47 (1.68 Å, rigid False, moves None)","34..47 (0.48 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+6OKX,expanded scan,20,52,1,2,7..17 (0.37 Å),7..31 (1.34 Å) | 37..46 (0.35 Å),,0,0,0,0,0,"7..17 (0.37 Å, rigid True, moves None)","7..31 (1.34 Å, rigid False, moves True); 37..46 (0.35 Å, rigid True, moves True)",False,True,False,False,True,False,False,False,,0.0,0.34,0
+6OKY,expanded scan,20,52,0,2,,3..22 (2.58 Å) | 23..46 (1.83 Å),,0,0,0,0,0,,"3..22 (2.58 Å, rigid False, moves True); 23..46 (1.83 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,1.58,0
+6P6C,expanded scan,10,90,5,1,2..14 (0.50 Å) | 18..26 (0.13 Å) | 27..40 (0.67 Å) | 41..54 (0.31 Å) | 62..85 (0.59 Å),26..87 (2.30 Å),CATH,1,0,1,0,0,"2..14 (0.50 Å, rigid True, moves True); 18..26 (0.13 Å, rigid True, moves True); 27..40 (0.67 Å, rigid True, moves True); 41..54 (0.31 Å, rigid True, moves True); 62..85 (0.59 Å, rigid True, moves True)","26..87 (2.30 Å, rigid False, moves None)",False,True,True,True,False,False,False,False,,-1.0,1.3,100.0
+6PQT,expanded scan,20,92,2,1,2..11 (0.29 Å) | 12..30 (0.64 Å),2..30 (1.15 Å),,0,0,0,0,0,"2..11 (0.29 Å, rigid True, moves True)",,False,True,True,False,False,False,True,True,2,0.0,0.15,100.0
+6PV0,expanded scan,10,29,1,1,14..27 (0.15 Å),"3..3, 5..7, 9..27 (0.24 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+6PV1,expanded scan,10,29,1,1,13..27 (0.14 Å),"3..3, 5..7, 9..27 (0.20 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+6PV2,expanded scan,10,28,1,1,12..25 (0.14 Å),"2..3, 5..7, 9..26 (0.22 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+6Q1X,expanded scan,18,33,1,1,1..14 (0.43 Å),1..20 (0.52 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6Q2I,expanded scan,10,106,2,1,9..92 (0.75 Å) | 95..105 (0.11 Å),9..93 (0.75 Å),SCOP,1,1,1,0,0,"95..105 (0.11 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+6QBK,expanded scan,10,49,1,1,11..48 (0.20 Å),1..49 (0.29 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6QBL,expanded scan,10,91,1,2,2..92 (0.66 Å),6..40 (0.13 Å) | 45..92 (0.39 Å),ECOD,1,1,1,0,0,,"6..40 (0.13 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+6QEU,expanded scan,10,82,1,2,1..82 (0.82 Å),2..43 (0.25 Å) | 46..82 (0.41 Å),ECOD,2,0,2,1,0,,"46..82 (0.41 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,-2.5,0,0
+6R95,expanded scan,20,22,1,1,"9..17, 19..22 (0.19 Å)","4..17, 19..23 (0.22 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6R96,expanded scan,20,22,1,1,"3..17, 19..23 (0.49 Å)",4..15 (0.22 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6RFM,expanded scan,50,80,2,2,424..434 (0.17 Å) | 462..485 (0.28 Å),419..438 (0.40 Å) | 462..485 (0.28 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6RYQ,expanded scan,100,20,0,1,,10..20 (0.42 Å),,0,0,0,0,0,,"10..20 (0.42 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+6RZ1,expanded scan,100,24,1,1,8..18 (1.40 Å),8..22 (2.02 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,1.02,0
+6RZC,expanded scan,100,25,1,1,11..18 (0.07 Å),10..25 (0.72 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6SFT,expanded scan,10,36,1,1,144..173 (0.17 Å),144..158 (0.09 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6U3R,expanded scan,10,190,2,3,"1..72, 90..118 (1.20 Å) | 138..183 (0.62 Å)","1..72, 90..118 (1.20 Å) | 75..89 (1.47 Å) | 138..183 (0.62 Å)",,0,0,0,0,0,,"75..89 (1.47 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.47,0
+6U3S,expanded scan,10,190,2,3,"1..72, 90..118 (1.20 Å) | 138..183 (0.62 Å)","1..72, 90..118 (1.20 Å) | 75..89 (1.47 Å) | 138..183 (0.62 Å)",,0,0,0,0,0,,"75..89 (1.47 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.47,0
+6UCH,expanded scan,10,41,1,1,363..376 (0.09 Å),359..375 (0.11 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6UCJ,expanded scan,20,67,2,2,32..39 (0.13 Å) | 47..66 (0.52 Å),3..15 (1.32 Å) | 21..66 (1.34 Å),,0,0,0,0,0,"32..39 (0.13 Å, rigid True, moves True); 47..66 (0.52 Å, rigid True, moves True)","3..15 (1.32 Å, rigid False, moves True); 21..66 (1.34 Å, rigid False, moves True)",False,True,True,False,False,False,False,True,2,0.0,0.34,98.7
+6UCP,expanded scan,10,30,1,1,15..26 (0.13 Å),"2..3, 5..27 (0.26 Å)",ECOD,1,0,1,0,0,"15..26 (0.13 Å, rigid True, moves None)","2..3, 5..27 (0.26 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+6VY7,expanded scan,20,22,1,1,7..21 (0.14 Å),1..22 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6X6N,expanded scan,20,134,1,2,85..201 (0.99 Å),73..82 (1.40 Å) | 85..201 (0.99 Å),ECOD,1,1,1,0,0,,"73..82 (1.40 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.4,0
+6X7I,expanded scan,10,28,1,1,213..225 (0.08 Å),213..233 (0.09 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6X8R,expanded scan,20,22,1,1,10..22 (0.38 Å),2..22 (0.46 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6YHF,expanded scan,20,30,1,1,38..49 (0.31 Å),38..55 (0.60 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6YHI,expanded scan,20,30,1,1,41..52 (0.28 Å),38..55 (0.49 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6YI3,expanded scan,40,140,1,2,"10..50, 66..75, 81..136 (0.37 Å)","10..50, 66..75, 81..136 (0.37 Å) | 51..65 (1.04 Å)",ECOD,1,1,1,0,0,,"51..65 (1.04 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.04,0
+6Z0H,expanded scan,20,46,2,1,14..21 (0.09 Å) | 26..36 (0.15 Å),26..36 (0.15 Å),,0,0,0,0,0,"14..21 (0.09 Å, rigid True, moves False)",,False,False,False,False,False,False,False,False,,0.0,0,92.6
+6Z0I,expanded scan,20,46,1,2,14..27 (0.25 Å),3..12 (0.60 Å) | 13..38 (0.70 Å),,0,0,0,0,0,,"3..12 (0.60 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7ASY,expanded scan,20,33,2,1,29..36 (0.25 Å) | 37..48 (0.35 Å),35..50 (0.48 Å),,0,0,0,0,0,"29..36 (0.25 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,96.6
+7AT7,expanded scan,20,33,1,1,41..53 (0.40 Å),37..53 (0.58 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7BWE,expanded scan,10,64,1,2,22..61 (0.39 Å),4..18 (1.38 Å) | 22..61 (0.39 Å),ECOD,1,1,1,0,0,,"4..18 (1.38 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.38,0
+7BWO,expanded scan,10,64,1,2,25..34 (0.40 Å),22..37 (1.29 Å) | 38..64 (0.70 Å),ECOD,1,0,0,0,0,,"38..64 (0.70 Å, rigid True, moves True)",False,True,False,True,True,False,False,False,,0.0,0.29,0
+7CK5,expanded scan,20,28,1,1,4..28 (0.46 Å),7..21 (0.21 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7D13,expanded scan,20,39,2,1,313..323 (0.10 Å) | 327..345 (0.55 Å),312..346 (1.36 Å),,0,0,0,0,0,"313..323 (0.10 Å, rigid True, moves True)",,False,True,True,False,False,False,True,True,2,0.0,0.36,100.0
+7DEH,expanded scan,20,31,2,1,2..15 (0.49 Å) | 16..28 (0.21 Å),4..29 (0.70 Å),,0,0,0,0,0,"2..15 (0.49 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,98.3
+7ELY,expanded scan,10,26,1,1,12..25 (0.15 Å),3..26 (0.63 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7K7X,expanded scan,15,29,1,1,15..28 (0.61 Å),2..29 (1.16 Å),ECOD,1,0,1,0,0,,,False,True,False,True,False,False,False,False,,-1.0,0.16,0
+7KPD,expanded scan,20,29,1,1,17..29 (0.38 Å),1..29 (0.50 Å),ECOD,1,0,1,0,0,"17..29 (0.38 Å, rigid True, moves None)","1..29 (0.50 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+7L54,expanded scan,20,28,1,1,14..28 (0.73 Å),1..28 (1.10 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.1,0
+7LHC,expanded scan,20,29,1,1,20..27 (0.11 Å),1..29 (0.42 Å),ECOD,1,0,1,0,0,"20..27 (0.11 Å, rigid True, moves None)","1..29 (0.42 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,0
+7LQR,expanded scan,20,21,1,1,9..19 (0.09 Å),7..21 (0.18 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7LVF,expanded scan,20,57,2,1,15..28 (0.33 Å) | 33..52 (0.34 Å),15..53 (0.77 Å),ECOD,1,0,1,0,0,"15..28 (0.33 Å, rigid True, moves False)",,False,False,False,True,False,False,False,False,,-1.0,0,92.3
+7LVG,expanded scan,20,45,2,2,6..16 (0.25 Å) | 31..42 (0.25 Å),5..24 (0.98 Å) | 25..45 (0.65 Å),ECOD,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7M1D,expanded scan,20,48,1,1,22..44 (0.87 Å),11..45 (2.08 Å),ECOD,1,0,1,0,0,,,False,True,False,True,False,False,False,False,,-1.0,1.08,0
+7M1E,expanded scan,20,28,1,1,5..19 (0.42 Å),2..20 (0.52 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7M3U,expanded scan,20,27,1,2,12..23 (0.17 Å),2..9 (0.13 Å) | 12..25 (0.17 Å),,0,0,0,0,0,,"2..9 (0.13 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7MQ4,expanded scan,10,95,1,2,4..59 (0.65 Å),4..59 (0.65 Å) | 72..86 (1.99 Å),ECOD,2,1,1,0,0,,"72..86 (1.99 Å, rigid False, moves True)",False,True,False,True,False,False,False,False,,0.0,0.99,0
+7MZW,expanded scan,20,353,1,2,681..983 (0.30 Å),681..983 (0.30 Å) | 1008..1024 (0.29 Å),,0,0,0,0,0,,"1008..1024 (0.29 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7OFM,expanded scan,20,30,1,1,7..19 (0.14 Å),7..24 (0.21 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7OIO,expanded scan,10,144,2,1,37..56 (3.44 Å) | 89..147 (0.61 Å),89..147 (0.61 Å),,0,0,0,0,0,"37..56 (3.44 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+7OMK,expanded scan,35,93,1,2,505..595 (0.85 Å),505..553 (0.52 Å) | 554..594 (0.25 Å),ECOD,1,1,1,0,0,,"554..594 (0.25 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+7OSC,expanded scan,20,23,1,1,3..10 (0.10 Å),2..23 (0.20 Å),,0,0,0,0,0,"3..10 (0.10 Å, rigid True, moves None)","2..23 (0.20 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+7OSR,expanded scan,20,50,1,2,2071..2103 (0.67 Å),2060..2069 (0.36 Å) | 2070..2103 (0.67 Å),ECOD,1,1,1,0,0,,"2060..2069 (0.36 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7OVZ,expanded scan,20,27,1,1,3..17 (0.47 Å),1..27 (0.75 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7P3P,expanded scan,10,63,1,1,19..40 (1.23 Å),19..30 (0.66 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7P4X,expanded scan,20,31,1,1,11..25 (0.40 Å),3..31 (0.99 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7PRE,expanded scan,20,53,1,1,207..243 (1.91 Å),208..219 (0.28 Å),,0,0,0,0,0,"207..243 (1.91 Å, rigid False, moves None)","208..219 (0.28 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+7PVM,expanded scan,20,31,1,1,6..18 (0.07 Å),6..23 (0.06 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7QAL,expanded scan,20,35,1,2,3..14 (0.38 Å),3..14 (0.38 Å) | 17..27 (0.44 Å),,0,0,0,0,0,,"17..27 (0.44 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7QAM,expanded scan,20,35,1,2,17..29 (0.42 Å),3..14 (0.48 Å) | 15..36 (1.66 Å),,0,0,0,0,0,,"3..14 (0.48 Å, rigid True, moves True)",False,True,False,False,True,False,False,False,,0.0,0.66,0
+7QAO,expanded scan,20,35,1,2,18..26 (0.25 Å),3..13 (0.47 Å) | 18..26 (0.25 Å),,0,0,0,0,0,,"3..13 (0.47 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7QAP,expanded scan,20,35,0,1,,17..30 (0.44 Å),,0,0,0,0,0,,"17..30 (0.44 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+7RC7,expanded scan,20,32,1,1,16..29 (0.26 Å),4..30 (0.33 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+7RC8,expanded scan,20,31,1,1,"16..18, 20..29 (0.17 Å)","4..18, 20..29 (0.25 Å)",ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+7RZ3,expanded scan,10,82,1,2,"14..35, 44..82 (0.43 Å)","2..10 (0.61 Å) | 14..35, 44..82 (0.43 Å)",,0,0,0,0,0,,"2..10 (0.61 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7UV1,expanded scan,20,56,1,2,31..44 (0.24 Å),10..26 (1.07 Å) | 27..45 (0.37 Å),ECOD,1,0,0,0,0,,"10..26 (1.07 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.07,0
+7UV2,expanded scan,20,56,2,1,9..29 (0.93 Å) | 30..43 (0.38 Å),18..48 (0.96 Å),ECOD,1,0,1,0,0,"9..29 (0.93 Å, rigid True, moves True); 30..43 (0.38 Å, rigid True, moves True)","18..48 (0.96 Å, rigid True, moves None)",False,False,True,True,False,False,False,False,,-1.0,0,100.0
+7W8O,expanded scan,15,26,1,1,7..22 (1.04 Å),1..22 (1.59 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.59,0
+7WBN,expanded scan,20,98,2,1,11..34 (0.21 Å) | 48..66 (0.61 Å),3..71 (1.40 Å),,0,0,0,0,0,"11..34 (0.21 Å, rigid True, moves True); 48..66 (0.61 Å, rigid True, moves True)","3..71 (1.40 Å, rigid False, moves None)",False,True,True,False,False,False,False,True,2,0.0,0.4,100.0
+7XRW,expanded scan,10,127,2,1,650..725 (0.54 Å) | 746..758 (2.33 Å),650..725 (0.54 Å),,0,0,0,0,0,"746..758 (2.33 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+7YWR,expanded scan,20,84,1,2,4..55 (0.43 Å),4..54 (0.43 Å) | 55..77 (2.16 Å),ECOD,1,1,1,0,0,,"55..77 (2.16 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,1.16,0
+7Z07,expanded scan,50,29,2,1,16..27 (0.35 Å) | 29..38 (0.27 Å),23..30 (0.29 Å),,0,0,0,0,0,"16..27 (0.35 Å, rigid True, moves True); 29..38 (0.27 Å, rigid True, moves True)","23..30 (0.29 Å, rigid True, moves None)",False,False,True,False,False,False,True,True,4,0.0,0,99.3
+7ZRO,expanded scan,10,40,1,2,91..98 (0.39 Å),70..85 (1.50 Å) | 86..99 (0.86 Å),,0,0,0,0,0,,"70..85 (1.50 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.5,0
+8AP5,expanded scan,20,63,1,1,30..58 (0.67 Å),2..63 (2.68 Å),,0,0,0,0,0,"30..58 (0.67 Å, rigid True, moves None)","2..63 (2.68 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,1.68,0
+8AR0,expanded scan,10,50,2,2,586..612 (0.51 Å) | 616..627 (0.36 Å),584..617 (0.79 Å) | 618..627 (0.27 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8B6Y,expanded scan,20,25,1,1,10..21 (0.10 Å),5..20 (0.13 Å),ECOD,1,0,1,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+8ES3,expanded scan,20,33,1,1,15..29 (0.10 Å),"1..9, 11..34 (0.27 Å)",,0,0,0,0,0,"15..29 (0.10 Å, rigid True, moves None)","1..9, 11..34 (0.27 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+8G0X,expanded scan,20,33,1,1,24..34 (0.07 Å),"1..10, 12..34 (0.31 Å)",,0,0,0,0,0,"24..34 (0.07 Å, rigid True, moves None)","1..10, 12..34 (0.31 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+8H0G,expanded scan,20,31,1,2,599..612 (0.09 Å),586..597 (0.68 Å) | 599..612 (0.09 Å),,0,0,0,0,0,,"586..597 (0.68 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+8I25,expanded scan,20,123,2,4,18..33 (0.42 Å) | 47..97 (1.15 Å),18..33 (0.42 Å) | 36..45 (0.33 Å) | 47..97 (1.15 Å) | 103..113 (0.90 Å),ECOD,1,0,0,0,0,,"36..45 (0.33 Å, rigid True, moves True); 103..113 (0.90 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0.15,0
+8JB4,expanded scan,20,24,1,1,3..16 (0.51 Å),1..22 (0.73 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8OJR,expanded scan,20,25,1,1,2..24 (0.48 Å),9..22 (0.25 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8OR5,expanded scan,40,30,1,2,1734..1746 (0.16 Å),1733..1747 (0.21 Å) | 1748..1759 (0.66 Å),ECOD,1,0,1,0,0,,"1748..1759 (0.66 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,-1.0,0,0
+8ORY,expanded scan,40,30,1,2,1735..1745 (0.21 Å),1735..1749 (0.33 Å) | 1750..1758 (0.47 Å),ECOD,1,0,1,0,0,,"1750..1758 (0.47 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,-1.0,0,0
+8ORZ,expanded scan,40,30,1,2,1743..1754 (0.53 Å),1733..1740 (0.34 Å) | 1747..1759 (0.67 Å),ECOD,1,0,0,0,0,"1743..1754 (0.53 Å, rigid True, moves None)","1733..1740 (0.34 Å, rigid True, moves True); 1747..1759 (0.67 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+8OS0,expanded scan,40,30,1,1,1652..1660 (0.13 Å),1648..1661 (0.31 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8PTL,expanded scan,20,87,1,2,251..260 (0.43 Å),251..260 (0.43 Å) | 276..285 (0.96 Å),,0,0,0,0,0,,"276..285 (0.96 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+8PUI,expanded scan,20,87,1,1,241..252 (0.53 Å),241..260 (1.08 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,0.08,0
+8PXW,expanded scan,20,99,2,2,155..168 (0.09 Å) | 186..215 (0.15 Å),145..171 (0.17 Å) | 186..215 (0.15 Å),ECOD,2,1,2,0,0,,,False,False,False,True,False,False,False,False,,-1.0,0,0
+8R6T,expanded scan,30,68,1,1,80..147 (1.39 Å),"80..85, 100..147 (0.84 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8RQ6,expanded scan,40,31,1,1,700..710 (0.29 Å),697..712 (0.51 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8SKX,expanded scan,20,64,1,1,24..33 (0.26 Å),23..64 (1.10 Å),ECOD,1,0,1,0,0,"24..33 (0.26 Å, rigid True, moves None)","23..64 (1.10 Å, rigid False, moves None)",False,True,False,True,False,False,False,False,,-1.0,0.1,0
+8T3H,expanded scan,10,20,1,2,9..20 (0.15 Å),2..11 (0.29 Å) | 12..20 (0.10 Å),,0,0,0,0,0,,"2..11 (0.29 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+8THO,expanded scan,20,100,2,2,18..29 (0.24 Å) | 32..98 (1.35 Å),7..31 (0.58 Å) | 32..98 (1.35 Å),ECOD,3,0,1,1,1,"18..29 (0.24 Å, rigid True, moves True)","7..31 (0.58 Å, rigid True, moves True)",False,False,True,True,True,False,False,False,,-1.0,0.35,100.0
+8UXR,expanded scan,20,23,1,1,2..16 (0.03 Å),2..23 (0.04 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8W2V,expanded scan,25,39,1,1,142..149 (1.07 Å),124..134 (2.13 Å),,0,0,0,0,0,"142..149 (1.07 Å, rigid False, moves None)","124..134 (2.13 Å, rigid False, moves None)",False,False,False,False,False,True,False,False,,0.0,1.13,0
+8WGJ,expanded scan,15,24,1,1,3..17 (0.37 Å),2..22 (0.51 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8X3O,expanded scan,20,65,1,1,5..33 (2.75 Å),6..19 (0.64 Å),,0,0,0,0,0,"5..33 (2.75 Å, rigid False, moves None)","6..19 (0.64 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+8X3P,expanded scan,20,59,0,1,,31..39 (1.46 Å),,0,0,0,0,0,,"31..39 (1.46 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.46,0
+8XTN,expanded scan,20,33,1,1,16..31 (0.92 Å),1..32 (2.33 Å),,0,0,0,0,0,,,False,True,False,False,False,False,False,True,2,0.0,1.33,0
+8XTO,expanded scan,20,21,1,1,9..18 (0.35 Å),5..21 (0.96 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+8YD6,expanded scan,20,30,1,1,2..17 (0.19 Å),2..30 (0.39 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9BET,expanded scan,21,42,1,1,267..282 (0.10 Å),265..285 (0.13 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9BV0,expanded scan,20,27,1,1,15..26 (0.16 Å),1..27 (0.50 Å),,0,0,0,0,0,"15..26 (0.16 Å, rigid True, moves None)","1..27 (0.50 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+9DT0,expanded scan,20,59,1,1,37..47 (0.21 Å),32..47 (0.32 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9F4C,expanded scan,20,141,1,2,"1829..1861, 1865..1888 (0.10 Å)","1829..1861, 1865..1888 (0.10 Å) | 1905..1912 (0.33 Å)",,0,0,0,0,0,,"1905..1912 (0.33 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+9FJW,expanded scan,20,35,1,2,5..16 (0.31 Å),2..17 (0.46 Å) | 24..31 (0.30 Å),,0,0,0,0,0,,"24..31 (0.30 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+9FLG,expanded scan,20,140,1,3,99..134 (0.41 Å),60..75 (2.52 Å) | 99..134 (0.41 Å) | 162..179 (3.07 Å),,0,0,0,0,0,,"60..75 (2.52 Å, rigid False, moves True); 162..179 (3.07 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,2.07,0
+9FP9,expanded scan,20,104,2,1,9..16 (0.34 Å) | 17..104 (0.67 Å),16..104 (0.67 Å),ECOD,2,0,0,1,1,"9..16 (0.34 Å, rigid True, moves True)",,False,False,True,False,False,False,False,True,3,0.0,0,100.0
+9G20,expanded scan,10,25,1,1,3..13 (0.15 Å),"2..16, 22..24 (0.37 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9G2O,expanded scan,10,25,1,1,2..24 (0.21 Å),"2..17, 23..24 (0.14 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9G32,expanded scan,10,25,1,1,6..21 (0.37 Å),3..25 (0.41 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9G5P,expanded scan,10,25,1,1,6..20 (0.12 Å),3..24 (0.20 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9GDL,expanded scan,10,25,1,1,2..15 (0.13 Å),2..24 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9GDT,expanded scan,10,25,1,1,6..18 (0.14 Å),4..25 (0.22 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9GE1,expanded scan,10,25,1,1,4..19 (0.14 Å),4..25 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9GE9,expanded scan,10,25,1,1,6..20 (0.32 Å),6..24 (0.35 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9GEB,expanded scan,10,25,1,1,3..14 (0.14 Å),2..24 (0.43 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9GEC,expanded scan,10,25,1,1,5..24 (0.71 Å),5..17 (0.38 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9IO2,expanded scan,20,22,1,1,5..18 (0.07 Å),3..22 (0.09 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9KFP,expanded scan,20,25,1,1,2..16 (0.16 Å),1..25 (0.24 Å),ECOD,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9KVR,expanded scan,20,31,1,1,12..31 (0.33 Å),4..31 (0.41 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9LLM,expanded scan,20,20,1,1,4..17 (0.35 Å),2..20 (0.41 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9M1Y,expanded scan,17,47,1,1,412..419 (1.34 Å),"390..392, 396..400 (2.33 Å)",,0,0,0,0,0,"412..419 (1.34 Å, rigid False, moves None)","390..392, 396..400 (2.33 Å, rigid False, moves None)",False,False,False,False,False,True,False,False,,0.0,1.33,0
+9M27,expanded scan,100,62,1,2,33..53 (0.19 Å),6..14 (0.15 Å) | 33..53 (0.19 Å),,0,0,0,0,0,,"6..14 (0.15 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+9M2D,expanded scan,100,62,2,2,6..14 (0.12 Å) | 37..48 (0.09 Å),6..14 (0.12 Å) | 34..52 (0.17 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9MXE,expanded scan,20,24,1,1,13..24 (0.20 Å),1..24 (0.41 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9NUB,expanded scan,20,84,1,2,54..80 (0.50 Å),27..35 (0.30 Å) | 54..80 (0.50 Å),,0,0,0,0,0,,"27..35 (0.30 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+9NWZ,expanded scan,15,20,1,1,1..9 (0.65 Å),1..20 (1.66 Å),,0,0,0,0,0,"1..9 (0.65 Å, rigid True, moves None)","1..20 (1.66 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,0.66,0
+9PGN,expanded scan,10,369,1,1,"5..169, 181..253, 261..312, 331..368 (0.24 Å)","5..105, 266..312 (0.22 Å)",,0,0,0,0,0,"5..169, 181..253, 261..312, 331..368 (0.24 Å, rigid True, moves None)","5..105, 266..312 (0.22 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+9RWF,expanded scan,20,25,1,1,10..20 (0.47 Å),5..18 (0.47 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9VHF,expanded scan,20,25,1,1,5..24 (2.09 Å),8..17 (0.69 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9VHO,expanded scan,20,25,1,1,6..20 (1.04 Å),3..25 (1.81 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0.81,0
+9VHS,expanded scan,20,25,1,1,8..17 (0.34 Å),8..25 (0.45 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9VHX,expanded scan,20,25,1,1,9..18 (0.33 Å),4..18 (0.70 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9WGI,expanded scan,20,20,0,1,,103..117 (2.18 Å),,0,0,0,0,0,,"103..117 (2.18 Å, rigid False, moves None)",False,True,False,False,False,False,False,True,2,0.0,1.18,0
+9X44,expanded scan,10,24,1,1,6..19 (0.24 Å),2..24 (0.29 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+9Y13,expanded scan,10,70,1,2,11..41 (0.88 Å),11..41 (0.88 Å) | 51..76 (1.03 Å),,0,0,0,0,0,,"51..76 (1.03 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.03,0
+9YM1,expanded scan,10,33,1,2,"3..11, 13..28 (0.22 Å)","3..11, 13..14 (0.12 Å) | 16..28, 30..32 (0.17 Å)",ECOD,1,1,0,0,0,"3..11, 13..28 (0.22 Å, rigid True, moves None)","3..11, 13..14 (0.12 Å, rigid True, moves False); 16..28, 30..32 (0.17 Å, rigid True, moves False)",True,False,False,False,False,False,False,True,1,1.0,0,0
+9YT1,expanded scan,20,31,1,2,17..29 (0.04 Å),3..19 (1.87 Å) | 20..31 (0.07 Å),,0,0,0,0,0,,"3..19 (1.87 Å, rigid False, moves True)",False,True,False,False,False,False,False,True,2,0.0,0.87,0
+9ZN4,expanded scan,10,77,2,1,2..47 (0.98 Å) | 56..67 (2.39 Å),2..47 (0.98 Å),,0,0,0,0,0,"56..67 (2.39 Å, rigid False, moves True)",,False,False,False,False,False,True,False,False,,0.0,0,100.0
+1B8T,original60,37,192,2,3,8..67 (0.83 Å) | 115..175 (0.76 Å),8..67 (0.83 Å) | 94..109 (1.27 Å) | 115..175 (0.76 Å),SCOP,4,0,0,2,3,,"94..109 (1.27 Å, rigid False, moves True)",True,True,False,False,False,False,False,True,1,0.5,0.27,0
+1Q8K,original60,15,300,2,3,"9..35, 41..183 (1.19 Å) | 187..198, 206..219, 223..228, 233..276 (0.36 Å)","11..35, 42..183 (1.18 Å) | 187..198, 206..219, 223..228, 233..276 (0.36 Å) | 278..292 (1.86 Å)",CATH,3,1,1,1,1,,"278..292 (1.86 Å, rigid False, moves True)",False,False,False,False,False,False,False,False,,0.0,0.86,0
+2KDO,original60,20,252,2,3,"9..40, 47..97 (0.74 Å) | 174..239 (0.55 Å)","9..40, 47..97 (0.74 Å) | 142..169 (1.52 Å) | 174..239 (0.55 Å)",CATH,3,2,2,0,0,,"142..169 (1.52 Å, rigid False, moves True)",False,True,False,True,False,False,False,False,,0.0,0.52,0
+2L9N,original60,20,250,2,3,14..166 (1.51 Å) | 171..238 (0.69 Å),"15..40, 46..94 (0.38 Å) | 95..169 (0.83 Å) | 171..238 (0.69 Å)",CATH,3,1,3,1,0,"14..166 (1.51 Å, rigid False, moves True)","15..40, 46..94 (0.38 Å, rigid True, moves True); 95..169 (0.83 Å, rigid True, moves True)",False,False,False,True,True,True,False,False,,-2.5,0,100.0
+2RPC,original60,20,155,3,3,12..86 (0.46 Å) | 100..113 (0.18 Å) | 137..145 (0.09 Å),12..86 (0.46 Å) | 91..113 (0.25 Å) | 121..145 (0.19 Å),CATH,3,2,3,0,0,"137..145 (0.09 Å, rigid True, moves True)","121..145 (0.19 Å, rigid True, moves True)",False,False,True,True,True,False,False,False,,-1.0,0,100.0
+6BYV,original60,20,121,2,2,"3..81 (0.95 Å) | 82..108, 115..119 (1.36 Å)",3..74 (0.88 Å) | 75..108 (1.21 Å),ECOD,3,1,0,1,2,,,True,False,False,False,False,False,False,True,1,1.5,0.21,0
+1WHE,original60,20,73,2,1,"11..13, 15, 17..18, 21..24, 27..28, 30..31, 33..34, 36..38, 40..46 (1.24 Å) | 48..62, 64..86 (0.72 Å)","12..13, 15..15, 17..18, 21..24, 27..28, 30..31, 33..34, 36..38, 40..62, 64..86 (2.11 Å)",CATH,2,2,0,0,1,"11..13, 15, 17..18, 21..24, 27..28, 30..31, 33..34, 36..38, 40..46 (1.24 Å, rigid False, moves True)",,True,False,False,False,False,True,False,False,,2.5,1.11,100.0
+2BW2,original60,25,140,2,1,8..61 (0.36 Å) | 64..140 (0.56 Å),7..140 (1.13 Å),ECOD,2,2,0,0,1,"8..61 (0.36 Å, rigid True, moves True)",,True,True,True,False,False,False,False,True,1,2.5,0.13,100.0
+2F3J,original60,14,158,2,3,8..18 (0.30 Å) | 74..151 (1.21 Å),8..18 (0.30 Å) | 44..51 (0.55 Å) | 74..151 (1.21 Å),CATH,1,1,1,0,0,,"44..51 (0.55 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0.21,0
+2LQ4,original60,36,80,3,1,5..18 (0.10 Å) | 53..63 (0.09 Å) | 66..78 (0.10 Å),"3..29, 51..80 (0.66 Å)",CATH,1,0,1,0,0,"5..18 (0.10 Å, rigid True, moves False); 53..63 (0.09 Å, rigid True, moves False); 66..78 (0.10 Å, rigid True, moves False)","3..29, 51..80 (0.66 Å, rigid True, moves None)",False,False,False,True,False,False,False,False,,-1.0,0,94.7
+7A2D,original60,20,178,1,2,46..192 (0.85 Å),46..113 (0.44 Å) | 118..191 (0.55 Å),CATH,1,1,1,0,0,,"46..113 (0.44 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+2M70,original60,20,155,2,2,41..51 (0.33 Å) | 64..150 (0.19 Å),41..55 (0.48 Å) | 64..150 (0.19 Å),CATH,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+6GO0,original60,20,26,1,1,10..20 (0.15 Å),7..25 (0.45 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7PH8,original60,20,31,1,2,933..949 (0.08 Å),933..948 (0.07 Å) | 949..959 (0.13 Å),,0,0,0,0,0,,"949..959 (0.13 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+8H0U,original60,20,31,1,2,600..608 (0.09 Å),586..600 (0.72 Å) | 601..612 (0.16 Å),,0,0,0,0,0,,"586..600 (0.72 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+8RPQ,original60,20,36,1,2,732..741 (0.19 Å),729..749 (0.69 Å) | 750..759 (0.25 Å),,0,0,0,0,0,"732..741 (0.19 Å, rigid True, moves None)","729..749 (0.69 Å, rigid True, moves True); 750..759 (0.25 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2DKT,confirm162,20,143,1,2,17..126 (0.42 Å),18..94 (0.20 Å) | 96..135 (0.30 Å),SCOP,4,0,1,1,1,,"96..135 (0.30 Å, rigid True, moves False)",False,False,False,True,False,False,False,False,,-1.0,0,0
+2DLQ,confirm162,20,124,3,4,7..27 (0.20 Å) | 36..58 (0.25 Å) | 65..119 (0.59 Å),7..27 (0.20 Å) | 36..58 (0.25 Å) | 66..91 (0.14 Å) | 95..118 (0.10 Å),CATH,4,2,4,1,0,"65..119 (0.59 Å, rigid True, moves True)","66..91 (0.14 Å, rigid True, moves True); 95..118 (0.10 Å, rigid True, moves True)",False,False,True,True,True,False,False,False,,-2.5,0,100.0
+1Z87,confirm162,15,263,1,2,"8..17, 27..44, 206..221, 228..263 (0.59 Å)","8..17, 27..45, 206..221, 228..264 (0.60 Å) | 79..163 (0.61 Å)",CATH,2,1,2,0,0,,"79..163 (0.61 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,-1.0,0,0
+2KUE,confirm162,30,135,1,2,424..557 (1.30 Å),425..491 (0.50 Å) | 493..557 (0.62 Å),CATH,2,0,2,1,0,,"493..557 (0.62 Å, rigid True, moves True)",False,False,False,True,True,False,False,False,,-2.5,0,0
+8C18,confirm162,20,207,1,2,43..184 (0.43 Å),43..184 (0.43 Å) | 185..199 (0.42 Å),ECOD,1,1,1,0,0,,"185..199 (0.42 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+8OIL,confirm162,10,127,1,2,51..99 (0.50 Å),51..99 (0.50 Å) | 111..118 (0.41 Å),ECOD,1,1,1,0,0,,"111..118 (0.41 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+8P25,confirm162,10,160,1,2,250..336 (0.40 Å),250..336 (0.40 Å) | 363..375 (0.19 Å),ECOD,1,1,1,0,0,,"363..375 (0.19 Å, rigid True, moves False)",False,False,False,False,False,False,False,False,,0.0,0,0
+1BDE,confirm162,20,33,1,1,53..74 (0.45 Å),59..74 (0.35 Å),SCOP,1,1,0,0,0,,,True,False,False,False,False,False,False,True,1,1.0,0,0
+1DTC,confirm162,12,26,1,1,9..21 (0.23 Å),10..24 (0.29 Å),SCOP,1,1,1,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+1R7D,confirm162,51,31,1,1,18..26 (0.21 Å),15..26 (0.32 Å),SCOP,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KAM,confirm162,20,25,1,1,8..22 (0.10 Å),4..22 (0.15 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2KDR,confirm162,27,28,2,1,3..12 (0.09 Å) | 17..27 (0.20 Å),3..28 (0.74 Å),,0,0,0,0,0,"3..12 (0.09 Å, rigid True, moves True); 17..27 (0.20 Å, rigid True, moves True)","3..28 (0.74 Å, rigid True, moves None)",False,False,True,False,False,False,True,True,4,0.0,0,96.2
+2L58,confirm162,20,32,1,1,13..29 (0.33 Å),7..32 (0.58 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MAE,confirm162,20,25,1,1,"302, 304..315 (0.30 Å)","299..302, 304..323 (0.67 Å)",,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2MG1,confirm162,20,27,1,2,17..26 (0.09 Å),2..12 (0.22 Å) | 17..26 (0.09 Å),,0,0,0,0,0,,"2..12 (0.22 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+2RLW,confirm162,20,34,1,1,10..29 (0.10 Å),14..28 (0.06 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2RMF,confirm162,20,40,2,2,6..19 (0.31 Å) | 21..32 (0.23 Å),5..19 (0.34 Å) | 21..38 (0.31 Å),CATH,1,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2RMY,confirm162,10,34,2,1,11..22 (0.26 Å) | 23..32 (0.15 Å),15..34 (0.52 Å),,0,0,0,0,0,"11..22 (0.26 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,96.1
+2RND,confirm162,10,34,1,1,10..22 (0.13 Å),10..34 (0.64 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+2YON,confirm162,10,29,1,1,121..143 (0.25 Å),129..142 (0.10 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+5U9S,confirm162,10,25,1,1,8..25 (0.37 Å),16..23 (0.08 Å),,0,0,0,0,0,"8..25 (0.37 Å, rigid True, moves None)","16..23 (0.08 Å, rigid True, moves None)",False,False,False,False,False,False,False,False,,0.0,0,0
+6YHP,confirm162,20,30,1,1,42..54 (0.38 Å),47..55 (0.24 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7MN3,confirm162,20,24,1,1,13..23 (0.20 Å),5..24 (0.47 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7VOZ,confirm162,20,29,1,1,11..27 (0.34 Å),3..28 (0.67 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0
+7YYI,confirm162,50,29,1,2,28..38 (0.34 Å),14..21 (0.23 Å) | 25..39 (0.50 Å),,0,0,0,0,0,,"14..21 (0.23 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7Z08,confirm162,50,29,1,2,27..38 (0.42 Å),15..28 (0.56 Å) | 29..39 (0.35 Å),,0,0,0,0,0,,"15..28 (0.56 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+7Z0B,confirm162,50,29,1,2,21..32 (0.39 Å),16..26 (0.33 Å) | 27..37 (0.38 Å),,0,0,0,0,0,"21..32 (0.39 Å, rigid True, moves None)","16..26 (0.33 Å, rigid True, moves True); 27..37 (0.38 Å, rigid True, moves True)",False,False,False,False,True,False,False,False,,0.0,0,0
+8AR2,confirm162,10,50,1,1,631..660 (1.93 Å),644..655 (0.39 Å),,0,0,0,0,0,"631..660 (1.93 Å, rigid False, moves None)","644..655 (0.39 Å, rigid True, moves None)",False,False,False,False,False,True,False,False,,0.0,0,0
+9G7T,confirm162,20,25,2,1,3..11 (0.23 Å) | 13..24 (0.29 Å),3..25 (0.74 Å),,0,0,0,0,0,"3..11 (0.23 Å, rigid True, moves True)",,False,False,True,False,False,False,True,True,4,0.0,0,96.1
+9X1F,confirm162,20,34,1,1,2..26 (0.42 Å),1..34 (0.75 Å),,0,0,0,0,0,,,False,False,False,False,False,False,False,False,,0.0,0,0

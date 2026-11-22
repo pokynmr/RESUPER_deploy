@@ -1,0 +1,12 @@
+Confirmation sample (S11): 166 drawn, 162 used in tests (excluded: 2K60, 2OFG, 9LYH, 9XFN). Run failures 0; repeat check: identical.
+H1 recovered annotated domains (RESUPER - reference): n = 47 proteins; RESUPER better 1, equal 45, reference better 1; mean difference +0.00; totals RESUPER 32, reference 32; Wilcoxon p = 1
+H2 missed annotated domains (reference - RESUPER): n = 47 proteins; RESUPER better 0, equal 46, reference better 1; mean difference -0.02; totals RESUPER 6, reference 5; Wilcoxon p = 1
+H3 over-splitting in controls C+E (n = 87): RESUPER only 4, reference only 9, both 0; RESUPER total 4, reference total 9; exact McNemar p = 0.267
+H4 short helix reported (group D, n = 28): RESUPER only 1, reference only 1, both 20, neither 6; exact McNemar p = 1
+Descriptive: domains reported only by resuper_default: 15; internally rigid (<= 1.0 A) 15; pass the two-part check 11
+Descriptive: domains reported only by reference_mode: 20; internally rigid (<= 1.0 A) 10; pass the two-part check 4
+Group A: 44 proteins; identical 30; domains RESUPER 59, reference 59; mean coverage 0.862 / 0.866
+Group B: 3 proteins; identical 3; domains RESUPER 6, reference 6; mean coverage 0.763 / 0.763
+Group D: 28 proteins; identical 22; domains RESUPER 31, reference 30; mean coverage 0.683 / 0.698
+Group C: 44 proteins; identical 31; domains RESUPER 44, reference 51; mean coverage 0.815 / 0.836
+Group E: 43 proteins; identical 14; domains RESUPER 47, reference 47; mean coverage 0.619 / 0.773

@@ -1,0 +1,23 @@
+﻿PDB,Section,Better (table),Domains RESUPER,Domains reference/saved,Domains real CYRANGE (wwPDB),wwPDB CYRANGE status,RESUPER domains (RMSD),Comparator domains (RMSD),Real CYRANGE domains (RMSD computed here),Real CYRANGE vs RESUPER,Jaccard RESUPER vs real CYRANGE
+1A11,Repository case,RESUPER,2,1,1,success,4..11 (0.14 Å) | 16..24 (0.24 Å),3..25 (0.85 Å),3..25 (0.85 Å),= comparator,0.74
+11TG,Repository case,RESUPER,2,1,1,success,8..17 (0.09 Å) | 25..37 (0.11 Å),30..42 (0.10 Å),30..42 (0.10 Å),= comparator,0.29
+1DX7,Repository case,RESUPER (partly),2,2,2,success,8..20 (0.37 Å) | 30..38 (0.18 Å),5..30 (1.11 Å) | 31..48 (1.34 Å),5..30 (1.19 Å) | 31..48 (1.32 Å),= comparator,0.50
+11TJ,Repository case,CYRANGE,3,2,2,success,2..9 (0.08 Å) | 11..19 (0.09 Å) | 27..37 (0.10 Å),2..12 (0.13 Å) | 24..38 (0.13 Å),2..12 (0.14 Å) | 24..38 (0.13 Å),= comparator,0.64
+6EMR,Repository case,CYRANGE,1,2,2,success,"348..428, 472..477, 489..496 (0.31 Å)","348..428, 472..477, 489..496 (0.31 Å) | 529..538 (0.21 Å)","348..428, 472..477, 489..496 (0.31 Å) | 529..538 (0.21 Å)",= comparator,0.90
+2BW2,"60-protein study, group A (2 dom.)",RESUPER,2,1,1,success,8..61 (0.36 Å) | 64..140 (0.56 Å),7..140 (1.13 Å),7..140 (1.13 Å),= comparator,0.98
+1B8T,"60-protein study, group B (≥3 dom.)",RESUPER,2,5,3,success,8..67 (0.83 Å) | 115..175 (0.76 Å),8..67 (0.83 Å) | 71..88 (0.93 Å) | 87..101 (1.02 Å) | 96..109 (1.08 Å) | 115..175 (0.76 Å),8..67 (0.83 Å) | 94..109 (1.27 Å) | 115..175 (0.76 Å),differs from both,0.88
+1OQY,"60-protein study, group B (≥3 dom.)",RESUPER,4,1,4,success,2..77 (0.39 Å) | 162..194 (0.30 Å) | 231..286 (0.49 Å) | 317..358 (0.36 Å),231..286 (0.49 Å),2..77 (0.39 Å) | 162..198 (0.34 Å) | 231..286 (0.49 Å) | 317..358 (0.36 Å),differs from both,0.98
+2P01,"60-protein study, group B (≥3 dom.)",RESUPER,3,1,3,success,"20..64, 71..90 (0.38 Å) | 117..155, 189..211 (0.51 Å) | 219..317 (0.85 Å)","117..155, 189..211 (0.51 Å)","20..64, 71..90 (0.38 Å) | 117..155, 189..211 (0.51 Å) | 219..317 (0.85 Å)",= RESUPER,1.00
+2RPC,"60-protein study, group B (≥3 dom.)",RESUPER,3,2,3,success,12..86 (0.46 Å) | 100..113 (0.18 Å) | 137..145 (0.09 Å),12..86 (0.46 Å) | 92..146 (2.60 Å),12..86 (0.46 Å) | 91..113 (0.25 Å) | 121..145 (0.19 Å),differs from both,0.80
+7A2D,"60-protein study, group D (dom.+helix)",RESUPER,1,2,2,success,46..192 (0.85 Å),26..35 (1.35 Å) | 46..192 (0.85 Å),46..113 (0.44 Å) | 118..191 (0.55 Å),differs from both,0.97
+2KUI,"60-protein study, group B (≥3 dom.)",RESUPER (partly),3,1,3,success,359..423 (0.74 Å) | 426..490 (0.51 Å) | 492..626 (1.84 Å),492..626 (1.84 Å),359..423 (0.74 Å) | 426..490 (0.51 Å) | 492..626 (1.84 Å),= RESUPER,1.00
+1C89,"Confirmation sample, group A (2 dom.)",RESUPER,2,1,2,success,2..60 (0.45 Å) | 73..127 (0.39 Å),2..134 (1.37 Å),2..60 (0.45 Å) | 73..127 (0.39 Å),= RESUPER,1.00
+1ZMZ,"Confirmation sample, group C (control)",RESUPER,1,2,1,success,25..98 (0.95 Å),6..25 (4.02 Å) | 25..98 (0.94 Å),25..98 (0.94 Å),= RESUPER,1.00
+2LC2,"Confirmation sample, group C (control)",RESUPER,1,2,1,success,"47..88, 95..106 (0.36 Å)","8..22 (1.94 Å) | 47..88, 95..106 (0.36 Å)","47..88, 95..106 (0.36 Å)",= RESUPER,1.00
+6MZA,"Confirmation sample, group C (control)",RESUPER,1,2,1,success,32..134 (0.56 Å),10..22 (1.70 Å) | 32..134 (0.56 Å),32..134 (0.56 Å),= RESUPER,1.00
+6KVG,"Confirmation sample, group D (dom.+helix)",RESUPER,3,1,3,success,"3..31, 44..88 (0.37 Å) | 97..122, 143..162, 169..186 (0.45 Å) | 233..240 (0.18 Å)","97..122, 143..162, 169..186 (0.45 Å)","3..31, 44..88 (0.37 Å) | 97..122, 143..162, 169..186 (0.45 Å) | 233..240 (0.18 Å)",= RESUPER,1.00
+2LVA,"Confirmation sample, group A (2 dom.)",RESUPER,2,1,2,success,23..59 (0.28 Å) | 101..110 (0.17 Å),23..59 (0.28 Å),23..59 (0.28 Å) | 101..110 (0.17 Å),= RESUPER,1.00
+7YYI,"Confirmation sample, group E (peptide)",RESUPER,1,1,2,success,28..38 (0.34 Å),14..39 (1.27 Å),14..21 (0.23 Å) | 25..39 (0.50 Å),differs from both,0.48
+8RLZ,"Confirmation sample, group D (dom.+helix)",RESUPER,1,2,1,success,4..44 (0.19 Å),4..44 (0.19 Å) | 58..66 (1.06 Å),4..44 (0.19 Å),= RESUPER,1.00
+2KDR,"Confirmation sample, group E (peptide)",RESUPER,2,1,1,success,3..12 (0.09 Å) | 17..27 (0.20 Å),3..28 (0.74 Å),3..28 (0.74 Å),= comparator,0.81
+9G7T,"Confirmation sample, group E (peptide)",RESUPER,2,1,1,success,3..11 (0.23 Å) | 13..24 (0.29 Å),3..25 (0.74 Å),3..25 (0.74 Å),= comparator,0.91

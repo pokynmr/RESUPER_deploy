@@ -1,0 +1,47 @@
+RESUPER (default) vs REAL CYRANGE 2.0 (wwPDB validation reports). Post hoc re-run of the S11 tests with real CYRANGE as comparator; same rules.
+Proteins with a real CYRANGE result: 222 of 222 (missing: none)
+
+== confirm162 (n = 162)
+RESUPER vs real CYRANGE: identical 99, minor 33, substantial 30; same domain count 148
+reference mode vs real CYRANGE: identical 117, minor 11, substantial 34; same domain count 139
+H1 recovered annotated domains (RESUPER - CYRANGE): n = 47; RESUPER better 0, equal 43, CYRANGE better 4; totals RESUPER 32, CYRANGE 38; Wilcoxon p = 0.125
+H2 missed annotated domains (CYRANGE - RESUPER): n = 47; RESUPER better 0, equal 45, CYRANGE better 2; totals RESUPER 6, CYRANGE 4; Wilcoxon p = 0.5
+H3 over-splitting in controls C+E (n = 87): RESUPER only 3, CYRANGE only 4, both 1; exact McNemar p = 1
+H4 short helix reported (group D, n = 28): RESUPER only 0, CYRANGE only 2, both 21, neither 5; exact McNemar p = 0.5
+Domains reported only by resuper_default: 8; internally rigid 7; pass two-part check 5
+Domains reported only by real_cyrange: 16; internally rigid 16; pass two-part check 11
+Group A: 44; RESUPER identical to CYRANGE 31, reference mode identical to CYRANGE 36; domains RES/REF/CYR 59/59/61
+Group B: 3; RESUPER identical to CYRANGE 1, reference mode identical to CYRANGE 1; domains RES/REF/CYR 6/6/8
+Group D: 28; RESUPER identical to CYRANGE 21, reference mode identical to CYRANGE 21; domains RES/REF/CYR 31/30/34
+Group C: 44; RESUPER identical to CYRANGE 35, reference mode identical to CYRANGE 37; domains RES/REF/CYR 44/51/44
+Group E: 43; RESUPER identical to CYRANGE 11, reference mode identical to CYRANGE 22; domains RES/REF/CYR 47/47/48
+
+== original60 (n = 60)
+RESUPER vs real CYRANGE: identical 37, minor 7, substantial 16; same domain count 48
+reference mode vs real CYRANGE: identical 41, minor 1, substantial 18; same domain count 46
+H1 recovered annotated domains (RESUPER - CYRANGE): n = 24; RESUPER better 4, equal 18, CYRANGE better 2; totals RESUPER 31, CYRANGE 28; Wilcoxon p = 0.625
+H2 missed annotated domains (CYRANGE - RESUPER): n = 24; RESUPER better 0, equal 23, CYRANGE better 1; totals RESUPER 1, CYRANGE 0; Wilcoxon p = 1
+H3 over-splitting in controls C+E (n = 24): RESUPER only 0, CYRANGE only 3, both 2; exact McNemar p = 0.25
+H4 short helix reported (group D, n = 12): RESUPER only 0, CYRANGE only 1, both 9, neither 2; exact McNemar p = 1
+Domains reported only by resuper_default: 8; internally rigid 6; pass two-part check 2
+Domains reported only by real_cyrange: 13; internally rigid 10; pass two-part check 7
+Group A: 12; RESUPER identical to CYRANGE 9, reference mode identical to CYRANGE 10; domains RES/REF/CYR 19/18/17
+Group B: 12; RESUPER identical to CYRANGE 5, reference mode identical to CYRANGE 3; domains RES/REF/CYR 28/24/32
+Group D: 12; RESUPER identical to CYRANGE 9, reference mode identical to CYRANGE 10; domains RES/REF/CYR 15/16/15
+Group C: 12; RESUPER identical to CYRANGE 9, reference mode identical to CYRANGE 10; domains RES/REF/CYR 13/13/13
+Group E: 12; RESUPER identical to CYRANGE 5, reference mode identical to CYRANGE 8; domains RES/REF/CYR 13/13/16
+
+== all (n = 222)
+RESUPER vs real CYRANGE: identical 136, minor 40, substantial 46; same domain count 196
+reference mode vs real CYRANGE: identical 158, minor 12, substantial 52; same domain count 185
+H1 recovered annotated domains (RESUPER - CYRANGE): n = 71; RESUPER better 4, equal 61, CYRANGE better 6; totals RESUPER 63, CYRANGE 66; Wilcoxon p = 0.678
+H2 missed annotated domains (CYRANGE - RESUPER): n = 71; RESUPER better 0, equal 68, CYRANGE better 3; totals RESUPER 7, CYRANGE 4; Wilcoxon p = 0.25
+H3 over-splitting in controls C+E (n = 111): RESUPER only 3, CYRANGE only 7, both 3; exact McNemar p = 0.344
+H4 short helix reported (group D, n = 40): RESUPER only 0, CYRANGE only 3, both 30, neither 7; exact McNemar p = 0.25
+Domains reported only by resuper_default: 16; internally rigid 13; pass two-part check 7
+Domains reported only by real_cyrange: 29; internally rigid 26; pass two-part check 18
+Group A: 56; RESUPER identical to CYRANGE 40, reference mode identical to CYRANGE 46; domains RES/REF/CYR 78/77/78
+Group B: 15; RESUPER identical to CYRANGE 6, reference mode identical to CYRANGE 4; domains RES/REF/CYR 34/30/40
+Group D: 40; RESUPER identical to CYRANGE 30, reference mode identical to CYRANGE 31; domains RES/REF/CYR 46/46/49
+Group C: 56; RESUPER identical to CYRANGE 44, reference mode identical to CYRANGE 47; domains RES/REF/CYR 57/64/57
+Group E: 55; RESUPER identical to CYRANGE 16, reference mode identical to CYRANGE 30; domains RES/REF/CYR 60/60/64

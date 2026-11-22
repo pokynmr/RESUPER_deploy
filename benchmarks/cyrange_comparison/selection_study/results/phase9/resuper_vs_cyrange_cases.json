@@ -1,0 +1,321 @@
+{
+ "fields": [
+  "Category",
+  "PDB",
+  "Protein",
+  "Models / residues",
+  "Domains RESUPER / CYRANGE",
+  "RESUPER domains (RMSD)",
+  "CYRANGE domains (RMSD)",
+  "Evidence",
+  "Ref",
+  "Reference"
+ ],
+ "rows": [
+  {
+   "Category": "A",
+   "PDB": "2BW2",
+   "Protein": "Bypass of forespore c",
+   "Models / residues": "25 / 140",
+   "Domains RESUPER / CYRANGE": "2 / 1",
+   "RESUPER domains (RMSD)": "8–61 (0.36 Å) | 64–140 (0.56 Å)",
+   "CYRANGE domains (RMSD)": "7–140 (1.13 Å)",
+   "Evidence": "ECOD: 2 vs 0 annotated domains recovered; CYRANGE range non-rigid; paper: two domains",
+   "Ref": 1,
+   "Reference": "H. M. Patterson et al., J. Biol. Chem. 280, 36214 (2005)",
+   "_ref": [
+    "H. M. Patterson et al.",
+    "J. Biol. Chem.",
+    "280",
+    "36214",
+    2005
+   ]
+  },
+  {
+   "Category": "A",
+   "PDB": "1BBO",
+   "Protein": "Human enhancer-binding protein mbp-1",
+   "Models / residues": "60 / 56",
+   "Domains RESUPER / CYRANGE": "2 / 1",
+   "RESUPER domains (RMSD)": "2–10, 12–25 (0.19 Å) | 27–54 (0.26 Å)",
+   "CYRANGE domains (RMSD)": "2–10, 12–55 (0.83 Å)",
+   "Evidence": "CATH: 2 vs 0; paper: RMSD reported per zinc finger",
+   "Ref": 2,
+   "Reference": "J. G. Omichinski et al., Biochemistry 31, 3907 (1992)",
+   "_ref": [
+    "J. G. Omichinski et al.",
+    "Biochemistry",
+    "31",
+    "3907",
+    1992
+   ]
+  },
+  {
+   "Category": "A",
+   "PDB": "2EW9",
+   "Protein": "Copper-transporting ATPase 2",
+   "Models / residues": "31 / 149",
+   "Domains RESUPER / CYRANGE": "2 / 1",
+   "RESUPER domains (RMSD)": "4–13, 18–71 (0.42 Å) | 81–146 (0.46 Å)",
+   "CYRANGE domains (RMSD)": "4–72, 80–149 (0.95 Å)",
+   "Evidence": "CATH: 2 vs 0; paper: two ferredoxin folds, but they move as a unit (partial support)",
+   "Ref": 3,
+   "Reference": "D. Achila et al., Proc. Natl. Acad. Sci. USA 103, 5729 (2006)",
+   "_ref": [
+    "D. Achila et al.",
+    "Proc. Natl. Acad. Sci. USA",
+    "103",
+    "5729",
+    2006
+   ]
+  },
+  {
+   "Category": "A",
+   "PDB": "5MS9",
+   "Protein": "Fibrillin-1",
+   "Models / residues": "20 / 177",
+   "Domains RESUPER / CYRANGE": "2 / 1",
+   "RESUPER domains (RMSD)": "121–181 (0.80 Å) | 183–196, 200–287 (0.83 Å)",
+   "CYRANGE domains (RMSD)": "140–287 (1.61 Å)",
+   "Evidence": "ECOD: 1 vs 0; CYRANGE range non-rigid; paper: domains joined by a flexible pivot",
+   "Ref": 4,
+   "Reference": "I. B. Robertson et al., Structure 25, 1208 (2017)",
+   "_ref": [
+    "I. B. Robertson et al.",
+    "Structure",
+    "25",
+    "1208",
+    2017
+   ]
+  },
+  {
+   "Category": "A",
+   "PDB": "6G81",
+   "Protein": "Hydrogenase maturation factor HypA",
+   "Models / residues": "20 / 117",
+   "Domains RESUPER / CYRANGE": "2 / 1",
+   "RESUPER domains (RMSD)": "2–69, 105–116 (0.32 Å) | 70–104 (0.38 Å)",
+   "CYRANGE domains (RMSD)": "1–117 (0.73 Å)",
+   "Evidence": "RESUPER-only domain rigid and moving; paper: Ni- and Zn-binding domains that reorient",
+   "Ref": 5,
+   "Reference": "C. A. E. M. Spronk et al., J. Biol. Inorg. Chem. 23, 1309 (2018)",
+   "_ref": [
+    "C. A. E. M. Spronk et al.",
+    "J. Biol. Inorg. Chem.",
+    "23",
+    "1309",
+    2018
+   ]
+  },
+  {
+   "Category": "A",
+   "PDB": "2V93",
+   "Protein": "Maltose-binding periplasmic protein",
+   "Models / residues": "50 / 366",
+   "Domains RESUPER / CYRANGE": "2 / 1",
+   "RESUPER domains (RMSD)": "5–109, 262–319 (0.10 Å) | 114–253, 332–370 (0.08 Å)",
+   "CYRANGE domains (RMSD)": "81–87, 103–105, 266–268, 311–313 (0.00 Å)",
+   "Evidence": "RESUPER-only domain rigid and moving; paper: two domains, open/closed (PRE-refined ensemble)",
+   "Ref": 6,
+   "Reference": "C. Tang, C. D. Schwieters and G. M. Clore, Nature 449, 1078 (2007)",
+   "_ref": [
+    "C. Tang, C. D. Schwieters and G. M. Clore",
+    "Nature",
+    "449",
+    "1078",
+    2007
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "9FLG",
+   "Protein": "Large delta antigen",
+   "Models / residues": "20 / 140",
+   "Domains RESUPER / CYRANGE": "1 / 3",
+   "RESUPER domains (RMSD)": "99–134 (0.41 Å)",
+   "CYRANGE domains (RMSD)": "60–75 (2.52 Å) | 99–134 (0.41 Å) | 162–179 (3.07 Å)",
+   "Evidence": "Extra CYRANGE domains 2.52, 3.07 Å; paper: disordered regions flank the helix-loop-helix (96–142)",
+   "Ref": 7,
+   "Reference": "Y. Yang et al., Proc. Natl. Acad. Sci. USA 122, e2411890122 (2025)",
+   "_ref": [
+    "Y. Yang et al.",
+    "Proc. Natl. Acad. Sci. USA",
+    "122",
+    "e2411890122",
+    2025
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "1HN6",
+   "Protein": "Apical membrane antigen 1",
+   "Models / residues": "20 / 110",
+   "Domains RESUPER / CYRANGE": "1 / 3",
+   "RESUPER domains (RMSD)": "441–450, 481–509 (0.79 Å)",
+   "CYRANGE domains (RMSD)": "441–450, 481–509 (0.79 Å) | 513–525 (2.24 Å) | 526–534 (1.31 Å)",
+   "Evidence": "Extra CYRANGE domains 2.24, 1.31 Å; paper: N- and C-terminal regions unstructured",
+   "Ref": 8,
+   "Reference": "M. Nair et al., J. Mol. Biol. 322, 741 (2002)",
+   "_ref": [
+    "M. Nair et al.",
+    "J. Mol. Biol.",
+    "322",
+    "741",
+    2002
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "2MCD",
+   "Protein": "Murine norovirus 1",
+   "Models / residues": "20 / 98",
+   "Domains RESUPER / CYRANGE": "1 / 2",
+   "RESUPER domains (RMSD)": "62–112 (0.21 Å)",
+   "CYRANGE domains (RMSD)": "11–11, 28–44 (2.22 Å) | 61–114 (0.22 Å)",
+   "Evidence": "Extra CYRANGE domain 2.22 Å; paper: N-terminal PEST-like region unstructured",
+   "Ref": 9,
+   "Reference": "B. N. Borin et al., Proteins 82, 1200 (2014)",
+   "_ref": [
+    "B. N. Borin et al.",
+    "Proteins",
+    "82",
+    "1200",
+    2014
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "7YWR",
+   "Protein": "ORF1a polyprotein (Nsp8 N-terminal region)",
+   "Models / residues": "20 / 84",
+   "Domains RESUPER / CYRANGE": "1 / 2",
+   "RESUPER domains (RMSD)": "4–55 (0.43 Å)",
+   "CYRANGE domains (RMSD)": "4–54 (0.43 Å) | 55–77 (2.16 Å)",
+   "Evidence": "Extra CYRANGE domain 2.16 Å; paper: helix fades after residue 50; 74–84 disordered",
+   "Ref": 10,
+   "Reference": "M. Á. Treviño et al., Nucleic Acids Res. 51, 10041 (2023)",
+   "_ref": [
+    "M. Á. Treviño et al.",
+    "Nucleic Acids Res.",
+    "51",
+    "10041",
+    2023
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "1K9C",
+   "Protein": "Calreticulin",
+   "Models / residues": "20 / 74",
+   "Domains RESUPER / CYRANGE": "1 / 2",
+   "RESUPER domains (RMSD)": "214–258 (0.89 Å)",
+   "CYRANGE domains (RMSD)": "195–206 (1.67 Å) | 214–261 (0.98 Å)",
+   "Evidence": "Extra CYRANGE domain 1.67 Å; paper: residues 189–213 disordered",
+   "Ref": 11,
+   "Reference": "L. Ellgaard et al., J. Mol. Biol. 322, 773 (2002)",
+   "_ref": [
+    "L. Ellgaard et al.",
+    "J. Mol. Biol.",
+    "322",
+    "773",
+    2002
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "2K8P",
+   "Protein": "Sclerostin",
+   "Models / residues": "36 / 189",
+   "Domains RESUPER / CYRANGE": "1 / 4",
+   "RESUPER domains (RMSD)": "57–82, 110–125, 130–144 (0.48 Å)",
+   "CYRANGE domains (RMSD)": "8–21 (1.57 Å) | 29–39 (1.18 Å) | 57–82, 110–125, 130–144 (0.48 Å) | 158–173 (1.33 Å)",
+   "Evidence": "Extra CYRANGE domains 1.57, 1.18, 1.33 Å; paper: N- and C-terminal arms unstructured, highly flexible",
+   "Ref": 12,
+   "Reference": "V. Veverka et al., J. Biol. Chem. 284, 10890 (2009)",
+   "_ref": [
+    "V. Veverka et al.",
+    "J. Biol. Chem.",
+    "284",
+    "10890",
+    2009
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "2PXG",
+   "Protein": "Outer membrane protein",
+   "Models / residues": "20 / 118",
+   "Domains RESUPER / CYRANGE": "1 / 2",
+   "RESUPER domains (RMSD)": "18–56, 70–88 (0.93 Å)",
+   "CYRANGE domains (RMSD)": "18–56, 70–88 (0.93 Å) | 105–112 (1.56 Å)",
+   "Evidence": "Extra CYRANGE domain 1.56 Å; paper: N- and C-termini highly flexible",
+   "Ref": 13,
+   "Reference": "M. M. Vanini et al., Proteins 71, 2051 (2008)",
+   "_ref": [
+    "M. M. Vanini et al.",
+    "Proteins",
+    "71",
+    "2051",
+    2008
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "2LWR",
+   "Protein": "SD01679p",
+   "Models / residues": "19 / 68",
+   "Domains RESUPER / CYRANGE": "1 / 2",
+   "RESUPER domains (RMSD)": "431–481 (0.82 Å)",
+   "CYRANGE domains (RMSD)": "418–427 (1.52 Å) | 431–482 (0.83 Å)",
+   "Evidence": "Extra CYRANGE domain 1.52 Å; paper: N terminus disordered (A417–I429)",
+   "Ref": 14,
+   "Reference": "D. E. Spratt et al., Nat. Commun. 4, 1983 (2013)",
+   "_ref": [
+    "D. E. Spratt et al.",
+    "Nat. Commun.",
+    "4",
+    "1983",
+    2013
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "2KTV",
+   "Protein": "Eukaryotic peptide chain release factor subunit 1",
+   "Models / residues": "24 / 164",
+   "Domains RESUPER / CYRANGE": "1 / 2",
+   "RESUPER domains (RMSD)": "278–334, 342–416 (0.54 Å)",
+   "CYRANGE domains (RMSD)": "278–334, 342–416 (0.54 Å) | 421–440 (1.44 Å)",
+   "Evidence": "Extra CYRANGE domain 1.44 Å; paper: C-terminal tail 414–437 flexible (¹⁵N relaxation)",
+   "Ref": 15,
+   "Reference": "A. B. Mantsyzov et al., FEBS J 277, 2611 (2010)",
+   "_ref": [
+    "A. B. Mantsyzov et al.",
+    "FEBS J",
+    "277",
+    "2611",
+    2010
+   ]
+  },
+  {
+   "Category": "B",
+   "PDB": "5NR5",
+   "Protein": "MatA protein",
+   "Models / residues": "30 / 113",
+   "Domains RESUPER / CYRANGE": "1 / 3",
+   "RESUPER domains (RMSD)": "35–77 (0.27 Å)",
+   "CYRANGE domains (RMSD)": "1–12 (1.05 Å) | 35–77 (0.27 Å) | 95–103 (1.25 Å)",
+   "Evidence": "Extra CYRANGE domains 1.05, 1.25 Å; paper: N- and C-terminal tails largely disordered",
+   "Ref": 16,
+   "Reference": "K. Hedgethorne et al., Sci. Adv. 3, e1602937 (2017)",
+   "_ref": [
+    "K. Hedgethorne et al.",
+    "Sci. Adv.",
+    "3",
+    "e1602937",
+    2017
+   ]
+  }
+ ],
+ "problems": []
+}

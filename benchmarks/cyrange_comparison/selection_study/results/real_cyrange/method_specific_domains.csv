@@ -1,0 +1,46 @@
+set,pdb_id,group,reported_only_by,domain,rmsd,internally_rigid,moves,passes_two_part_check
+original60,1B8T,B,real_cyrange,94..109,1.27,False,True,False
+original60,1Q8K,B,real_cyrange,278..292,1.86,False,True,False
+original60,2KDO,B,real_cyrange,142..169,1.52,False,True,False
+original60,2L9N,B,resuper_default,14..166,1.51,False,True,False
+original60,2L9N,B,real_cyrange,"15..40, 46..94",0.38,True,True,True
+original60,2L9N,B,real_cyrange,95..169,0.83,True,True,True
+original60,2RPC,B,resuper_default,137..145,0.09,True,True,True
+original60,2RPC,B,real_cyrange,121..145,0.19,True,True,True
+original60,1WHE,A,resuper_default,"11..13, 15, 17..18, 21..24, 27..28, 30..31, 33..34, 36..38, 40..46",1.24,False,True,False
+original60,2BW2,A,resuper_default,8..61,0.36,True,True,True
+original60,2F3J,D,real_cyrange,44..51,0.55,True,True,True
+original60,2LQ4,D,resuper_default,5..18,0.1,True,False,False
+original60,2LQ4,D,resuper_default,53..63,0.09,True,False,False
+original60,2LQ4,D,resuper_default,66..78,0.1,True,False,False
+original60,2LQ4,D,real_cyrange,"3..29, 51..80",0.66,True,n/a (only domain),False
+original60,7A2D,D,real_cyrange,46..113,0.44,True,False,False
+original60,7PH8,E,real_cyrange,949..959,0.13,True,False,False
+original60,8H0U,E,real_cyrange,586..600,0.72,True,True,True
+original60,8RPQ,E,resuper_default,732..741,0.19,True,n/a (only domain),False
+original60,8RPQ,E,real_cyrange,729..749,0.69,True,True,True
+original60,8RPQ,E,real_cyrange,750..759,0.25,True,True,True
+confirm162,2DKT,B,real_cyrange,96..135,0.3,True,False,False
+confirm162,2DLQ,B,resuper_default,65..119,0.59,True,True,True
+confirm162,2DLQ,B,real_cyrange,66..91,0.14,True,True,True
+confirm162,2DLQ,B,real_cyrange,95..118,0.1,True,True,True
+confirm162,1Z87,A,real_cyrange,79..163,0.61,True,True,True
+confirm162,2KUE,A,real_cyrange,493..557,0.62,True,True,True
+confirm162,8C18,D,real_cyrange,185..199,0.42,True,True,True
+confirm162,8OIL,D,real_cyrange,111..118,0.41,True,True,True
+confirm162,8P25,D,real_cyrange,363..375,0.19,True,False,False
+confirm162,2KDR,E,resuper_default,3..12,0.09,True,True,True
+confirm162,2KDR,E,resuper_default,17..27,0.2,True,True,True
+confirm162,2KDR,E,real_cyrange,3..28,0.74,True,n/a (only domain),False
+confirm162,2MG1,E,real_cyrange,2..12,0.22,True,True,True
+confirm162,2RMY,E,resuper_default,11..22,0.26,True,True,True
+confirm162,5U9S,E,resuper_default,8..25,0.37,True,n/a (only domain),False
+confirm162,5U9S,E,real_cyrange,16..23,0.08,True,n/a (only domain),False
+confirm162,7YYI,E,real_cyrange,14..21,0.23,True,True,True
+confirm162,7Z08,E,real_cyrange,15..28,0.56,True,True,True
+confirm162,7Z0B,E,resuper_default,21..32,0.39,True,n/a (only domain),False
+confirm162,7Z0B,E,real_cyrange,16..26,0.33,True,True,True
+confirm162,7Z0B,E,real_cyrange,27..37,0.38,True,True,True
+confirm162,8AR2,E,resuper_default,631..660,1.93,False,n/a (only domain),False
+confirm162,8AR2,E,real_cyrange,644..655,0.39,True,n/a (only domain),False
+confirm162,9G7T,E,resuper_default,3..11,0.23,True,True,True

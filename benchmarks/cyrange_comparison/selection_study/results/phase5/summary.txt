@@ -1,0 +1,50 @@
+A = RESUPER default, B = reference mode (RESUPER's imitation of CYRANGE 2.0).
+Aggregates exclude 1WHE (severe modified-residue gaps).
+
+== group B (12 proteins): P1 RESUPER more domains 4, P2 reference more domains 2, identical 4, minor boundary differences 2
+   domains: RESUPER 28, reference 24; mean coverage RESUPER 0.775, reference 0.700
+   vs annotation (12 annotated, 39 domains) resuper  : recovered 17, mixed 9, split 0, missed 1
+   vs annotation (12 annotated, 39 domains) reference: recovered 9, mixed 11, split 2, missed 8
+   1B8T: P2 reference more domains (2/5); RESUPER-only pairs moving 0/0, reference-only pairs moving 9/9; annotation 4 dom: RESUPER rec/mix/miss 0/2/0, reference 0/3/0; reference-only small: 71..88 | 87..101 | 96..109
+   1OQY: P1 RESUPER more domains (4/1); RESUPER-only pairs moving 6/6, reference-only pairs moving 0/0; annotation 4 dom: RESUPER rec/mix/miss 4/0/0, reference 1/0/3; RESUPER-only small: 162..194
+   1Q8K: P2 reference more domains (2/3); RESUPER-only pairs moving 1/1, reference-only pairs moving 3/3; annotation 3 dom: RESUPER rec/mix/miss 1/1/0, reference 1/1/0; reference-only small: 278..295
+   2KUI: P1 RESUPER more domains (3/1); RESUPER-only pairs moving 3/3, reference-only pairs moving 0/0; annotation 4 dom: RESUPER rec/mix/miss 2/1/0, reference 0/1/2
+   2P01: P1 RESUPER more domains (3/1); RESUPER-only pairs moving 3/3, reference-only pairs moving 0/0; annotation 3 dom: RESUPER rec/mix/miss 3/0/0, reference 1/0/2
+   2RPC: P1 RESUPER more domains (3/2); RESUPER-only pairs moving 3/3, reference-only pairs moving 1/1; annotation 3 dom: RESUPER rec/mix/miss 2/0/0, reference 1/1/0; RESUPER-only small: 137..145
+
+== group A (11 proteins): P1 RESUPER more domains 1, P2 reference more domains 1, P3 same count, different boundaries 1, identical 8
+   domains: RESUPER 17, reference 17; mean coverage RESUPER 0.896, reference 0.907
+   vs annotation (11 annotated, 22 domains) resuper  : recovered 12, mixed 5, split 0, missed 0
+   vs annotation (11 annotated, 22 domains) reference: recovered 8, mixed 7, split 1, missed 0
+   2BW2: P1 RESUPER more domains (2/1); RESUPER-only pairs moving 1/1, reference-only pairs moving 0/0; annotation 2 dom: RESUPER rec/mix/miss 2/0/0, reference 0/1/0
+   2LY2: P2 reference more domains (2/3); RESUPER-only pairs moving 0/0, reference-only pairs moving 2/2; annotation 2 dom: RESUPER rec/mix/miss 2/0/0, reference 2/0/0; reference-only small: 331..342
+   5JS8: P3 same count, different boundaries (2/2); RESUPER-only pairs moving 0/1, reference-only pairs moving 0/1; annotation 2 dom: RESUPER rec/mix/miss 2/0/0, reference 0/1/0
+
+== group D (12 proteins): P1 RESUPER more domains 1, P2 reference more domains 2, identical 9
+   domains: RESUPER 15, reference 16; mean coverage RESUPER 0.697, reference 0.730
+   vs annotation (12 annotated, 12 domains) resuper  : recovered 9, mixed 0, split 0, missed 2
+   vs annotation (12 annotated, 12 domains) reference: recovered 10, mixed 0, split 0, missed 2
+   2F3J: P2 reference more domains (2/4); RESUPER-only pairs moving 0/0, reference-only pairs moving 5/5; annotation 1 dom: RESUPER rec/mix/miss 1/0/0, reference 1/0/0; reference-only small: 29..37 | 44..51
+   2LQ4: P1 RESUPER more domains (3/1); RESUPER-only pairs moving 0/3, reference-only pairs moving 0/0; annotation 1 dom: RESUPER rec/mix/miss 0/0/0, reference 1/0/0; RESUPER-only small: 53..63 | 66..78
+   7A2D: P2 reference more domains (1/2); RESUPER-only pairs moving 0/0, reference-only pairs moving 1/1; annotation 1 dom: RESUPER rec/mix/miss 1/0/0, reference 1/0/0; reference-only small: 26..35
+
+== group C (12 proteins): P1 RESUPER more domains 1, P2 reference more domains 1, identical 9, minor boundary differences 1
+   domains: RESUPER 13, reference 13; mean coverage RESUPER 0.816, reference 0.815
+   vs annotation (12 annotated, 12 domains) resuper  : recovered 12, mixed 0, split 0, missed 0
+   vs annotation (12 annotated, 12 domains) reference: recovered 12, mixed 0, split 1, missed 0
+   control (should be one domain): RESUPER >= 2 domains in 1, reference in 1
+   2M70: P1 RESUPER more domains (2/1); RESUPER-only pairs moving 1/1, reference-only pairs moving 0/0; annotation 1 dom: RESUPER rec/mix/miss 1/0/0, reference 1/0/0; RESUPER-only small: 41..51
+   6H5H: P2 reference more domains (1/2); RESUPER-only pairs moving 0/0, reference-only pairs moving 0/1; annotation 1 dom: RESUPER rec/mix/miss 1/0/0, reference 1/0/0; reference-only small: 39..71
+
+== group E (12 proteins): P3 same count, different boundaries 2, identical 6, minor boundary differences 4
+   domains: RESUPER 13, reference 13; mean coverage RESUPER 0.544, reference 0.627
+   vs annotation (1 annotated, 1 domains) resuper  : recovered 1, mixed 0, split 0, missed 0
+   vs annotation (1 annotated, 1 domains) reference: recovered 1, mixed 0, split 0, missed 0
+   control (should be one domain): RESUPER >= 2 domains in 1, reference in 1
+   8H0U: P3 same count, different boundaries (1/1); RESUPER-only pairs moving 0/0, reference-only pairs moving 0/0; annotation 0 dom: RESUPER rec/mix/miss -/-/-, reference -/-/-
+   8RPQ: P3 same count, different boundaries (1/1); RESUPER-only pairs moving 0/0, reference-only pairs moving 0/0; annotation 0 dom: RESUPER rec/mix/miss -/-/-, reference -/-/-
+
+== motion tests: 61 domain pairs; calculable 61; supported by motion 53
+   pairs reported by resuper_default: 26, moving 21
+   pairs reported by reference_mode: 26, moving 23
+   pairs reported by resuper_default & reference_mode: 9, moving 9

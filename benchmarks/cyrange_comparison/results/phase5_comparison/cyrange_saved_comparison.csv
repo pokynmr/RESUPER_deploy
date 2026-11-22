@@ -1,0 +1,5 @@
+pdb_id,method_a,method_b,ndom_a,ndom_b,ndom_agree,residues_a,residues_b,coverage_a,coverage_b,coverage_diff_a_minus_b,pooled_jaccard,only_in_a,only_in_b,n_only_in_a,n_only_in_b,within_method_overlap_a,within_method_overlap_b,split_merge,n_matched,n_unmatched,min_pair_jaccard,mean_pair_jaccard,max_abs_delta_rmsd,agreement
+1A67,resuper_default,cyrange2.0_saved,1,1,True,90,90,0.8333,0.8333,0.0,1.0,,,0,0,0,0,,1,0,1.0,1.0,0.01,identical
+1A67,reference_mode,cyrange2.0_saved,1,1,True,90,90,0.8333,0.8333,0.0,1.0,,,0,0,0,0,,1,0,1.0,1.0,0.0,identical
+1ADR,resuper_default,cyrange2.0_saved,1,1,True,59,59,0.7763,0.7763,0.0,1.0,,,0,0,0,0,,1,0,1.0,1.0,0.0,identical
+1ADR,reference_mode,cyrange2.0_saved,1,1,True,59,59,0.7763,0.7763,0.0,1.0,,,0,0,0,0,,1,0,1.0,1.0,0.0,identical

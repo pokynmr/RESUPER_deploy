@@ -1,0 +1,11 @@
+********************************************
+              CYRANGE (v. 2.0)
+ 
+    Copyright (c) 2002-13 Peter Guntert.
+********************************************
+    PDB coordinate file "2ARF_tail2_clean.pdb" read, 20 rigid conformers.
+ 
+    Optimal range 1032..1107: RMSD 0.08 A, 0 gaps, 76 residues.
+    Optimal range 1108..1184: RMSD 0.09 A, 0 gaps, 77 residues.
+    Optimal range 1187..1196: RMSD 1.42 A, 0 gaps, 10 residues.
+ 

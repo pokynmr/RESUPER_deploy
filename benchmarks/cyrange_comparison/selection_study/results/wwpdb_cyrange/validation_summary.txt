@@ -1,0 +1,4 @@
+entries with saved CYRANGE report and a PDB ID: 110; wwPDB CYRANGE success: 108
+same domain count: 108/108
+exactly the same domains: 108/108
+multi-domain (saved >= 2): same count 9/9, exact 9/9

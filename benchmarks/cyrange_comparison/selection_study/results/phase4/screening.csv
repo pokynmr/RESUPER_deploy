@@ -1,0 +1,61 @@
+pdb_id,group,protein,n_models_file,n_models_resuper,n_residues_file_standard,n_residues_resuper,chains,numbering,numbering_jumps,insertion_codes,altlocs,nonstandard_in_ATOM,hetatm_residues,models_with_different_atoms,models_with_different_backbone,resuper_dropped,expdta,sequence_length_rcsb,in_chain_nonstandard_fraction,in_chain_nonstandard,input_sha256,class,reasons
+1B8T,B,PROTEIN (CRP1),37,37,192,192,A(192),A:1..192,,,,,ZN,0,0,,SOLUTION NMR,192,0.0,,a63e64dd1b04ce30f24111a79010742568871d1da0e49b72f8bbb8bf978de2e1,SUITABLE,no issues
+1E88,B,FIBRONECTIN,20,20,160,160,A(160),A:1..160,,,,,NAG,0,0,,SOLUTION NMR,160,0.0,,b5d3fd2c982b7100bbe028b8fc716c512737e85f60bb36541c097523cbd43209,SUITABLE,no issues
+1OQY,B,UV excision repair protein RAD23 homolog A,12,12,363,363,A(363),A:1..363,,,,,,0,0,,SOLUTION NMR,368,0.0,,f0ff7848a2bd2097fd51b46fa3af6b274ba5e364a58d70d3d6cfcd089c1144c6,SUITABLE,no issues
+1Q8K,B,Eukaryotic translation initiation factor 2 subunit 1,15,15,300,300,A(300),A:3..302,,,,,,0,0,,SOLUTION NMR,308,0.0,,32c830e4e817cd7f36f510c2102e8bf05a290f74ad0c027f5c60de5be3067cbb,SUITABLE,no issues
+2KDO,B,Ribosome maturation protein SBDS,20,20,252,252,A(252),A:1..252,,,,,,0,0,,SOLUTION NMR,252,0.0,,ee3c0335ddf07f4d7d9f14ab8e78ca621c085676c9e4cdc6d549224d48f3f925,SUITABLE,no issues
+2KUI,B,Serine/threonine-protein kinase pknB,28,28,272,272,A(272),A:355..626,,,,,,0,0,,SOLUTION NMR,275,0.0,,fda027bfd47407e4100b37c9cc8c3206106b5f931ec2642d11d884658f77c008,SUITABLE,no issues
+2L9N,B,Ribosome maturation protein SBDS,20,20,250,250,A(250),A:1..250,,,,,,0,0,,SOLUTION NMR,252,0.0,,c4c5562ce5b3e34283bf7a720def2caf5e3ed7c066dc765ecc51ae4d8acd740d,SUITABLE,no issues
+2LQW,B,Crk-like protein,20,20,302,302,A(302),A:1..303,A:206->208,,,,PTR,0,0,,SOLUTION NMR,303,0.003,PTR207,fa2648ee528b2c2405683f54fe00caf0ccef3043b0d60d27b54ab3936ece183c,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (PTR207): each leaves an artificial gap
+2P01,B,Alpha-2-macroglobulin receptor-associated protein,20,20,323,323,A(323),A:1..323,,,,,,0,0,,SOLUTION NMR,323,0.0,,5a99b759bdf981abde10dc102c81b928ce98fdbb650f52cde58a3b0cff82451b,SUITABLE,no issues
+2RPC,B,Zinc finger protein ZIC 3,20,20,155,155,A(155),A:1..155,,,,,ZN,0,0,,SOLUTION NMR,155,0.0,,30d48c6bf44a6bc1d8d815219c7fb08209377947129eba68689ef99d09728148,SUITABLE,no issues
+6BYV,B,Very low-density lipoprotein receptor,20,20,121,121,A(121),A:1..121,,,,,CA,0,0,,SOLUTION NMR,121,0.0,,cc3a77a11e08c31f4fd8cdf8cbd59a6b60cdfc696a060ab73995a0fd65a50a4c,SUITABLE,no issues
+6RK3,B,Elongation factor P,10,10,185,185,A(185),A:1..185,,,,,,0,0,,SOLUTION NMR,185,0.0,,3dae589b0075891f5aa7927a2f209f1d537f741cd76e065f23b3d9c8b55bbdc6,SUITABLE,no issues
+1F5Y,A,LOW-DENSITY LIPOPROTEIN RECEPTOR,20,20,85,85,A(85),A:1..85,,,,,CA,0,0,,SOLUTION NMR,85,0.0,,dcf06f6131721862880ef98dd9ed9719a42ff39cd05ddbe6c19b8f3483c25927,SUITABLE,no issues
+1SSF,A,Transformation related protein 53 binding protein 1,10,10,123,123,A(123),A:7..129,,,,,,0,0,,SOLUTION NMR,156,0.0,,2a2b27fc645c5e92f4ee07977e6e28208719d6b048bc35e47467278cc8a65185,SUITABLE,no issues
+1WHE,A,COAGULATION FACTOR X,20,20,73,73,A(73),A:1..86,A:5->8 A:13->15 A:15->17 A:18->21 A:24->27 A:28->30 A:31->33 A:34->36 A:38->40 A:62->64,,,,BHD CGU,0,0,,SOLUTION NMR,86,0.151,CGU6 CGU7 CGU14 CGU16 CGU19 CGU20 CGU25 CGU26 CGU29 CGU32 CGU35 CGU39 BHD63,51f527c8eb03706a3fc87796090ff4fa0a5b75962c49c91ef3a9f111b16c6401,SOFTWARE COMPATIBILITY,SEVERE: 13 in-chain non-standard residue(s) skipped by RESUPER (CGU6 CGU7 CGU14 CGU16 CGU19 CGU20 CGU25 CGU26 ...): each leaves an artificial gap
+2BW2,A,BYPASS OF FORESPORE C,25,25,140,140,A(140),A:1..140,,,,,,0,0,,SOLUTION NMR,140,0.0,,82b4e704bd00fa29e402921e664c6f2317e171cebdba5046e4935668d9a7386a,SUITABLE,no issues
+2LY2,A,Tudor domain-containing protein 7,20,20,180,180,A(180),A:-2..433,A:-1->256,,,,,0,0,,SOLUTION NMR,180,0.0,,f3f8d5890260f897c5d8ac1fa255e8dc8f387dd680a628664626908d55f36456,SUITABLE,no issues
+2M8P,A,Capsid protein p24,100,100,221,221,A(221),A:1..221,,,,,,0,0,,SOLUTION NMR; SOLUTION SCATTERING,231,0.0,,d09c520da653caa603455eac05d0416a9df032c9befc0c094529bc3f834af1be,SUITABLE,no issues
+2MGR,A,Merozoite surface protein 1,20,20,99,99,A(99),A:1..99,,,,,,0,0,,SOLUTION NMR,99,0.0,,052bfc164fe56e8c2ef75fc17d1f4a08fd426116d275835975b82989cd02749e,SUITABLE,no issues
+2RML,A,Copper-transporting P-type ATPase copA,25,25,147,147,A(147),A:1..147,,,,,,0,0,,SOLUTION NMR,147,0.0,,ad5eec206fd4dad48896b140d255e9fbd4b85164d1a19b54933a4b0b4824dd70,SUITABLE,no issues
+2RQ6,A,ATP synthase epsilon chain,20,20,138,138,A(138),A:1..138,,,,,,0,0,,SOLUTION NMR,138,0.0,,f48127dc91faf66ab930986264b7fe26988b06001d119cc50ed7f4e9ff8b9942,SUITABLE,no issues
+4A52,A,"PUTATIVE L, D-TRANSPEPTIDASE YKUD",20,20,169,169,A(169),A:1..169,,,,,IM2,0,0,,SOLUTION NMR,175,0.0,,33be84d1c8d12c0b687ab236e2d2525495ff76aff7c9e59ebafad7b01b5ed847,SUITABLE,no issues
+5JS8,A,Guanine nucleotide-binding protein G(i) subunit alpha-1,10,10,323,323,A(323),A:32..354,,,,,,0,0,,SOLUTION NMR,326,0.0,,3b4c95d95b46ef50c552b34c799e68125f96df353be89bd3bb806e8626a08ad1,SUITABLE,no issues
+6QH2,A,Polyribonucleotide nucleotidyltransferase,20,20,142,142,A(142),A:14..155,,,,,,0,0,,SOLUTION NMR,171,0.0,,611af240ae0891c6df7f139abe4d54be309df7df8057a555c71cda252ea08ea2,SUITABLE,no issues
+2F3J,D,RNA and export factor binding protein 2,14,14,158,158,A(158),A:1..158,,,,,,0,0,,SOLUTION NMR,177,0.0,,7c1aadcd12a1eef6fd7d31ebf2f6e562ed5d290900c82adc5f0690a52ade8fc9,SUITABLE,no issues
+2LQ4,D,Lysophosphatidic acid receptor 1,36,36,80,80,p(80),p:1..80,,,,,,0,0,,SOLUTION NMR,80,0.0,,5922ffa3f399bb798492c7f143fa4c65e7e8ccf49c02b249a5614e957387d085,SUITABLE,no issues
+2LVT,D,Zinc finger and BTB domain-containing protein 17,20,20,29,29,A(29),A:30..58,,,,,ZN,0,0,,SOLUTION NMR,83,0.0,,eb1fd671446e4648bf24ff718a72f16dba823adeba11bb4662c7dca6d623f522,SUITABLE,no issues
+2LVU,D,Zinc finger and BTB domain-containing protein 17,20,20,26,26,A(26),A:58..83,,,,,ZN,0,0,,SOLUTION NMR,83,0.0,,de2695b228e5112606c22b9aa7861502aaf52409cfa13537a36afdeebf6713e1,SUITABLE,no issues
+2N7L,D,Troponin C/Troponin I chimera,20,20,139,139,C(139),C:-13..126,C:83->85,,,,4J4 CA,0,0,,SOLUTION NMR,141,0.007,4J484,d889385abcc98f0523d8a61069d476e2e53d71cd17843ba578082907caaae2ad,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (4J484): each leaves an artificial gap
+2N84,D,Uncharacterized protein,10,10,179,179,A(179),A:-1..177,,,,,,0,0,,SOLUTION NMR,179,0.0,,89b69ae6e1f88654bd9b31904fee64e3d9371f4a7ec19feb0afc1de5390cf1eb,SUITABLE,no issues
+5LVY,D,Adhesin protein,10,10,154,154,A(154),A:9..162,,,,,,0,0,,SOLUTION NMR,154,0.0,,f7a802745ca7a6d977c26184bbfa0fc63c9a8cc3096c35acbd4e3ab4debe73f8,SUITABLE,no issues
+6EMP,D,"PC4 and SFRS1-interacting protein,Pogo transposable element with ZNF domain",40,40,139,139,A(139),A:339..1404,A:442->1370,,,,,0,0,,SOLUTION NMR,139,0.0,,3c8a8d37907fcdce5627af8e166ed53b4c492429c6d04eb5844a6b292f7909d2,SUITABLE,no issues
+7A2D,D,Uncharacterized protein YraP,20,20,178,178,A(178),A:20..197,,,,,,0,0,,SOLUTION NMR,182,0.0,,909002ae846475f571fc4d2b91cffe9656dc91e1cb2f105d1cfc129844d4b656,SUITABLE,no issues
+7VH9,D,"Splicing factor 3A subunit 1,Splicing factor 1",20,20,111,111,A(111),A:1..111,,,,,,0,0,,SOLUTION NMR,111,0.0,,99054774c335b94d262f5c269d5c745db917026f9975f13fcbe6c03b122a551f,SUITABLE,no issues
+7XEZ,D,"Histone acetyltransferase p300,NUT family member 1",20,20,163,163,A(163),A:1..163,,,,,ZN,0,0,,SOLUTION NMR,163,0.0,,dffbd64047559a268dc73ccc1def37944c271f6bab19139cfe35abfb7b2ab6ea,SUITABLE,no issues
+8XTT,D,Nuclear receptor subfamily 4 group A member 3,20,20,248,248,A(248),A:1..248,,,,,,0,0,,SOLUTION NMR,248,0.0,,ac8b9c6d3479c983392d639f9fbb9fe28aca06ecffd0c822b64b46889e25cfe2,SUITABLE,no issues
+2B1W,C,Caspase recruitment domain protein 4,10,10,99,99,A(99),A:12..110,,,,,,0,0,,SOLUTION NMR,127,0.0,,724a958b140876c6c320d3101cd13e4cf1369a8a7ba346a692980119d889bbf4,SUITABLE,no issues
+2BZ2,C,NEGATIVE ELONGATION FACTOR E,20,20,79,79,A(79),A:35..113,,,,,,0,0,,SOLUTION NMR,121,0.0,,714f392dd0aba0d33b853fd36f0effcb9d3c6a5bdce8d557e1759283af8f576b,SUITABLE,no issues
+2CH0,C,INNER NUCLEAR MEMBRANE PROTEIN MAN1,20,20,133,133,A(133),A:1..133,,,,,,0,0,,SOLUTION NMR,133,0.0,,3cbcf8e74d543bf5d15959bbdfb93c26593cd911b1cb89740b443199df5aa1c5,SUITABLE,no issues
+2CKC,C,CHROMODOMAIN-HELICASE-DNA-BINDING PROTEIN 7,25,25,60,60,A(60),A:2563..2622,,,,,,0,0,,SOLUTION NMR,80,0.0,,094dd17368c7ac858a4fe0d8266d4b60e4baa78f12caf66aadfaac0fe82d2889,SUITABLE,no issues
+2JRB,C,ORF 1 protein,40,40,65,65,A(65),A:289..353,,,,,,0,0,,SOLUTION NMR,88,0.0,,903102a4d54e44fe4c3d31dc3a5a16134c2c2a5ccb7cbaccade377446afbc827,SUITABLE,no issues
+2K4B,C,Transcriptional regulator,20,20,69,69,A(69),A:31..99,,,,,,0,0,,SOLUTION NMR,99,0.0,,6861fcd567e7c2d647299bd6355f187b6186ab5bbef1208c283449f27b705e3b,SUITABLE,no issues
+2KKT,C,Ataxin-7-like protein 3,20,20,52,52,A(52),A:198..249,,,,,ZN,0,0,,SOLUTION NMR,84,0.0,,d383a591bd220679273c1f1a5fdc2f40cdd84e8c053898e48d706d7883856089,SUITABLE,no issues
+2M70,C,Poly(A)-binding protein 1,20,20,155,155,A(155),A:1..155,,,,,,0,0,,SOLUTION NMR,155,0.0,,36a50b11cc205947046281b3ac2cda9f32954460bd1720709800510509697191,SUITABLE,no issues
+2N3G,C,Double-stranded RNA-binding protein 4,20,20,72,72,A(72),A:1..72,,,,,,0,0,,SOLUTION NMR,153,0.0,,5820457a94ad1983323cd4dbe9856a493d856bfd21255cee173dccc60df8d110,SUITABLE,no issues
+2N4D,C,Uncharacterized protein Atu1203,20,20,64,64,A(64),A:1..64,,,,,,0,0,,SOLUTION NMR,85,0.0,,963415b48a62f3e7f9f4a10d416f3e26ee40d37e9af04b4f6504e17bb6a9f782,SUITABLE,no issues
+6H5H,C,polb4,22,22,71,71,A(71),A:1..71,,,,,,0,0,,SOLUTION NMR,121,0.0,,8d10478714eeb795a6b60bfe1f25dd29a56bddbbea16da866d69e46056f4f52a,SUITABLE,no issues
+6M3A,C,Biofilm-associated surface protein,20,20,105,105,A(105),A:1..105,,,,,,0,0,,SOLUTION NMR,105,0.0,,140f15f58396390d3002d177a7e8ff1c78d03aa5ad97392744b5ccecdba75a10,SUITABLE,no issues
+2K59,E,Neuronal acetylcholine receptor subunit beta-2,20,20,28,28,B(28),B:1..28,,,,,,0,0,,SOLUTION NMR,28,0.0,,68b2947aed96726680f0e12020258783bcb5c4af481047022269733c8b65c873,SUITABLE,no issues
+2KJN,E,lah4,20,20,26,26,A(26),A:1..26,,,,,,0,0,,SOLUTION NMR,26,0.0,,48c78e5a225013be70cce0ddd1f3f23113e589a1d94d92194d8f0afeed0865a7,SUITABLE,no issues
+2RRI,E,Vasoactive intestinal peptide,20,20,29,29,A(29),A:1..29,,,,,,0,0,,SOLUTION NMR,29,0.0,,49d577ba319f88ff3197a170f9df0b4b2cad08d7f219463eaabcd50213a5bfd0,SUITABLE,no issues
+5H2S,E,Piscidin-4,15,15,25,25,A(25),A:1..25,,,,,,0,0,,SOLUTION NMR,25,0.0,,0af755396c508d938076681497b305b438c7bdb91b7e9791117e132dd62d63b4,SUITABLE,no issues
+6B3U,E,HIV-1 GP41 Transmembrane Domain,15,15,40,40,A(40),A:677..716,,,,,,0,0,,SOLUTION NMR,40,0.0,,19dfe08ed8dc84bbedf79fdc1a61acd592fb419f88522611a00e06c3167e37d0,SUITABLE,no issues
+6GDZ,E,Exendin-4,10,10,37,37,A(37),A:1..39,A:1->3 A:26->28,,,,AIB EVT NH2,0,0,,SOLUTION NMR,40,0.075,AIB2 AIB27 NH240,841aefab4c0c29c7f835b1fae7e752a5dd6cfdbdc547dcfe9b566965b193c238,SOFTWARE COMPATIBILITY,3 in-chain non-standard residue(s) skipped by RESUPER (AIB2 AIB27 NH240): each leaves an artificial gap
+6GO0,E,Plantaricin S beta protein,20,20,26,26,A(26),A:1..26,,,,,,0,0,,SOLUTION NMR,26,0.0,,80bdc25377ad814b30af988053c66cdcd8c1e9913c7b0c634beef452330f2e78,SUITABLE,no issues
+7ATB,E,Tumor necrosis factor,20,20,33,33,A(33),A:28..60,,,,,,0,0,,SOLUTION NMR,33,0.0,,094ddc23ffc43f8470447b8e90ec23a7df49243951958d6888ffa8ab44e88697,SUITABLE,no issues
+7PH8,E,Insulin-like growth factor 1 receptor,20,20,31,31,A(31),A:932..962,,,,,,0,0,,SOLUTION NMR,31,0.0,,cf282a619ff66e9ddd110b81d3b40a1d3b46b527b80547f0f461c2c29e1b1554,SUITABLE,no issues
+8H0U,E,AQEE-30,20,20,31,31,A(31),A:585..615,,,,,,0,0,,SOLUTION NMR,31,0.0,,8a5b5ff1d1ba13c556c71bdc887d6c602f32cd10a0c315181f89c0d81f1ed51a,SUITABLE,no issues
+8RPQ,E,Integrin beta-1,20,20,36,36,A(36),A:726..761,,,,,,0,0,,SOLUTION NMR,36,0.0,,9333a318fe9360eebcf9e8f8c93bbecaf68bf0f08de024d41ff1cb892ff984b1,SUITABLE,no issues
+9F1G,E,Remorin,40,40,49,49,A(49),A:150..198,,,,,,0,0,,SOLUTION NMR,49,0.0,,b898526c6c4516959a0694d35bd43680d939d40413bcc9ae43d981a76503e406,SUITABLE,no issues

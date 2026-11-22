@@ -1,0 +1,3 @@
+numpy>=2.0
+scipy>=1.11
+# optional, only to rebuild the Word table: Node.js with the npm package docx (9.x)

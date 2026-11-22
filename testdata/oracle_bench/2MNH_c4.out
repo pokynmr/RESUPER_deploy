@@ -1,0 +1,10 @@
+********************************************
+              CYRANGE (v. 2.0)
+ 
+    Copyright (c) 2002-13 Peter Guntert.
+********************************************
+    PDB coordinate file "2MNH_c4.pdb" read, 20 rigid conformers.
+ 
+    Optimal range 2..121: RMSD 2.09 A, 0 gaps, 120 residues.
+    Optimal range 122..148: RMSD 0.22 A, 0 gaps, 27 residues.
+ 

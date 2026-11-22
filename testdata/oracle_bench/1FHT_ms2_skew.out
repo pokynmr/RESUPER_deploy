@@ -1,0 +1,10 @@
+********************************************
+              CYRANGE (v. 2.0)
+ 
+    Copyright (c) 2002-13 Peter Guntert.
+********************************************
+    PDB coordinate file "1FHT_ms2_skew.pdb" read, 20 rigid conformers.
+ 
+    Optimal range 3..50: RMSD 0.36 A, 0 gaps, 48 residues.
+    Optimal range 51..116: RMSD 0.46 A, 0 gaps, 66 residues.
+ 

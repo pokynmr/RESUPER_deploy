@@ -1,0 +1,111 @@
+﻿pdb_id,saved_report,wwpdb_status,ndom_saved,ndom_wwpdb,same_count,exact_same_domains,pooled_jaccard,ranges_saved,ranges_wwpdb
+1A11,1A11.out,success,1,1,True,True,1.0,3..25,3..25
+1A3P,1A3P.out,success,1,1,True,True,1.0,"7..19, 21..47","7..19, 21..47"
+1A67,1A67.out,success,1,1,True,True,1.0,"10..70, 82..84, 91..116","10..70, 82..84, 91..116"
+1A6S,1A6S.out,success,1,1,True,True,1.0,"2..18, 24..62, 71..87","2..18, 24..62, 71..87"
+1A03,1a03.out,success,1,1,True,True,1.0,"A3..A41, A52..A88, B3..B40, B56..B88","3..41, 52..88, 3..40, 56..88"
+1A5E,1a5e.out,success,1,1,True,True,1.0,14..134,14..134
+1A5R,1a5r.out,success,1,1,True,True,1.0,21..92,21..92
+1A63,1a63.out,success,1,1,True,True,1.0,"1..67, 78..102, 109..120","1..67, 78..102, 109..120"
+1A7M,1a7m.out,success,1,1,True,True,1.0,"24..60, 67..71, 76..132, 153..180","24..60, 67..71, 76..132, 153..180"
+1A90,1a90.out,success,1,1,True,True,1.0,"11..70, 82..116","11..70, 82..116"
+1A9V,1a9v.out,success,1,1,True,True,1.0,"2..23, 32..122","2..23, 32..122"
+1AAF,1aaf.out,success,2,2,True,True,1.0,15..28 | 36..49,15..28 | 36..49
+1ABZ,1abz.out,success,1,1,True,True,1.0,1..38,1..38
+1ACA,1aca.out,success,1,1,True,True,1.0,"4..41, 51..86","4..41, 51..86"
+1ACP,1acp.out,Not enough models (<3),1,0,False,False,0.0,3..77,
+1ADN,1adn.out,success,1,1,True,True,1.0,"8..17, 27..72","8..17, 27..72"
+1ADR,1adr.out,success,1,1,True,True,1.0,6..64,6..64
+1D3Z,1d3z.out,success,1,1,True,True,1.0,1..72,1..72
+11TG,oracle_perturb/11TG__ident.out,success,1,1,True,True,1.0,30..42,30..42
+11TJ,oracle_perturb/11TJ__ident.out,success,2,2,True,True,1.0,2..12 | 24..38,2..12 | 24..38
+1A2I,oracle_perturb/1A2I__ident.out,success,1,1,True,True,1.0,"4..36, 43..55, 62..87, 93..107","4..36, 43..55, 62..87, 93..107"
+1A5J,oracle_perturb/1A5J__ident.out,success,2,2,True,True,1.0,5..51 | 61..105,5..51 | 61..105
+1AXH,oracle_perturb/1AXH__ident.out,success,1,1,True,True,1.0,4..37,4..37
+1AYG,oracle_perturb/1AYG__ident.out,success,1,1,True,True,1.0,2..80,2..80
+1B2I,oracle_perturb/1B2I__ident.out,success,1,1,True,True,1.0,"-1, 1..34, 36..59, 61..81","-1..-1, 1..34, 36..59, 61..81"
+1B2T,oracle_perturb/1B2T__ident.out,success,1,1,True,True,1.0,9..66,9..66
+1B4I,oracle_perturb/1B4I__ident.out,success,1,1,True,True,1.0,"16..20, 22..28","16..20, 22..28"
+1BA9,oracle_perturb/1BA9__ident.out,success,1,1,True,True,1.0,"3..21, 28..49, 62..106, 110..153","3..21, 28..49, 62..106, 110..153"
+1BFW,oracle_perturb/1BFW__ident.out, The number of core atoms (  3) was below the domain threshold value (  8).,1,0,False,False,0.0,149,
+1BIG,oracle_perturb/1BIG__ident.out,success,1,1,True,True,1.0,2..37,2..37
+1BKU,oracle_perturb/1BKU__ident.out,success,1,1,True,True,1.0,7..19,7..19
+1BM6,oracle_perturb/1BM6__ident.out,success,1,1,True,True,1.0,"91..149, 156..246","91..149, 156..246"
+1BQ0,oracle_perturb/1BQ0__ident.out,success,1,1,True,True,1.0,3..67,3..67
+1BQT,oracle_perturb/1BQT__ident.out,success,1,1,True,True,1.0,"6..26, 42..63","6..26, 42..63"
+1BR0,oracle_perturb/1BR0__ident.out,success,1,1,True,True,1.0,"27..61, 72..99, 111..141","27..61, 72..99, 111..141"
+1BYV,oracle_perturb/1BYV__ident.out,success,1,1,True,True,1.0,7..18,7..18
+1BZB,oracle_perturb/1BZB__ident.out,success,1,1,True,True,1.0,5..19,5..19
+1BZF,oracle_perturb/1BZF__ident.out,success,1,1,True,True,1.0,1..160,1..160
+1CL4,oracle_perturb/1CL4__ident.out,success,1,1,True,True,1.0,50..77,50..77
+1COK,oracle_perturb/1COK__ident.out,success,1,1,True,True,1.0,7..61,7..61
+1D5G,oracle_perturb/1D5G__ident.out,success,1,1,True,True,1.0,"A4..A92, B11..B15","4..92, 11..15"
+1D9S,oracle_perturb/1D9S__ident.out,success,1,1,True,True,1.0,7..128,7..128
+1DD2,oracle_perturb/1DD2__ident.out,success,1,1,True,True,1.0,"56..86, 91..123","56..86, 91..123"
+1DGQ,oracle_perturb/1DGQ__ident.out,success,1,1,True,True,1.0,"130..161, 166..299","130..161, 166..299"
+1DX7,oracle_perturb/1DX7__ident.out,success,2,2,True,True,1.0,5..30 | 31..48,5..30 | 31..48
+1E4U,oracle_perturb/1E4U__ident.out,success,1,1,True,True,1.0,12..61,12..61
+1E8E,oracle_perturb/1E8E__ident.out,success,1,1,True,True,1.0,3..118,3..118
+1E91,oracle_perturb/1E91__ident.out,success,1,1,True,True,1.0,"A10..A37, A57..A77, B2..B13","10..37, 57..77, 2..13"
+1EH2,oracle_perturb/1EH2__ident.out,success,1,1,True,True,1.0,"7..82, 86..95","7..82, 86..95"
+1EII,oracle_perturb/1EII__ident.out,success,1,1,True,True,1.0,3..134,3..134
+1FM1,oracle_perturb/1FM1__ident.out,success,1,1,True,True,1.0,"8..66, 75..88, 95..164","8..66, 75..88, 95..164"
+1G03,oracle_perturb/1G03__ident.out,success,1,1,True,True,1.0,18..131,18..131
+1G6J,oracle_perturb/1G6J__ident.out,success,1,1,True,True,1.0,1..70,1..70
+1GEA,oracle_perturb/1GEA__ident.out,success,1,1,True,True,1.0,3..20,3..20
+1GM1,oracle_perturb/1GM1__ident.out,success,1,1,True,True,1.0,"12..33, 41..98","12..33, 41..98"
+1GO0,oracle_perturb/1GO0__ident.out,success,1,1,True,True,1.0,3..97,3..97
+1HEV,oracle_perturb/1HEV__ident.out,success,1,1,True,True,1.0,"2..11, 16..42","2..11, 16..42"
+1HZL,oracle_perturb/1HZL__ident.out,success,1,1,True,True,1.0,2..110,2..110
+1I17,oracle_perturb/1I17__ident.out,success,1,1,True,True,1.0,5..101,5..101
+1IH0,oracle_perturb/1IH0__ident.out,success,1,1,True,True,1.0,93..161,93..161
+1ILY,oracle_perturb/1ILY__ident.out,success,1,1,True,True,1.0,"23..52, 63..111","23..52, 63..111"
+1INZ,oracle_perturb/1INZ__ident.out,success,1,1,True,True,1.0,"19..28, 39..65, 71..107, 121..134","19..28, 39..65, 71..107, 121..134"
+1J0T,oracle_perturb/1J0T__ident.out,success,1,1,True,True,1.0,4..74,4..74
+1JAA,oracle_perturb/1JAA__ident.out,success,1,1,True,True,1.0,"3..4, 6..12","3..4, 6..12"
+1JBH,oracle_perturb/1JBH__ident.out,success,1,1,True,True,1.0,"1..72, 82..134","1..72, 82..134"
+1JI8,oracle_perturb/1JI8__ident.out,success,1,1,True,True,1.0,3..104,3..104
+1JOQ,oracle_perturb/1JOQ__ident.out,success,1,1,True,True,1.0,"8..41, 57..140","8..41, 57..140"
+1JSA,oracle_perturb/1JSA__ident.out,success,1,1,True,True,1.0,"7..94, 100..160, 164..188","7..94, 100..160, 164..188"
+1K3G,oracle_perturb/1K3G__ident.out,success,1,1,True,True,1.0,23..92,23..92
+1K8B,oracle_perturb/1K8B__ident.out,success,1,1,True,True,1.0,40..88,40..88
+1KX7,oracle_perturb/1KX7__ident.out,success,1,1,True,True,1.0,"-1, 1..78","-1..-1, 1..78"
+1L6U,oracle_perturb/1L6U__ident.out,success,1,1,True,True,1.0,"5..40, 44..108","5..40, 44..108"
+1L6V,oracle_perturb/1L6V__ident.out,success,1,1,True,True,1.0,"5..77, 85..110","5..77, 85..110"
+1L7B,oracle_perturb/1L7B__ident.out,success,1,1,True,True,1.0,7..86,7..86
+1LA3,oracle_perturb/1LA3__ident.out,success,1,1,True,True,1.0,"2..75, 79..96, 101..161, 165..189","2..75, 79..96, 101..161, 165..189"
+1LKN,oracle_perturb/1LKN__ident.out,success,1,1,True,True,1.0,2..89,2..89
+1LM0,oracle_perturb/1LM0__ident.out,success,1,1,True,True,1.0,"36..86, 90..131","36..86, 90..131"
+1LUD,oracle_perturb/1LUD__ident.out,success,1,1,True,True,1.0,1..161,1..161
+1LV9,oracle_perturb/1LV9__ident.out,success,1,1,True,True,1.0,"16..26, 28..70","16..26, 28..70"
+1MZK,oracle_perturb/1MZK__ident.out,success,1,1,True,True,1.0,"180..260, 268..296","180..260, 268..296"
+1N02,oracle_perturb/1N02__ident.out,success,1,1,True,True,1.0,4..100,4..100
+1N89,oracle_perturb/1N89__ident.out,success,1,1,True,True,1.0,3..67,3..67
+1O1W,oracle_perturb/1O1W__ident.out,success,1,1,True,True,1.0,4..113,4..113
+1Q80,oracle_perturb/1Q80__ident.out,success,1,1,True,True,1.0,1..174,1..174
+1TVC,oracle_perturb/1TVC__ident.out,success,1,1,True,True,1.0,"10..34, 43..251","10..34, 43..251"
+1Y4E,oracle_perturb/1Y4E__ident.out,success,1,1,True,True,1.0,169..176,169..176
+1YHO,oracle_perturb/1YHO__ident.out,success,1,1,True,True,1.0,2..186,2..186
+1YZC,oracle_perturb/1YZC__ident.out,success,1,1,True,True,1.0,22..98,22..98
+1Z0Q,oracle_perturb/1Z0Q__ident.out,success,1,1,True,True,1.0,7..26,7..26
+1Z8S,oracle_perturb/1Z8S__ident.out,success,2,2,True,True,1.0,"460..554 | 557..575, 580..594","460..554 | 557..575, 580..594"
+1ZRR,oracle_perturb/1ZRR__ident.out,success,1,1,True,True,1.0,1..179,1..179
+29SB,oracle_perturb/29SB__ident.out,success,1,1,True,True,1.0,"1..9, 13..126","1..9, 13..126"
+2AJJ,oracle_perturb/2AJJ__ident.out,success,1,1,True,True,1.0,4..25,4..25
+2ARF,oracle_perturb/2ARF__ident.out,success,1,1,True,True,1.0,"1037..1111, 1141..1196","1037..1111, 1141..1196"
+2AXL,oracle_perturb/2AXL__ident.out,success,1,1,True,True,1.0,7..121,7..121
+2BL6,oracle_perturb/2BL6__ident.out,success,1,1,True,True,1.0,22..58,22..58
+2DHS,oracle_perturb/2DHS__ident.out,success,2,2,True,True,1.0,"16..49, 59..100 | 108..169, 182..186","16..49, 59..100 | 108..169, 182..186"
+2G7H,oracle_perturb/2G7H__ident.out,success,1,1,True,True,1.0,"1..27, 48..156","1..27, 48..156"
+2GO9,oracle_perturb/2GO9__ident.out,success,1,1,True,True,1.0,3..158,3..158
+2HA1,oracle_perturb/2HA1__ident.out,success,2,2,True,True,1.0,1..93 | 126..201,1..93 | 126..201
+2I3E,oracle_perturb/2I3E__ident.out,success,1,1,True,True,1.0,"7..40, 61..219","7..40, 61..219"
+2I94,oracle_perturb/2I94__ident.out,success,1,1,True,True,1.0,"A8..A188, B4..B16","8..188, 4..16"
+2JQF,oracle_perturb/2JQF__ident.out,success,2,2,True,True,1.0,"R30..R185, R193..R194 | S229..S384","30..185, 193..194 | 229..384"
+2K7P,oracle_perturb/2K7P__ident.out,success,1,1,True,True,1.0,1788..1955,1788..1955
+6EMQ,oracle_perturb/6EMQ__ident.out,success,1,1,True,True,1.0,"348..426, 497..500","348..426, 497..500"
+6EMR,oracle_perturb/6EMR__ident.out,success,2,2,True,True,1.0,"348..428, 472..477, 489..496 | 529..538","348..428, 472..477, 489..496 | 529..538"
+6R0J,oracle_perturb/6R0J__ident.out,success,1,1,True,True,1.0,"3..25, 29..133, 146..159","3..25, 29..133, 146..159"
+6TT8,oracle_perturb/6TT8__ident.out,success,1,1,True,True,1.0,"49..65, 73..267","49..65, 73..267"
+6XQJ,oracle_perturb/6XQJ__ident.out,success,1,1,True,True,1.0,"14..79, 230..288, 314..360","14..79, 230..288, 314..360"
+9Z30,oracle_perturb/9Z30__ident.out,success,1,1,True,True,1.0,"101..106, 116..182, 187..198, 207..257","101..106, 116..182, 187..198, 207..257"

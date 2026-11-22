@@ -1,0 +1,10 @@
+********************************************
+              CYRANGE (v. 2.0)
+ 
+    Copyright (c) 2002-13 Peter Guntert.
+********************************************
+    PDB coordinate file "err_1CFC_tiny.pdb" read, 25 rigid conformers.
+ 
+*** WARNING: The number of core atoms (  6) was below the domain threshold value (  8).
+    Optimal range 3..6: RMSD 0.12 A, 0 gaps, 4 residues.
+ 

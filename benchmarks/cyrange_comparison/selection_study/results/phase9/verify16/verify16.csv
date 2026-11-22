@@ -1,0 +1,17 @@
+PDB,Category,download,file_identical_to_used,last_revision,wwpdb_status,wwpdb_n_domains,cyrange_residues_not_in_file,resuper_new,cyrange_new,resuper_matches_table,cyrange_matches_table,counts_match_table,wwpdb_count_consistent
+2BW2,A,ok,True,2024-05-15,success,1,0,8..61 (0.36 Å) | 64..140 (0.56 Å),7..140 (1.13 Å),True,True,True,True
+1BBO,A,ok,True,2023-11-15,success,1,0,"2..10, 12..25 (0.19 Å) | 27..54 (0.26 Å)","2..10, 12..55 (0.83 Å)",True,True,True,True
+2EW9,A,ok,True,2024-05-22,success,1,0,"4..13, 18..71 (0.42 Å) | 81..146 (0.46 Å)","4..72, 80..149 (0.95 Å)",True,True,True,True
+5MS9,A,ok,True,2024-10-23,success,1,0,"121..181 (0.80 Å) | 183..196, 200..287 (0.83 Å)",140..287 (1.61 Å),True,True,True,True
+6G81,A,ok,True,2024-06-19,success,1,0,"2..69, 105..116 (0.32 Å) | 70..104 (0.38 Å)",1..117 (0.73 Å),True,True,True,True
+2V93,A,ok,True,2024-11-20,success,1,0,"5..109, 262..319 (0.10 Å) | 114..253, 332..370 (0.08 Å)","81..87, 103..105, 266..268, 311..313 (0.00 Å)",True,True,True,True
+9FLG,B,ok,True,2025-05-14,success,3,0,99..134 (0.41 Å),60..75 (2.52 Å) | 99..134 (0.41 Å) | 162..179 (3.07 Å),True,True,True,True
+1HN6,B,ok,True,2024-10-30,success,3,0,"441..450, 481..509 (0.79 Å)","441..450, 481..509 (0.79 Å) | 513..525 (2.24 Å) | 526..534 (1.31 Å)",True,True,True,True
+2MCD,B,ok,True,2024-05-15,success,2,0,62..112 (0.21 Å),"11..11, 28..44 (2.22 Å) | 61..114 (0.22 Å)",True,True,True,True
+7YWR,B,ok,True,2025-01-15,success,2,0,4..55 (0.43 Å),4..54 (0.43 Å) | 55..77 (2.16 Å),True,True,True,True
+1K9C,B,ok,True,2024-05-22,success,2,0,214..258 (0.89 Å),195..206 (1.67 Å) | 214..261 (0.98 Å),True,True,True,True
+2K8P,B,ok,True,2024-11-06,success,4,0,"57..82, 110..125, 130..144 (0.48 Å)","8..21 (1.57 Å) | 29..39 (1.18 Å) | 57..82, 110..125, 130..144 (0.48 Å) | 158..173 (1.33 Å)",True,True,True,True
+2PXG,B,ok,True,2024-05-15,success,2,0,"18..56, 70..88 (0.93 Å)","18..56, 70..88 (0.93 Å) | 105..112 (1.56 Å)",True,True,True,True
+2LWR,B,ok,True,2024-05-15,success,2,0,431..481 (0.82 Å),418..427 (1.52 Å) | 431..482 (0.83 Å),True,True,True,True
+2KTV,B,ok,True,2024-05-22,success,2,0,"278..334, 342..416 (0.54 Å)","278..334, 342..416 (0.54 Å) | 421..440 (1.44 Å)",True,True,True,True
+5NR5,B,ok,True,2024-05-15,success,3,0,35..77 (0.27 Å),1..12 (1.05 Å) | 35..77 (0.27 Å) | 95..103 (1.25 Å),True,True,True,True

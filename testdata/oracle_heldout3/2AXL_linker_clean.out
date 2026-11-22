@@ -1,0 +1,10 @@
+********************************************
+              CYRANGE (v. 2.0)
+ 
+    Copyright (c) 2002-13 Peter Guntert.
+********************************************
+    PDB coordinate file "2AXL_linker_clean.pdb" read, 20 rigid conformers.
+ 
+    Optimal range 1..80: RMSD 0.09 A, 0 gaps, 80 residues.
+    Optimal range 83..144: RMSD 0.10 A, 0 gaps, 62 residues.
+ 

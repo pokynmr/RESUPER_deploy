@@ -1,0 +1,27 @@
+pdb_id,paper_ndom,default_matches_paper,reference_matches_paper,paper_fig4_cyrange_rmsd,resuper_default_rmsd,reference_mode_rmsd,note
+1A67,1,True,True,1.17,1.18,1.17,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1ADR,1,True,True,0.57,0.57,0.57,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1AEY,1,True,True,0.38,0.38,0.38,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1AIW,1,False,True,0.86,0.83,0.86,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1BF8,1,True,True,1.06,1.06,1.06,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1CFC,2,True,True,0.19 + 0.35 (2 domains),0.19 + 0.35,0.19 + 0.35,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1D1D,2,True,True,0.67 + 0.40 (2 domains),0.67 + 0.40,0.67 + 0.40,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1LEB,1,True,True,0.94,0.94,0.94,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1PIT,1,True,True,0.41,0.41,0.41,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1PKT,1,True,True,0.63,0.63,0.63,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1QO6,2,False,False,0.56 + 0.47 (2 domains),0.56 + 0.44,0.56 + 0.44,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1VVD,1,True,False,1.02,1.02,0.42 + 0.42,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1VVE,1,False,False,1.08,0.52 + 0.42,0.52 + 0.42,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1YUG,1,True,True,1.50,1.50,1.50,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+1ZDA,1,True,True,0.97,0.97,0.97,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2AIT,1,True,True,0.46,0.46,0.46,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2KR6,2,False,False,0.98 + 0.14 (2 domains),2.56 + 1.18,2.56 + 1.18,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2KTF,1,True,True,0.19 (1 domain spanning both segments),0.19,0.19,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2L14,1,True,True,0.69,0.69,0.69,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2PAS,1,True,True,0.65,0.66,0.65,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2PNI,1,True,True,0.41,0.41,0.41,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2RGF,1,True,True,0.50,0.51,0.50,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2SPZ,1,True,True,0.60,0.60,0.60,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+2VIL,1,True,True,0.63,0.63,0.63,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+3EGF,1,True,True,0.85,0.85,0.85,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version
+3MEF,1,True,True,1.46,1.47,1.46,Fig 4 values read from a figure; paper used 2010 PDB files and an earlier CYRANGE version

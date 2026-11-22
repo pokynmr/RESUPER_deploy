@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "resuper"
+version = "1.0.0"
+description = "Ordered regions and superposition ranges in protein ensembles"
+readme = "README.md"
+license = { text = "POKY Academic License or POKY Commercial License (see LICENSE.POKY.ACADEMIC and LICENSE.POKY.COMMERCIAL)" }
+requires-python = ">=3.9"
+dependencies = [
+    "numpy>=1.20",
+    "scipy>=1.7",
+]
+keywords = [
+    "protein structure",
+    "NMR ensemble",
+    "superposition",
+    "rigid domains",
+    "residue ranges",
+]
+classifiers = [
+    "License :: Other/Proprietary License",
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+[project.urls]
+Homepage = "https://poky.clas.ucdenver.edu"
+Repository = "https://github.com/pokynmr/RESUPER_deploy"
+
+[project.scripts]
+resuper = "resuper.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

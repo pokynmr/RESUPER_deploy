@@ -1,0 +1,8 @@
+********************************************
+              CYRANGE (v. 2.0)
+ 
+    Copyright (c) 2002-13 Peter Guntert.
+********************************************
+    PDB coordinate file "err_2KIG_nan_coord.pdb" read, 20 rigid conformers.
+ 
+*** FATAL ERROR: SVDCMP: No convergence in 30 iterations

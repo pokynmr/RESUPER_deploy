@@ -1,0 +1,74 @@
+RMSD validation: 89/89 reported domain RMSDs reproduced to 0.01 A by the recomputation (required before trusting shared-residue RMSDs)
+
+== all proteins: 37 proteins  (A = resuper_default, B = reference_mode)
+   agreement: identical 31, minor boundary differences 4, substantial difference 2
+   same domain count: 36/37; domains A 44, B 45
+   pooled Jaccard: n=37 mean +0.995 median +1.000 min +0.932 max +1.000
+   coverage A: n=37 mean +0.868 median +0.895 min +0.612 max +1.000
+   coverage B: n=37 mean +0.870 median +0.895 min +0.612 max +1.000
+   coverage A - B: n=37 mean -0.001 median +0.000 min -0.043 max +0.068; A higher 1, equal 31, B higher 5
+   matched domain pairs: 44; categories: identical 38, strong 4, partial 2, weak 0
+   delta RMSD (A - B) over matched pairs: n=44 mean -0.030 median +0.000 min -1.960 max +0.600; A lower 2, equal 35, B lower 7
+   unmatched domains: 1 1VVD(reference_mode)
+
+== Set A (deposited-entry stand-ins): 11 proteins  (A = resuper_default, B = reference_mode)
+   agreement: identical 10, substantial difference 1
+   same domain count: 11/11; domains A 13, B 13
+   pooled Jaccard: n=11 mean +0.996 median +1.000 min +0.954 max +1.000
+   coverage A: n=11 mean +0.867 median +0.895 min +0.612 max +0.985
+   coverage B: n=11 mean +0.871 median +0.895 min +0.612 max +0.985
+   coverage A - B: n=11 mean -0.004 median +0.000 min -0.043 max +0.000; A higher 0, equal 10, B higher 1
+   matched domain pairs: 13; categories: identical 12, strong 0, partial 1, weak 0
+   delta RMSD (A - B) over matched pairs: n=13 mean -0.149 median +0.000 min -1.960 max +0.010; A lower 1, equal 10, B lower 2
+   unmatched domains: 0 
+
+== Set B (paper's PDB entries): 26 proteins  (A = resuper_default, B = reference_mode)
+   agreement: identical 21, minor boundary differences 4, substantial difference 1
+   same domain count: 25/26; domains A 31, B 32
+   pooled Jaccard: n=26 mean +0.994 median +1.000 min +0.932 max +1.000
+   coverage A: n=26 mean +0.869 median +0.888 min +0.620 max +1.000
+   coverage B: n=26 mean +0.869 median +0.895 min +0.620 max +1.000
+   coverage A - B: n=26 mean -0.000 median +0.000 min -0.032 max +0.068; A higher 1, equal 21, B higher 4
+   matched domain pairs: 31; categories: identical 26, strong 4, partial 1, weak 0
+   delta RMSD (A - B) over matched pairs: n=31 mean +0.020 median +0.000 min -0.030 max +0.600; A lower 1, equal 25, B lower 5
+   unmatched domains: 1 1VVD(reference_mode)
+
+== reliability standard: 26 proteins  (A = resuper_default, B = reference_mode)
+   agreement: identical 23, minor boundary differences 3
+   same domain count: 26/26; domains A 26, B 26
+   pooled Jaccard: n=26 mean +0.997 median +1.000 min +0.967 max +1.000
+   coverage A: n=26 mean +0.894 median +0.903 min +0.726 max +1.000
+   coverage B: n=26 mean +0.896 median +0.911 min +0.726 max +1.000
+   coverage A - B: n=26 mean -0.002 median +0.000 min -0.032 max +0.000; A higher 0, equal 23, B higher 3
+   matched domain pairs: 26; categories: identical 23, strong 3, partial 0, weak 0
+   delta RMSD (A - B) over matched pairs: n=26 mean +0.001 median +0.000 min -0.030 max +0.010; A lower 1, equal 19, B lower 6
+   unmatched domains: 0 
+
+== reliability lower: 11 proteins  (A = resuper_default, B = reference_mode)
+   agreement: identical 8, minor boundary differences 1, substantial difference 2
+   same domain count: 10/11; domains A 18, B 19
+   pooled Jaccard: n=11 mean +0.988 median +1.000 min +0.932 max +1.000
+   coverage A: n=11 mean +0.808 median +0.845 min +0.612 max +1.000
+   coverage B: n=11 mean +0.807 median +0.845 min +0.612 max +0.975
+   coverage A - B: n=11 mean +0.001 median +0.000 min -0.043 max +0.068; A higher 1, equal 8, B higher 2
+   matched domain pairs: 18; categories: identical 15, strong 1, partial 2, weak 0
+   delta RMSD (A - B) over matched pairs: n=18 mean -0.076 median +0.000 min -1.960 max +0.600; A lower 1, equal 16, B lower 1
+   unmatched domains: 1 1VVD(reference_mode)
+
+== proteins with a substantial difference: 2
+   2D21 (smbp, reliability lower): ndom 2/2, pooled J 0.9535, min pair J 0.5654, overlap within B 117, reference_mode domain 1 merges resuper_default domains [1, 2]
+   1VVD (1vvd, reliability lower): ndom 1/2, pooled J 0.9322, min pair J 0.5085, overlap within B 0, resuper_default domain 1 merges reference_mode domains [1, 2]
+
+== minor boundary differences: 4: 1AEY 1AIW 1PKT 1VVE
+
+== against the real CYRANGE 2.0 reports (1A67, 1ADR)
+   1A67 resuper_default vs CYRANGE: identical, pooled J 1.0
+   1A67 reference_mode vs CYRANGE: identical, pooled J 1.0
+   1ADR resuper_default vs CYRANGE: identical, pooled J 1.0
+   1ADR reference_mode vs CYRANGE: identical, pooled J 1.0
+
+== against the CYRANGE RMSDs printed in the paper's Figure 4 (Set B, approximate: read from a figure, 2010 PDB files, earlier CYRANGE)
+   reference_mode: same domain count and all RMSDs within 0.01 A for 22/26; not matching: 1QO6 1VVD 1VVE 2KR6
+   resuper_default: same domain count and all RMSDs within 0.01 A for 22/26; not matching: 1AIW 1QO6 1VVE 2KR6
+
+Note: 1PKT/2PNI, 1VVD/1VVE and 1CFC/1X02 are pairs of the same protein, so the 37 proteins are not 37 independent observations.

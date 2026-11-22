@@ -1,0 +1,167 @@
+pdb_id,group,class,reasons,n_models,n_residues,severe
+2DKT,B,SUITABLE,no issues,20,143,False
+2DLQ,B,SUITABLE,no issues,20,124,False
+2LQN,B,SUITABLE,no issues,20,303,False
+1C89,A,SUITABLE,no issues,40,134,False
+1EZB,A,SUITABLE,no issues,17,259,False
+1MFN,A,SUITABLE,models differ in non-backbone atoms only,20,184,False
+1NWV,A,SUITABLE,no issues,42,129,False
+1P6T,A,SUITABLE,no issues,30,151,False
+1PCP,A,SUITABLE,no issues,19,106,False
+1PRS,A,SUITABLE,models differ in non-backbone atoms only,30,173,False
+1QRJ,A,SUITABLE,no issues,20,214,False
+1QU6,A,SUITABLE,no issues,21,179,False
+1WPK,A,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (SMC38): each leaves an artificial gap,17,145,False
+1Z87,A,SUITABLE,no issues,15,263,False
+1ZC1,A,SUITABLE,no issues,15,208,False
+1ZWO,A,SUITABLE,no issues,20,177,False
+2BKD,A,SUITABLE,no issues,20,134,False
+2BZM,A,SUITABLE,no issues,26,129,False
+2JZX,A,SUITABLE,no issues,12,160,False
+2K60,A,SCIENTIFICALLY UNSUITABLE,models differ in backbone atoms,20,150,True
+2K7Q,A,SUITABLE,no issues,20,191,False
+2KR7,A,SUITABLE,no issues,20,151,False
+2KUE,A,SUITABLE,no issues,30,135,False
+2L5Q,A,SUITABLE,no issues,20,142,False
+2L5Y,A,SUITABLE,no issues,20,150,False
+2L9Y,A,SUITABLE,no issues,25,167,False
+2LDY,A,SUITABLE,no issues,21,176,False
+2LF4,A,SUITABLE,no issues,20,232,False
+2LQ8,A,SUITABLE,no issues,20,177,False
+2LVA,A,SUITABLE,no issues,20,111,False
+2LYV,A,SUITABLE,no issues,20,196,False
+2M3T,A,SUITABLE,no issues,21,178,False
+2M3U,A,SUITABLE,no issues,21,178,False
+2M7L,A,SUITABLE,no issues,12,144,False
+2MBG,A,SUITABLE,no issues,35,265,False
+2MCY,A,SUITABLE,no issues,20,132,False
+2MOX,A,SUITABLE,no issues,20,143,False
+2MQN,A,SUITABLE,no issues,20,216,False
+2N3F,A,SUITABLE,no issues,10,153,False
+2YH0,A,SUITABLE,no issues,10,195,False
+4B2R,A,SUITABLE,no issues,20,126,False
+4B2S,A,SUITABLE,no issues,20,127,False
+4BHP,A,SUITABLE,no issues,20,209,False
+5JS7,A,SUITABLE,no issues,10,323,False
+6U1O,A,SUITABLE,no issues,12,258,False
+6VED,A,SUITABLE,no issues,20,168,False
+6VEE,A,SUITABLE,no issues,20,184,False
+8B8S,A,SUITABLE,no issues,10,161,False
+2KTL,D,SUITABLE,no issues,12,164,False
+2LD3,D,SUITABLE,no issues,20,88,False
+2LSL,D,SUITABLE,no issues,20,130,False
+2M0E,D,SUITABLE,no issues,20,29,False
+2M0F,D,SUITABLE,no issues,20,29,False
+2MAX,D,SUITABLE,no issues,15,114,False
+2MTN,D,SUITABLE,no issues,20,125,False
+2N51,D,SUITABLE,no issues,20,133,False
+5KP0,D,SUITABLE,no issues,20,140,False
+5UYO,D,SUITABLE,no issues,20,45,False
+5YZ9,D,SUITABLE,no issues,25,99,False
+6EMO,D,SUITABLE,no issues,40,136,False
+6GSE,D,SUITABLE,no issues,20,159,False
+6KVG,D,SUITABLE,no issues,20,256,False
+6MK7,D,SUITABLE,no issues,20,110,False
+6MV3,D,SUITABLE,no issues,20,125,False
+7F7N,D,SUITABLE,no issues,20,126,False
+7JGI,D,SUITABLE,no issues,10,125,False
+7MP7,D,SUITABLE,no issues,10,87,False
+7UH9,D,SUITABLE,no issues,10,125,False
+7UHA,D,SUITABLE,no issues,10,125,False
+7XGA,D,SUITABLE,no issues,20,126,False
+8C18,D,SUITABLE,no issues,20,207,False
+8EPT,D,SUITABLE,no issues,20,90,False
+8OIL,D,SUITABLE,no issues,10,127,False
+8P25,D,SUITABLE,no issues,10,160,False
+8RLZ,D,SUITABLE,no issues,20,78,False
+8Y4Z,D,SUITABLE,no issues,20,114,False
+1SG7,C,SUITABLE,no issues,17,75,False
+1YSE,C,SUITABLE,no issues,20,88,False
+1YSM,C,SUITABLE,no issues,20,55,False
+1Z9E,C,SUITABLE,no issues,15,83,False
+1ZMZ,C,SUITABLE,no issues,20,98,False
+1ZR9,C,SUITABLE,no issues,20,67,False
+1ZYI,C,SUITABLE,no issues,15,116,False
+2DHX,C,SUITABLE,no issues,20,104,False
+2E5Z,C,SUITABLE,no issues,20,90,False
+2E8O,C,SUITABLE,no issues,20,103,False
+2HFQ,C,SUITABLE,no issues,20,85,False
+2HG7,C,SUITABLE,no issues,20,60,False
+2HJJ,C,SUITABLE,no issues,20,66,False
+2HVZ,C,SUITABLE,no issues,20,101,False
+2JN4,C,SUITABLE,no issues,20,66,False
+2JQ4,C,SUITABLE,no issues,20,83,False
+2JQ6,C,SUITABLE,no issues,10,139,False
+2K2D,C,SUITABLE,no issues,15,47,False
+2K3J,C,SUITABLE,no issues,20,65,False
+2K48,C,SUITABLE,no issues,20,107,False
+2KBT,C,SUITABLE,no issues,20,69,False
+2KLD,C,SUITABLE,no issues,10,73,False
+2KLE,C,SUITABLE,no issues,10,73,False
+2L2N,C,SUITABLE,no issues,10,71,False
+2LAP,C,SUITABLE,no issues,15,70,False
+2LC2,C,SUITABLE,no issues,20,108,False
+2LFE,C,SUITABLE,no issues,16,106,False
+2LKI,C,SUITABLE,no issues,20,83,False
+2LTR,C,SUITABLE,no issues,10,105,False
+2LU1,C,SUITABLE,no issues,20,89,False
+2M1S,C,SUITABLE,no issues,10,99,False
+2M2F,C,SUITABLE,no issues,20,62,False
+2M4K,C,SUITABLE,no issues,20,81,False
+2M6N,C,SUITABLE,no issues,20,46,False
+2M7N,C,SUITABLE,no issues,10,68,False
+2MH2,C,SUITABLE,no issues,20,64,False
+2MIZ,C,SUITABLE,models differ in non-backbone atoms only,10,156,False
+2MU2,C,SUITABLE,no issues,20,71,False
+2N4C,C,SUITABLE,no issues,20,64,False
+2ODX,C,SUITABLE,no issues,21,54,False
+2OFG,C,SCIENTIFICALLY UNSUITABLE,models differ in backbone atoms; RESUPER drops residues lacking N/CA/C: X77 X78 X79 X80 X81 X82 X83 X84 X85 X86 X87 X88 X89 X90 X91 X92 X93 X94 X95 X96 X97 X98 X99 X100 X101 X102 X103 X104 X105 X106 X107 X108 X109 X110 X111 X1 X2 X3 X4 X5,30,71,True
+2V6Z,C,SUITABLE,no issues,20,75,False
+2VRG,C,SUITABLE,no issues,20,80,False
+5LCI,C,SUITABLE,no issues,20,88,False
+6MZA,C,SUITABLE,no issues,20,134,False
+1BDE,E,SOFTWARE COMPATIBILITY,2 in-chain non-standard residue(s) skipped by RESUPER (ACE50A NH283): each leaves an artificial gap; insertion codes (RESUPER merges residues sharing a number),20,33,False
+1CKW,E,SUITABLE,no issues,13,25,False
+1DTC,E,SUITABLE,models differ in non-backbone atoms only,12,26,False
+1R7D,E,SUITABLE,no issues,51,31,False
+1YYB,E,SUITABLE,no issues,20,26,False
+1Z64,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH226): each leaves an artificial gap; models differ in non-backbone atoms only,11,25,False
+2K9B,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH234): each leaves an artificial gap,20,33,False
+2KAM,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (FME1): each leaves an artificial gap,20,25,False
+2KDR,E,SUITABLE,no issues,27,28,False
+2L58,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH233): each leaves an artificial gap,20,32,False
+2LAT,E,SUITABLE,no issues,20,37,False
+2LQ0,E,SUITABLE,no issues,20,25,False
+2LQ2,E,SUITABLE,no issues,20,30,False
+2LZQ,E,SUITABLE,no issues,36,26,False
+2MAE,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (SEP303): each leaves an artificial gap,20,25,False
+2MG1,E,SUITABLE,no issues,20,27,False
+2MVJ,E,SUITABLE,no issues,10,26,False
+2NA9,E,SUITABLE,no issues,21,44,False
+2NCS,E,SUITABLE,no issues,20,36,False
+2NCT,E,SUITABLE,no issues,20,36,False
+2RLW,E,SUITABLE,no issues,20,34,False
+2RMF,E,SUITABLE,no issues,20,40,False
+2RMY,E,SUITABLE,no issues,10,34,False
+2RND,E,SUITABLE,no issues,10,34,False
+2YON,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (ACE119): each leaves an artificial gap,10,29,False
+5NAO,E,SUITABLE,no issues,10,35,False
+5U9S,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH226): each leaves an artificial gap,10,25,False
+5U9Y,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH226): each leaves an artificial gap,10,25,False
+6GNZ,E,SUITABLE,no issues,20,27,False
+6WPO,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH226): each leaves an artificial gap,10,25,False
+6YHP,E,SUITABLE,no issues,20,30,False
+6YHX,E,SUITABLE,no issues,20,30,False
+7MMM,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH226): each leaves an artificial gap,20,25,False
+7MN3,E,SOFTWARE COMPATIBILITY,1 in-chain non-standard residue(s) skipped by RESUPER (NH225): each leaves an artificial gap,20,24,False
+7VOZ,E,SUITABLE,no issues,20,29,False
+7YYI,E,SUITABLE,no issues,50,29,False
+7Z08,E,SUITABLE,no issues,50,29,False
+7Z0B,E,SUITABLE,no issues,50,29,False
+7ZBS,E,SUITABLE,no issues,20,25,False
+8AR2,E,SUITABLE,no issues,10,50,False
+9ECL,E,SUITABLE,no issues,21,43,False
+9G7T,E,SUITABLE,no issues,20,25,False
+9LYH,E,SCIENTIFICALLY UNSUITABLE,40% of chain residues non-standard (2KT DAL DBB DBU TEE); RESUPER reads only 15 residues,20,15,True
+9X1F,E,SUITABLE,no issues,20,34,False
+9XFN,E,SCIENTIFICALLY UNSUITABLE,29% of chain residues non-standard (AIB),20,25,True

@@ -1,0 +1,53 @@
+pdb_id,category,decision,pmid,statement_or_reason
+2BW2,A,included,16049010,two domains
+1BBO,A,included,1567844,RMSD reported per zinc finger
+2EW9,A,included,16571664,"two ferredoxin folds, but they move as a unit (partial support)"
+5MS9,A,included,28669633,domains joined by a flexible pivot
+6G81,A,included,30264175,Ni- and Zn-binding domains that reorient
+2V93,A,included,17960247,"two domains, open/closed (PRE-refined ensemble)"
+9FLG,B,included,40324079,disordered regions flank the helix-loop-helix (96–142)
+1HN6,B,included,12270711,N- and C-terminal regions unstructured
+2MCD,B,included,24273131,N-terminal PEST-like region unstructured
+7YWR,B,included,37665006,helix fades after residue 50; 74–84 disordered
+1K9C,B,included,12270713,residues 189–213 disordered
+2K8P,B,included,19208630,"N- and C-terminal arms unstructured, highly flexible"
+2PXG,B,included,18186471,N- and C-termini highly flexible
+2LWR,B,included,23770917,N terminus disordered (A417–I429)
+2KTV,B,included,20553496,C-terminal tail 414–437 flexible (¹⁵N relaxation)
+5NR5,B,included,28879231,N- and C-terminal tails largely disordered
+2N47,B,not included,26121406,no explicit statement about the region
+2LXD,B,not included,22936624,no explicit statement about the region
+2K33,B,not included,19154179,no explicit statement about the region
+1AP8,B,not included,9302999,no explicit statement about the region
+2JY9,B,not included,22422986,no explicit statement about the region
+2RSM,B,not included,22821833,no explicit statement about the region
+1N6Z,B,not included,12717036,no explicit statement about the region
+6X6N,B,not included,35137487,no explicit statement about the region
+1HKO,B,not included,8613986,no explicit statement about the region
+7BWE,B,not included,33744410,no explicit statement about the region
+2K3N,B,not included,19458259,no explicit statement about the region
+2N8X,B,not included,27166502,no explicit statement about the region
+2KXR,B,not included,21240187,no explicit statement about the region
+2JVL,B,not included,19137618,no explicit statement about the region
+2JQV,B,not included,18214976,no explicit statement about the region
+1GXE,B,not included,12787675,no explicit statement about the region
+2K4V,B,not included,23180575,no explicit statement about the region
+2KHL,B,not included,21078128,no explicit statement about the region
+1TWO,B,not included,16289114,no explicit statement about the region
+2LF6,B,not included,22191472,no explicit statement about the region
+2KHC,B,not included,19919093,no explicit statement about the region
+6YI3,B,not included,33264373,no explicit statement about the region
+5H3M,B,not included,28349924,no explicit statement about the region
+1B8T,B,not included,10231520,no explicit statement about the region
+2ECW,B,not included,40757358,citation search returned an unrelated article
+2LHJ,B,not included,,citation search returned an unrelated article
+1WFF,B,not included,,citation search returned an unrelated article
+1UFF,B,not included,17208751,citation search returned an unrelated article
+1WJP,B,not included,25671081,citation search returned an unrelated article
+9Y13,B,not included,29986658,citation search returned an unrelated article
+2E0G,B,not included,42301917,not the primary publication
+2BL5,B,not included,15811367,ambiguous: paper calls the C-terminal helix structured
+1K8V,"(top-ranked, S14)",replaced,12023801,paper: residues up to 13 random coil; RESUPER domain 9..32 includes them (2.54 Å)
+2KDR,helix split (S12),not contradicted (S16),,paper: single amphipathic helix; relative motion of its segments not addressed
+9G7T,helix split (S12),not contradicted (S16),,paper: single alpha-helix; relative motion of its segments not addressed
+2JT8,A,not included,16131667,rule: one RESUPER range not rigid (1.87 Å); N-lobe split not discussed

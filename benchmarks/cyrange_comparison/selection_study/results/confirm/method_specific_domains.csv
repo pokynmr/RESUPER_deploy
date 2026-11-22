@@ -1,0 +1,36 @@
+pdb_id,group,reported_only_by,domain,rmsd,internally_rigid,moves,passes_two_part_check
+1C89,A,resuper_default,2..60,0.45,True,True,True
+1C89,A,resuper_default,73..127,0.39,True,True,True
+1C89,A,reference_mode,2..134,1.37,False,n/a (only domain),False
+2K7Q,A,reference_mode,"1967..1973, 1982..2045",0.5,True,False,False
+2LVA,A,resuper_default,101..110,0.17,True,True,True
+4B2R,A,reference_mode,569..627,0.43,True,True,True
+6KVG,D,resuper_default,"3..31, 44..88",0.37,True,True,True
+6KVG,D,resuper_default,233..240,0.18,True,True,True
+7F7N,D,resuper_default,85..112,0.45,True,n/a (only domain),False
+7F7N,D,reference_mode,15..107,8.04,False,n/a (only domain),False
+8RLZ,D,reference_mode,58..66,1.06,False,True,False
+1ZMZ,C,reference_mode,6..25,4.02,False,True,False
+2JQ6,C,reference_mode,6..17,1.38,False,True,False
+2JQ6,C,reference_mode,19..28,1.26,False,True,False
+2JQ6,C,reference_mode,33..43,0.85,True,True,True
+2KLE,C,reference_mode,774..785,0.24,True,False,False
+2LC2,C,reference_mode,8..22,1.94,False,True,False
+6MZA,C,reference_mode,10..22,1.7,False,True,False
+1R7D,E,resuper_default,18..26,0.21,True,n/a (only domain),False
+1R7D,E,reference_mode,4..26,0.88,True,n/a (only domain),False
+2K9B,E,resuper_default,9..21,0.19,True,n/a (only domain),False
+2K9B,E,reference_mode,6..33,0.96,True,n/a (only domain),False
+2KDR,E,resuper_default,3..12,0.09,True,True,True
+2KDR,E,resuper_default,17..27,0.2,True,True,True
+2KDR,E,reference_mode,3..28,0.74,True,n/a (only domain),False
+2MG1,E,reference_mode,2..14,0.27,True,True,True
+2NCS,E,reference_mode,6..18,0.23,True,False,False
+2RMF,E,resuper_default,6..19,0.31,True,True,True
+2RMF,E,resuper_default,21..32,0.23,True,True,True
+2RMF,E,reference_mode,5..40,1.05,False,n/a (only domain),False
+2RMY,E,resuper_default,23..32,0.15,True,True,True
+7YYI,E,resuper_default,28..38,0.34,True,n/a (only domain),False
+7YYI,E,reference_mode,14..39,1.27,False,n/a (only domain),False
+7Z08,E,reference_mode,15..25,0.34,True,True,True
+9G7T,E,resuper_default,3..11,0.23,True,True,True
